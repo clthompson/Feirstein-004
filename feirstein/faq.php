@@ -137,6 +137,61 @@
 				<div class="split-item">
 					<aside><h5 class="bordeaux">Choose by</h4><h5>topic</h5></aside>
 					<article>
+												<div class="faq-item">
+							<div class="faq-category">
+								<h5>Application</h5><span>&#9662;</span>
+							</div>
+							<div class="faq-questions">
+								<div class="question">
+									<p>
+										<strong>Can I apply to more than one master’s program?</strong>
+									</p>
+									<p class="answer">
+										No. Applicants may apply to only one master’s program. However, applicants to the M.F.A. in Cinema Arts Program may select two disciplines or concentrations on the application form, indicating their first choice.
+									</p>
+								</div>
+								<div class="question">
+									<p>
+										<strong>How much is the application fee?</strong>
+									</p>
+									<p class="answer">
+										The application fee is $125. There is an additional $6 fee for M.F.A. applicants using Slideroom to upload a portfolio.
+									</p>
+								</div>
+								<div class="question">
+									<p>
+										<strong>Do I have to submit official transcripts?</strong>
+									</p>
+									<p class="answer">
+										Yes. Applicants must mail official transcripts from all colleges and universities attended to the Office of Graduate Admissions.
+									</p>
+								</div>
+								<div class="question">
+									<p>
+										<strong>I graduated from a college outside the United States. Do I need to have my transcript evaluated?</strong>
+									</p>
+									<p class="answer">
+										Yes, you need to obtain an international credential evaluation from a professional agency that is a member of <a href="http://www.naces.org"  target="_blank">NACES</a>. However, exceptions are made for <a href="http://www.brooklyn.cuny.edu/web/admissions/graduate/apply/international.php" target="_blank">certain countries</a>.
+									</p>
+								</div>
+								<div class="question">
+									<p>
+										<strong>Can letters of recommendations be submitted electronically?</strong>
+									</p>
+									<p class="answer">
+										Yes. When you apply, register your recommenders in our online application system. Once you submit your application, they will be able to upload their letters electronically to us.
+									</p>
+								</div>
+								<div class="question">
+									<p>
+										<strong>How will I know my application status?</strong>
+									</p>
+									<p class="answer">
+										Soon after you apply you will receive an e-mail from the Office of Graduate Admissions. An e-mail will be sent to you whenever there is a change in your status. You may check the status of your application by contacting the Office of Graduate Admissions Office at 718.951.4536 or by <a href="mailto:mailto:grads@brooklyn.cuny.edu?subject=Application Status">e-mail</a>.
+									</p>
+								</div>
+							</div>
+						</div>
 						<div class="faq-item">
 							<div class="faq-category">
 								<h5>General</h5><span>&#9662;</span>
@@ -144,10 +199,10 @@
 							<div class="faq-questions">
 								<div class="question">
 									<p>
-										<strong>What is the Feirstein Graduate School of Cinema</strong>
+										<strong>What is the Feirstein Graduate School of Cinema?</strong>
 									</p>
 									<p class="answer">
-										The Barry R. Feirstein Graduate School of Cinema at Steiner Studios is the first public graduate school of cinema for New York City, and the only school in the country situated on a working film lot.  The School was formed with the objective of creating a world-class Film School providing affordable access to career opportunities in cinema.  It  is the result of an extensive public-private partnerships.  
+										The Barry R. Feirstein Graduate School of Cinema at Steiner Studios is the first public graduate school of cinema in New York City, and the only school in the country situated on a working film lot. The school was formed with the objective of creating a world-class film school and providing affordable access to career opportunities in cinema. It is the result of extensive public-private partnerships.    
 									</p>
 								</div>
 								<div class="question">
@@ -160,12 +215,20 @@
 								</div>
 								<div class="question">
 									<p>
-										<strong>Where is the Feirstein Graduate School of Cinema located?  How do I get there?</strong>
+										<strong>Where is the school located? How do I get there?</strong>
 									</p>
 									<p class="answer">
-										The Feirstein Graduate School of Cinema is located at 25 Washington Street,Brooklyn, NY 11205 at Steiner Studios.  Upon entering Steiner, 25 Washington it is on the right.  The Feirstein School is located on floors 5 and 6 of the 25 Washington Avenue building., at  the Brooklyn Navy Yard, an area that has become an area of private manufacturing and commercial activity. Today, more than 200 businesses operate at the Yard and employ approximately 5,000 people.
+										The Feirstein Graduate School of Cinema is located at 25 Washington Street in Brooklyn, at Steiner Studios in the Brooklyn Navy Yard. Upon entering Steiner, 25 Washington is on the right, and the school is located on the fifth and sixth floors. The Brooklyn Navy Yard has become an area of private manufacturing and commercial activity. Today, more than 200 businesses operate at the yard and employ approximately 5,000 people.
 										<br><br>
-										Directions to The Feirstein Graduate School of Cinema at Steiner Studios are available <a href="http://www.steinerstudios.com/directions/" target="_blank">here</a>.
+										<a href="http://www.steinerstudios.com/directions/" target="_blank">Directions to The Feirstein Graduate School of Cinema at Steiner Studios</a>
+									</p>
+								</div>
+								<div class="question">
+									<p>
+										<strong>Can I visit the school?</strong>
+									</p>
+									<p class="answer">
+										We will be offering tours of the facility in the upcoming months; it is currently under construction and off limits to visitors. If you would like to sign up for a tour, please <a href="mailto:Feirstein@brooklyn.cuny.edu?subject=Tour Request">e-mail us</a> and include "Tour Request" in the subject line.
 									</p>
 								</div>
 								<div class="question">
@@ -173,94 +236,7 @@
 										<strong>Will classes be offered at the Brooklyn College campus in Flatbush?</strong>
 									</p>
 									<p class="answer">
-										No, all classes offered at the Feirstein Graduate School of Cinema will be held at the school’s facility at Steiner Studios.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="faq-item">
-							<div class="faq-category">
-								<h5>Admissions</h5><span>&#9662;</span>
-							</div>
-							<div class="faq-questions">
-								<div class="question">
-									<p>
-										<strong>Can I apply to more than one Master’s program?</strong>
-									</p>
-									<p class="answer">
-										No, applicants may only apply to one Master’s program. However, applicants to the MFA Cinema Arts program may select two disciplines/concentrations on the application form, indicating their first choice.
-									</p>
-								</div>
-								<div class="question">
-									<p>
-										<strong>How will I know my application status?</strong>
-									</p>
-									<p class="answer">
-										Soon after you apply you will receive an email from the Office of Graduate Admissions. You will then be able to check your application status online. An email will be sent to you whenever there is a change in your status.
-									</p>
-								</div>
-								<div class="question">
-									<p>
-										<strong>I graduated from a college outside the United States. Do I need to have my transcript evaluated?</strong>
-									</p>
-									<p class="answer">
-										Yes, you need to obtain an international credential evaluation from a professional agency that is a member of <a href="http://www.naces.org" target="_blank">NACES</a>. Exceptions are made for countries listed <a href="http://www.brooklyn.cuny.edu/web/admissions/graduate/apply/international.php" target="_blank">here</a>.
-
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="faq-item">
-							<div class="faq-category">
-								<h5>Application</h5><span>&#9662;</span>
-							</div>
-							<div class="faq-questions">
-								<div class="question">
-									<p>
-										<strong>How much is the application fee?</strong>
-									</p>
-									<p class="answer">
-										The graduate application fee is $125. There is an additional $6 fee for MFA applicants using Slideroom to upload a portfolio.
-									</p>
-								</div>
-								<div class="question">
-									<p>
-										<strong>Do I have to submit official transcripts?</strong>
-									</p>
-									<p class="answer">
-										Yes, applicants must mail official transcripts from all colleges and universities attended to the Office of Graduate Admissions.
-									</p>
-								</div>
-								<div class="question">
-									<p>
-										<strong>Can letters of recommendations be submitted electronically?</strong>
-									</p>
-									<p class="answer">
-										Yes, when you apply, register your recommenders in our online application system. Once you submit your application they will be able to upload their letters electronically to us.
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="faq-item">
-							<div class="faq-category">
-								<h5>Miscellaneous</h5><span>&#9662;</span>
-							</div>
-							<div class="faq-questions">
-								<div class="question">
-									<p>
-										<strong>Can I visit the school?</strong>
-									</p>
-									<p class="answer">
-										We will be offering tours of the facility in the upcoming months; it is currently under construction and off limits to visitors.<br><br>
-										If you would like to sign up for a tour, please email <a href="mailto:Feirstein@brooklyn.cuny.edu?subject=Tour Request">feirstein@brooklyn.cuny.edu</a> and include "Tour Request" in the subject of your email.
-									</p>
-								</div>
-								<div class="question">
-									<p>
-										<strong>How do I check the status of my application?</strong>
-									</p>
-									<p class="answer">
-										You may check the status of your application by contacting the <a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Graduate Admissions Office</a>, or by emailing <a href="mailto:grads@brooklyn.cuny.edu?subject=Application Status">grads@brooklyn.cuny.edu</a>
+										No. All classes offered at the Feirstein Graduate School of Cinema will be held at the school’s facility at Steiner Studios.
 									</p>
 								</div>
 								<div class="question">
@@ -268,15 +244,15 @@
 										<strong>Will the Feirstein School offer career advisement and counseling?</strong>
 									</p>
 									<p class="answer">
-										Yes, as part of Brooklyn College, Feirstein students have full access to all of our resources, including the Magner Center, which offers career counseling, access to internships and job opportunities.
+										Yes. As part of Brooklyn College, Feirstein students have full access to all of our resources, including the <a href="http://www.brooklyn.cuny.edu/web/academics/centers/magner.php"  target="_blank">Magner Career Center</a>, which offers career counseling, access to internships and job opportunities.
 									</p>
 								</div>
 								<div class="question">
 									<p>
-										<strong>Is there on campus housing?</strong>
+										<strong>Is there on-campus housing?</strong>
 									</p>
 									<p class="answer">
-										No, we do not offer housing at the Feirstein Graduate School.  Students are expected to arrange their own accommodation.
+										No. We do not offer housing. Students are expected to arrange their own accommodation.
 									</p>
 								</div>
 							</div>
