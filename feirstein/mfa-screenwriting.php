@@ -157,8 +157,7 @@
 				</div>
 			</div>
 			<div class="text">
-				<h4 class="smaller">Program</h4>
-				<h5>Description</h5>
+				<h4 class="smaller">Screenwriting</h4>
 			</div>
 		</div>
 		<p>Screenwriting requires creativity and discipline. Effective storytelling is built on a solid understanding of the screenwriter’s craft, including story structure, plot, characterization, scene development and dialogue. But ultimately it is about ideas. Through the study of cinema history and the participation in workshops in production and post-production, screenwriting students will gain an appreciation for the broader concerns of filmmaking. Being closely associated with the M.F.A. students will afford you the opportunity to pitch scripts for production. As part of the two-semester thesis sequence, the program will culminate in the completion of two feature-length screenplays.</p>

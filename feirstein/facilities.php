@@ -126,12 +126,12 @@
 </section>
 <section class="facilities-intro">
 	<div class="right">
-		<h4 class="smaller">Built from the ground up</h4>
-		<p>The Feirstein Graduate School of Cinema is housed in a brand new 68,000 sq. ft. facility, purpose-built for a 21st Century Film School. Our entirely digital production and post-production environment offers the most current and state-of-the-art workspaces, studios, stages and equipment, affording students the opportunity to study and create in a fully professional setting.</p>
+		<h4 class="smaller">Built From the Ground Up</h4>
+		<p>The Feirstein Graduate School of Cinema is housed in a brand-new 68,000-square-foot facility, purpose-built for a 21st-century film school. Our entirely digital production and post-production environment offers the most current and state-of-the-art workspaces, studios, stages and equipment, affording students the opportunity to create in a fully professional setting.</p>
 	</div>
 	<div class="left">
-		<h4 class="smaller">68,000 SQ. FT</h4>
-		<h5>state of the art facilities</h5>
+		<h4 class="smaller">68,000-Square-Foot</h4>
+		<h5>state-of-the-art facility</h5>
 	</div>
 </section>
 <section class="facilities-grid">
@@ -139,7 +139,7 @@
 		<div class="item">
 			<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/facilities-icons/facilities_soundstage.png">
 			<h5>Soundstage</h5>
-			<span>4,000 sq. ft.</span>
+			<span>4,000 square feet</span>
 		</div>
 		<div class="item">
 			<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/facilities-icons/facilities_construction.png">
@@ -288,7 +288,7 @@
 						Brooklyn, NY 11210
 					</p>
 					<p>
-						<i class="fa fa-phone"></i> 718.951.5001<br>
+						<i class="fa fa-phone"></i> 718.951.4536<br>
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>

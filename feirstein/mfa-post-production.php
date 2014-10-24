@@ -157,8 +157,7 @@
 				</div>
 			</div>
 			<div class="text">
-				<h4 class="smaller">Program</h4>
-				<h5>Description</h5>
+				<h4 class="smaller">Post-Production</h4>
 			</div>
 		</div>
 		<p>It has been said that a movie is made three times: in the writing, in the shooting and in the cutting. The responsibility of the editor is to give shape and rhythm to the film, bringing the creative process to completion. As a post-production student you will learn the technical, aesthetic and collaborative process of filmmaking. Apart from picture editing, you will develop an understanding of sound design, the use of Foley, ADR and music editing. In addition, courses will cover digital media integration, workflow management and post-production supervision. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>

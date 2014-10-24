@@ -147,7 +147,7 @@
 										<strong>Can I apply to more than one master’s program?</strong>
 									</p>
 									<p class="answer">
-										No. Applicants may apply to only one master’s program. However, applicants to the M.F.A. in Cinema Arts Program may select two disciplines or concentrations on the application form, indicating their first choice.
+										No. Applicants may apply to only one master’s program. However, applicants to the M.F.A. in Cinema Arts Program may select two disciplines on the application form, indicating their first choice.
 									</p>
 								</div>
 								<div class="question">
@@ -299,7 +299,7 @@
 						Brooklyn, NY 11210
 					</p>
 					<p>
-						<i class="fa fa-phone"></i> 718.951.5001<br>
+						<i class="fa fa-phone"></i> 718.951.4536<br>
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>

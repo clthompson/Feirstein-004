@@ -163,7 +163,7 @@
 			<div class="button requirement active">
 			<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/admissions-icons/requirements.png" alt="Requirements">
 			</div> 
-			<p> Requirements for  Application</p>
+			<p> Requirements for Application</p>
 		</div>
 		<div class="item">
 			<div class="button international">
@@ -293,42 +293,18 @@
 				<aside><h5>Tuition<br>and fees</h5></aside>
 				<article>
 					<h5>TUITION AND FEES FOR ACADEMIC YEAR 2015 – 2016*</h5>
-					<strong>Master of Fine Arts (M.F.A.)</br>
-						Full-time only</strong>
-					<p>New York State Residents Tuition and Fees <em>per semester</em>: $9,200<br>
-						Non-Resident and International Student Tuition and Fees <em>per semester</em>: $13,495</p>
-					<p><em>Note: M.F.A. students should expect to incur production and related costs over and above facilities and equipment that is reasonably provided by the school.</em></p>
-					<strong>Master of Arts (M.A.)</br>
-						Full time</strong>
-					<p>NY State Residents Tuition and Fees <em>per semester</em>: $5,065<br>
-						Non-Resident and International Student Tuition and Fees <em>per semester</em>: $9,360</p>
-					<strong>Master of Arts (M.A.)</br>
-						Part-time</strong>
-					<p>NY State Residents Tuition <em>per credit</em>: $425
-						<br>Non-Resident and International Student Tuition <em>per credit</em>: $780</p>
-					<p><em>*Tuition and fees are subject to change without notice, pursuant to City University Board of Trustees resolution.</em></p>
-					<strong>Student Fees</strong>
-					<p>Students pay fees for each term in which they enroll.</p>
-					<table><tr><td>TABLE</td></tr></table>
-					<strong>Other Applicable Tuition Rates and Fees</strong>
-					<table><tr><td>TABLE</td></tr></table>
-					<strong>Liability Charge</strong>
-					<p>Students who withdraw from classes during the semester are liable for all or part of the original tuition charge, plus the Student Activity, CUNY Consolidated Services and Technology fees. Please refer to the semester's tuition liability schedule for the liability amount.</p>
-					<strong>Materials</strong>
-					<p>Some courses entail a fee to cover the costs of special materials, film rental charges, transportation, field trip expenses or other non-instructional costs. Material fees are subject to change and are nonrefundable.</p>
-					<strong>Graduate Students Taking Undergraduate Courses</strong>
-					<p>Graduate students enrolling in undergraduate courses as part of their graduate program and are receiving graduate credit pay the applicable graduate rate. Students taking undergraduate courses and receiving undergraduate credit pay the applicable undergraduate rate.</p>
-					<strong>Non-Instructional Fees</strong>
-					<table><tr><td>TABLE</td></tr></table>
-					<h5>Definitions and Classifications</h5>
-					<strong>New York State Residency Requirements</strong>
-					<p>For further information on establishing New York State residency, please visit the <ahref="http://www.brooklyn.cuny.edu/web/admissions/apply/residency.php" target="_blank">Residency Information and Procedures page</a>.</p>
-					<strong>Full-time Students</strong>
-					<p>Matriculated students who are enrolled for 12 or more credits or the equivalent a term are classified as full-time students.</p>
-					<strong>Part-time Students</strong>
-					<p>Students who are enrolled for fewer than 12 credits or the equivalent a term are classified as part-time students.</p>
-					<p>All courses taken by part-time students are billed on a per-credit basis except compensatory, developmental, and remedial courses, which are billed on a contact-hour basis. The Schedule of Classes published each term lists these courses.</p>
-					<p><em>The tuition charged part-time students on a per-credit basis in any one term may not exceed the term rate for full-time students.</em></p>
+					<strong>Master of Fine Arts (M.F.A.), Full-time only</strong>
+					<p>NY State Residents Tuition and Fees per semester: $9,200<br>Non-Resident and International Student Tuition and Fees per semester: $13,495</p>
+					<p>Note: M.F.A. students should expect to incur production and related costs over and above facilities and equipment that is reasonably provided by the school.</p>
+
+					<strong>Master of Arts (M.A.), Full time</strong>
+					<p>NY State Residents Tuition and Fees per semester: $5,065<br>Non-Resident and International Student Tuition and Fees per semester: $9,360</p>
+
+					<strong>Master of Arts (M.A.), Part-time</strong>
+					<p>NY State Residents Tuition: $425 per credit<br>Non-Resident and International Student Tuition: $780 per credit</p>
+					<p>For a complete list of Brooklyn College Graduate Tuition and Fees, please visit <a href="http://www.brooklyn.cuny.edu/web/about/offices/bursar/tuition/graduate.php" atrget="_blank">this page</a>.</p>
+
+					<p><em>*Tuition and Fees are subject to change without notice pursuant to City University Board of Trustees resolution</em></p>
 				</article>
 			</div>
 		</div>
@@ -416,9 +392,10 @@
 	</div>
 </footer>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
-	<script src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/js/app.min.js"></script>
+	<script src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/js/app.js"></script>
 
 	
 <script>window.App.admissions.run()</script>
+
   </body>
 </html>

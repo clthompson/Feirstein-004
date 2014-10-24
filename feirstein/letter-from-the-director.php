@@ -140,13 +140,14 @@
 		<div class="inner-wrap">
 			<div class="letter">
 				<h5>You are here because you want to be a filmmaker.</h5>
-				<p>The Feirstein Film School was built to provide you the opportunity to learn the art and craft of filmmaking. Whether your interest is in Directing, Producing, Cinematography, Screenwriting, Post-Production or Digital Arts, Feirstein will provide an environment where you can develop the courage and confidence to discover your voice as a filmmaker. At Feirstein you will participate in a collaborative experience where each and every one of you will be engaged in a creative endeavor that will enable you to express your ideas, tell your stories, and follow the lights in your head.  But you should know at the outset that filmmaking requires discipline and commitment.  You will be expected to dig deep to uncover the content of your imagination, to bring forth fresh and original ideas. You will also need a strong work ethic and sense of discipline to get to the place where your imagination can find form in aesthetically compelling ways.  That is the beauty of filmmaking:  it is a dialectic of individual creativity and group collaboration, the capacity to communicate and the ability to be still, the willingness to take risks and the discipline to learn the rules of the game.</p>
-				<p>Feirstein offers a unique opportunity to go to film school on a working film lot.  Our campus is Steiner Studios, the largest soundstage complex on the east coast.  From the moment you arrive here you will be immersed in filmmaking in a facility that is second to none.  Built from the ground up to meet the demands of 21st century production and post-production, we offer a state of the art facility outfitted with the most up-to-date digital equipment and technology.  But tools do not make art, ideas and imagination do.</p>
-				<p>Essential to becoming a filmmaker is a deep understanding of the history of the last 100 years of our art form.  As a Cinema Studies student, you will become steeped in the history and theory of cinema over the course of your masters degree and deepen your knowledge within the context of a larger community of filmmakers and cinema scholars.  As a Cinema Arts student, an intimate familiarity with cinema history will underpin everything you do as a practitioner.  I cannot stress enough the importance of developing a critical understanding of cinema both within and without the classroom.</p>
-				<p>So, if you have an abiding love of cinema and a commitment to challenge the prevailing political, cultural and aesthetic conventions, and the urge to give expression to your creativity, I strongly encourage you to consider Feirstein.  I look forward to seeing you next Fall.
-				</p>
+				<p>The Feirstein Film School was built to provide you the opportunity to learn the art and craft of filmmaking. Whether your interest is in directing, producing, cinematography, screenwriting, post-production or digital arts, Feirstein will provide an environment where you can develop the courage and confidence to discover your voice as a filmmaker. At Feirstein you will participate in a collaborative experience where you will be engaged in a creative endeavor that will enable you to express your ideas, tell your stories, and follow the lights in your head. But you should know at the outset that filmmaking requires discipline and commitment. You will be expected to dig deep to uncover the content of your imagination, to bring forth fresh and original ideas. You will also need a strong work ethic and sense of discipline to get to the place where your imagination can find form in aesthetically compelling ways. That is the beauty of filmmaking: It is a dialectic of individual creativity and group collaboration, the capacity to communicate and the ability to be still, the willingness to take risks and the discipline to learn the rules of the game.</p>
+				<p>Feirstein offers a unique opportunity to go to film school on a working film lot. Our campus is Steiner Studios, the largest soundstage complex on the East Coast. From the moment you arrive here you will be immersed in filmmaking in a facility that is second to none. Built from the ground up to meet the demands of 21st-century production and post-production, we offer a state-of-the-art facility outfitted with the most up-to-date digital equipment and technology. But tools do not make art; ideas and imagination do.</p>
+				<p>Essential to becoming a filmmaker is a deep understanding of the history of the last 100 years of our art form. As a cinema studies student, you will become steeped in the history and theory of cinema over the course of your master’s degree and deepen your knowledge within the context of a larger community of filmmakers and cinema scholars. As a cinema arts student, an intimate familiarity with cinema history will underpin everything you do as a practitioner. I cannot stress enough the importance of developing a critical understanding of cinema both within and without the classroom.</p>
+				<p>So, if you have an abiding love of cinema and a commitment to challenge the prevailing political, cultural and aesthetic conventions, and the urge to give expression to your creativity, I strongly encourage you to consider Feirstein. I look forward to seeing you next fall.</p>
 				<p>
-				<strong class="bordeaux name">Jonathan Wacks</strong>
+				<strong class="bordeaux name">Jonathan Wacks</br>
+					Founding Director and Professor</br>
+					Barry R. Feirstein Graduate School of Cinema</strong>
  				</p>
  				<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/jonathan-wacks-signature.png" alt="Jonathan Wacks Signature"/>
 			</div>
@@ -182,7 +183,7 @@
 						Brooklyn, NY 11210
 					</p>
 					<p>
-						<i class="fa fa-phone"></i> 718.951.5001<br>
+						<i class="fa fa-phone"></i> 718.951.4536<br>
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>

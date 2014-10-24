@@ -157,8 +157,7 @@
 				</div>
 			</div>
 			<div class="text">
-				<h4 class="smaller">Program</h4>
-				<h5>Description</h5>
+				<h4 class="smaller">Cinema Studies</h4>
 			</div>
 		</div>
 		<p>No longer is cinema simply projected images in a darkened room. Now filmmakers create work that is viewed on multiple devices and platforms from TV screens to smartphones. The purpose of the M.A. in cinema studies is to a provide students with a comprehensive education in cinema history, theory, criticism and aesthetics and to encourage the scholarly exploration of cinema as a form of art and a means of social communication. But you will also be prepared to engage with the rapidly changing media landscape through an understanding of its broadest aesthetic and cultural implications.</p>
@@ -225,7 +224,7 @@
 						Brooklyn, NY 11210
 					</p>
 					<p>
-						<i class="fa fa-phone"></i> 718.951.5001<br>
+						<i class="fa fa-phone"></i> 718.951.4536<br>
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>

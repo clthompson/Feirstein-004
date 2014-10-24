@@ -157,8 +157,7 @@
 				</div>
 			</div>
 			<div class="text">
-				<h4 class="smaller">Program</h4>
-				<h5>Description</h5>
+				<h4 class="smaller">Directing</h4>
 			</div>
 		</div>
 		<p>Directing is part art and part craft but mostly imagination. It requires organizational skills, discipline, leadership and collaboration. To be an effective director, all these pieces must cohere in service of projecting a compelling story on the screen. As a directing student you will learn all aspects of filmmaking, from directing actors to directing camera, cinematography, screenwriting and post-production. But most importantly you will develop the courage and confidence to take risks and express your personal creative vision as a filmmaker. As part of the two-semester thesis sequence, the program will culminate in the collaborative production of a 15- to 20-minute narrative film.</p>

@@ -157,8 +157,7 @@
 				</div>
 			</div>
 			<div class="text">
-				<h4 class="smaller">Our</h4>
-				<h5>Students</h5>
+				<h4 class="smaller">Cinematography</h4>
 			</div>
 		</div>
 		<p>The great Russian director Andrei Tarkovsky is credited with describing cinematography as “painting with light.” Cinematography is also about capturing movement, rhythm and composing aesthetically pleasing sequences. Developing this level of creativity requires technical knowledge and a mastery of the craft and, most importantly, the ability to translate a screenplay into visually compelling images. As a cinematography student you will learn all aspects of the art and craft of visual storytelling. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>

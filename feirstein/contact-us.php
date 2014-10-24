@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -137,7 +136,7 @@
 				<strong>Office of Graduate Admissions</strong><br>
 				2900 Bedford Avenue<br>
 				Brooklyn, NY 11210<br>
-				<i class="fa fa-phone"></i>718.951.5001<br>
+				<i class="fa fa-phone"></i>718.951.4536<br>
 				<i class="fa fa-fax"></i>718.951.5076<br>
 				<i class="fa fa-envelope"></i><a href="mailto:grads@brooklyn.cuny.edu">grads@brooklyn.cuny.edu</a>
 			</p>
@@ -195,7 +194,7 @@
 						Brooklyn, NY 11210
 					</p>
 					<p>
-						<i class="fa fa-phone"></i> 718.951.5001<br>
+						<i class="fa fa-phone"></i> 718.951.4536<br>
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>

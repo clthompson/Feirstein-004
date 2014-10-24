@@ -157,8 +157,7 @@
 				</div>
 			</div>
 			<div class="text">
-				<h4 class="smaller">Program</h4>
-				<h5>Description</h5>
+				<h4 class="smaller">Producing</h4>
 			</div>
 		</div>
 		<p>At the top of the filmmaking hierarchy is the producer. He or she develops the screenplay and secures the financing, hires the crew, and manages physical production. In short, the producer takes a movie from script to screen. In the increasingly complex, technologically driven media environment, learning to produce for new and emerging media, in addition to cinema and television, is an essential competency for a producer. As a producing student you will graduate prepared to lead a team in a creative and collaborative manner. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>

@@ -300,7 +300,7 @@
 						Brooklyn, NY 11210
 					</p>
 					<p>
-						<i class="fa fa-phone"></i> 718.951.5001<br>
+						<i class="fa fa-phone"></i> 718.951.4526<br>
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>
