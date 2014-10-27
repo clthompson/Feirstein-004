@@ -7816,7 +7816,9 @@ html {
   padding-bottom: 0em;
 }
 
-
+.boldedcopy {
+  font-weight: bolder;
+}
 
 /* duplicate style to get the padding to work */
 .homepage-hero .overlay .homepage-hero-introduction .content {

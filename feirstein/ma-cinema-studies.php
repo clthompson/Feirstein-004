@@ -205,7 +205,7 @@
 		<strong>Capstone (3 credits)</strong>
 		<p>Students must complete <em>either</em> of the following courses:</p>
 		<ul>
-			<li>Comprehensive Examination – Supervised Reading, <em>or</em></li>
+			<li>Comprehensive Examination – Supervised Reading, <span class="boldedcopy"><em>or</em></span></li>
 			<li>Thesis Development</li>
 		</ul>
 	</div>
