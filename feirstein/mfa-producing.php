@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Producing</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,8 +14,8 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Feirstein Graduate School of Cinema - Brooklyn College">
-	<meta itemprop="description" content="The Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Producing">
+	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
 	<!-- Facebook Meta -->
@@ -52,7 +52,6 @@
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="-----icons/apple-touch-icon-57-precomposed.png">
 
 	<link rel="home" href="http://www.brooklyn.cuny.edu" />
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
 
 <!-- start Mixpanel -->
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -160,7 +159,7 @@
 				<h4 class="smaller">Producing</h4>
 			</div>
 		</div>
-		<p>At the top of the filmmaking hierarchy is the producer. He or she develops the screenplay and secures the financing, hires the crew, and manages physical production. In short, the producer takes a movie from script to screen. In the increasingly complex, technologically driven media environment, learning to produce for new and emerging media, in addition to cinema and television, is an essential competency for a producer. As a producing student you will graduate prepared to lead a team in a creative and collaborative manner. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>
+		<p>At the top of the filmmaking hierarchy is the producer. He or she develops the screenplay and secures the finance, hires the crew, and manages physical production. In short, the producer takes a movie from script to screen. In the increasingly complex, technologically driven media environment, learning to produce for new and emerging media, in addition to cinema and television, is an essential competency for a producer. As a producing student you will graduate prepared to lead a team in a creative and collaborative manner. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
 			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6></div></div>
@@ -171,45 +170,45 @@
 		<h5>Requirements (66 credits)</h5>
 		<strong>Semester 1 (12 credits)</strong>
 		<ul>
-			<li>World Cinema to 1960</li>
-			<li>Production Workshop 1</li>
-			<li>Narrative Structure</li>
 			<li>Integrated Media</li>
+			<li>Narrative Structure</li>
+			<li>Production Workshop 1</li>
+			<li>World Cinema to 1960</li>
 		</ul>
 		<strong>Semester 2 (12 credits)</strong>
 		<ul>
-			<li>World Cinema 1960 to the present</li>
 			<li>Post-Production Workshop</li>
-			<li>Script Analysis and Development</li>
 			<li>Producing Symposium</li>
+			<li>Script Analysis and Development</li>
+			<li>World Cinema 1960 to the present</li>
 		</ul>
 		<strong>Semester 3 (12 credits)</strong>
 		<ul>
-			<li>Process of Producing</li>
-			<li>Pre-Production and Production Management</li>
 			<li>Distribution and Exhibition</li>
+			<li>Pre-Production and Production Management</li>
+			<li>Process of Producing</li>
 			<li>Producing for New Media</li>
 		</ul>
 		<strong>Semester 4 (12 credits)</strong>
 		<ul>
+			<li>Finance for Film and Other Media</li>
 			<li>Post-production Supervision</li>
 			<li>Production Workshop 4</li>
-			<li>Finance for Film and Other Media</li>
 			<li>Thesis Project Development</li>
 		</ul>
 		<strong>Semester 5 (9 credits)</strong>
 		<ul>
 			<li>Thesis 1: Final Project — Production</li>
-			<li>Choose one elective</li>
+			<li>Choice of one elective course*</li>
 		</ul>
 		<strong>Semester 6 (9 credits)</strong>
 		<ul>
 			<li>Thesis 2: Final Project — Post-Production</li>
+			<li>Choice of one elective course*</li>
 			<li>Portfolio Development</li>
-			<li>Choose one elective</li>
 		</ul>
-		<strong>Electives (24 credits)</strong>
-		<p>Courses may include:</p>
+		<strong>Electives</strong>
+		<p>* Elective courses may include:</p>
 		<ul>
 			<li>The Art of Motion Capture</li>
 			<li>Assistant Directing</li>

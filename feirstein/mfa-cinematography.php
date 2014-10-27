@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Cinematography</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,8 +14,8 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Feirstein Graduate School of Cinema - Brooklyn College">
-	<meta itemprop="description" content="The Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Cinematography">
+	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
 	<!-- Facebook Meta -->
@@ -52,7 +52,6 @@
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="-----icons/apple-touch-icon-57-precomposed.png">
 
 	<link rel="home" href="http://www.brooklyn.cuny.edu" />
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
 
 <!-- start Mixpanel -->
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -160,7 +159,7 @@
 				<h4 class="smaller">Cinematography</h4>
 			</div>
 		</div>
-		<p>The great Russian director Andrei Tarkovsky is credited with describing cinematography as “painting with light.” Cinematography is also about capturing movement, rhythm and composing aesthetically pleasing sequences. Developing this level of creativity requires technical knowledge and a mastery of the craft and, most importantly, the ability to translate a screenplay into visually compelling images. As a cinematography student you will learn all aspects of the art and craft of visual storytelling. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>
+		<p>The great Russian director Andrei Tarkovsky is credited with describing cinematography as “painting with light.” Cinematography is also about capturing movement and rhythm, and composing aesthetically pleasing sequences. Developing this level of creativity requires technical knowledge and a mastery of the craft and, most importantly, the ability to translate a screenplay into visually compelling images. As a cinematography student you will learn all aspects of the art and craft of visual storytelling. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
 			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6></div></div>
@@ -171,50 +170,49 @@
 		<h5>Requirements (66 credits)</h5>
 		<strong>Semester 1 (12 credits)</strong>
 		<ul>
-			<li>World Cinema to 1960</li>
-			<li>Production Workshop 1</li>
-			<li>Narrative Structure</li>
 			<li>Integrated Media</li>
+			<li>Narrative Structure</li>
+			<li>Production Workshop 1</li>
+			<li>World Cinema to 1960</li>
 		</ul>
 		<strong>Semester 2 (12 credits)</strong>
 		<ul>
-			<li>World Cinema 1960 to the present</li>
-			<li>Post-production Workshop</li>
-			<li>Cinematography 1</li>
 			<li>Cinema Aesthetics</li>
+			<li>Cinematography 1</li>
+			<li>Post-production Workshop</li>
+			<li>World Cinema 1960 to the present</li>
 		</ul>
 		<strong>Semester 3 (12 credits)</strong>
 		<ul>
 			<li>Cinematography 2</li>
-			<li>Post-roduction Workshop</li>
-			<li>Script Analysis and Development</li>
 			<li>Digital Media Integration</li>
+			<li>Post-production Workshop 3</li>
+			<li>Script Analysis and Development</li>
 		</ul>
 		<strong>Semester 4 (12 credits)</strong>
 		<ul>
 			<li>Cinematography 3</li>
 			<li>Production Workshop 4</li>
-			<li>Advanced Directing Workshop</li>
+			<li>Thesis Project Development </li>
 			<li>Visual Effects</li>
 		</ul>
 		<strong>Semester 5 (9 credits)</strong>
 		<ul>
 			<li>Thesis 1: Final Project — Production</li>
-			<li>Choose one elective</li>
+			<li>Choice of one elective*</li>
 		</ul>
 		<strong>Semester 6 (9 credits)</strong>
 		<ul>
-			<li>Thesis 2: Final Project — Post-Production</li>
-			<li>Portfolio Development</li>
+			<li>Thesis 2: Final Project — Post-production</li>
 			<li>Cinematography 4</li>
+			<li>Portfolio Development</li>
 		</ul>
-		<strong>Electives (24 credits)</strong>
-		<p>Courses may include:</p>
+		<strong>Electives</strong>
+		<p>* Elective courses may include:</p>
 		<ul>
 			<li>The Art of Motion Capture</li>
 			<li>Assistant Directing</li>
 			<li>Cinema on the Edge</li>
-			<li>Digital Media Integration</li>
 			<li>Documentary Production</li>
 			<li>Experimental Film</li>
 			<li>Film Directors</li>

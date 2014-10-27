@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Letter from the Director</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,8 +14,8 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Feirstein Graduate School of Cinema - Brooklyn College">
-	<meta itemprop="description" content="The Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema">
+	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
 	<!-- Facebook Meta -->

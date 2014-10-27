@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Academics</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,8 +14,8 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Feirstein Graduate School of Cinema - Brooklyn College">
-	<meta itemprop="description" content="The Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Academics">
+	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
 	<!-- Facebook Meta -->
@@ -52,7 +52,6 @@
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="-----icons/apple-touch-icon-57-precomposed.png">
 
 	<link rel="home" href="http://www.brooklyn.cuny.edu" />
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
 
 <!-- start Mixpanel -->
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -159,9 +158,24 @@
 		<h4 class="light-blue smaller">A curriculum for the 21<span class="sup">st</span> Century</h4>
 	</div>
 	<div class="description">
-		<h5>Masters Programs in Cinema</h5>
-		<p>The Feirstein Graduate School of Cinema offers two degree programs: a Master of Arts (MA) in Cinema Studies and a Master of Fine Arts (MFA) in Cinema Arts. The MA is a 2-year course of study offered on a full-time or part-time basis. The MFA is a 3-year program that accepts students on a full time basis only. The Feirstein School is dedicated to cultivating new and emerging voices in cinema in a diverse and inclusive learning environment.</p>
-		<p>Students are admitted to the program in one of the below disciplines. Although classes are offered across the different disciplines to provide a rounded education, once accepted into a specific filmmaking discipline, students are not permitted to switch.</p>
+		<p>The Feirstein Graduate School of Cinema is dedicated to cultivating new and emerging voices in cinema in a diverse and inclusive learning environment. The school offers two degree programs: the master of arts (M.A.) in cinema studies and the master of fine arts (M.F.A.) in cinema arts.</p>
+		<h5>M.A. in Cinema Studies</h5>
+		<p>The master of arts in cinema studies is a two-year program offered on a full- or part-time basis. The program:</p>
+		<ul>
+			<li>offers a comprehensive education in cinema history, theory, criticism and aesthetics; and</li>
+			<li>encourages the scholarly exploration of cinema as a form of art and a social communication.</li>
+		</ul>
+		<h5>M.F.A. in Cinema Arts</h5>
+		<p>The master of fine arts in cinema arts is a three-year program that accepts students on a full-time basis only. It offers a highly specialized education in a collaborative hands-on learning environment in six filmmaking disciplines:</p>
+		<ul>
+			<li>Cinematography</li>
+			<li>Directing</li>
+			<li>Post-production</li>
+			<li>Producing</li>
+			<li>Screenwriting</li>
+			<li>Digital Arts (begins in fall 2016)</li>
+		</ul>
+		<p>Students are admitted to the program in one of the above disciplines. Although classes are offered across the different filmmaking disciplines to provide a rounded education, once accepted into a specific discipline, students are not permitted to switch.</p>
 	</div>
 </section>
 <section class="academics-grid">

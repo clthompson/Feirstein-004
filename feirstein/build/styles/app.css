@@ -2467,6 +2467,7 @@ footer .follow-us ul li:before {
   display: block;
   padding-left: 4.5em;
   padding-right: 4.5em;
+  margin-bottom: 0em;
   background: #fff100;
   position: relative;
   text-align: justify;
@@ -2496,7 +2497,7 @@ footer .follow-us ul li:before {
 }
 .homepage-hero .overlay .homepage-hero-introduction .content .title {
   background: none;
-  padding: 1em 0;
+  padding: .25em 0; /* 1em 0 */
   width: 100%;
   margin-left: 0;
   margin-bottom: 0.85em;
@@ -2549,6 +2550,7 @@ footer .follow-us ul li:before {
 .homepage-hero .overlay .homepage-hero-introduction > .title h3 {
   font-size: 7.75em;
 }
+
 @media all and (max-width: 1201px) {
   .homepage-hero .overlay .homepage-hero-introduction > .title h3 {
     font-size: 7em;
@@ -7410,7 +7412,7 @@ footer .follow-us ul li:before {
   }
 }
 .admissions-ctas .three-wrap .financial.active {
-  background: rgba(111,202,208,0.8);
+  background: rgba(111,202,208,0.6);
   -webkit-box-shadow: 0 0 0 2.2em rgba(111,202,208,0.6);
   -moz-box-shadow: 0 0 0 2.2em rgba(111,202,208,0.6);
   -ms-box-shadow: 0 0 0 2.2em rgba(111,202,208,0.6);
@@ -7793,4 +7795,30 @@ html {
   .slider-title h5 {
     font-size: 1.2em;
   }
+}
+.homepage-hero .overlay .homepage-hero-introduction > .title h3.reduced {
+  font-size: 6.8em;
+  padding: .13em 0 .13em 0;
+}
+
+@media all and (max-width: 1000px) {
+  .homepage-hero .overlay .homepage-hero-introduction > .title h3.reduced {
+    font-size: 5em;
+    padding: .13em 0 .13em 0;
+  }
+}
+.admission-info .split-item article ul li{
+  color: #58595b;
+}
+.admission-info .split-item article ul li ul{
+  padding-left: 1em;
+  margin-bottom: 0em;
+  padding-bottom: 0em;
+}
+
+
+
+/* duplicate style to get the padding to work */
+.homepage-hero .overlay .homepage-hero-introduction .content {
+  padding-bottom: 1.25em;
 }

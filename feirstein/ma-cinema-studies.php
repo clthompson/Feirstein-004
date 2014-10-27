@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Cinema Studies</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,7 +14,7 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Feirstein Graduate School of Cinema - Brooklyn College">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Cinema Studies">
 	<meta itemprop="description" content="The Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
@@ -52,7 +52,6 @@
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="-----icons/apple-touch-icon-57-precomposed.png">
 
 	<link rel="home" href="http://www.brooklyn.cuny.edu" />
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
 
 <!-- start Mixpanel -->
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -160,8 +159,8 @@
 				<h4 class="smaller">Cinema Studies</h4>
 			</div>
 		</div>
-		<p>No longer is cinema simply projected images in a darkened room. Now filmmakers create work that is viewed on multiple devices and platforms from TV screens to smartphones. The purpose of the M.A. in cinema studies is to a provide students with a comprehensive education in cinema history, theory, criticism and aesthetics and to encourage the scholarly exploration of cinema as a form of art and a means of social communication. But you will also be prepared to engage with the rapidly changing media landscape through an understanding of its broadest aesthetic and cultural implications.</p>
-		<p>Students are required to complete a total of 36 credits, which may be pursued either on a full-time basis in two years or part-time. Because the degree program will be housed in the same facility as the M.F.A. in cinema arts — Steiner Studios — students will be able to deepen their knowledge within the context of a larger community of filmmakers and cinema scholars. The program’s interrelationship with the M.F.A. program makes it truly unique.</p>
+		<p>No longer is cinema simply projected images in a darkened room. Now filmmakers create work that is viewed on multiple devices and platforms, from TV screens to smartphones. The purpose of the M.A. in Cinema Studies Program is to a provide students with a comprehensive education in cinema history, theory, criticism and aesthetics, and to encourage the scholarly exploration of cinema as a form of art and a means of social communication. But you will also be prepared to engage with the rapidly changing media landscape through an understanding of its broadest aesthetic and cultural implications.</p>
+		<p>Students are required to complete a total of 36 credits, which may be pursued either on a full-time basis in two years or part time. Because the degree program will be housed in the same facility as the M.F.A. in Cinema Arts Program — Steiner Studios — students will be able to deepen their knowledge within the context of a larger community of filmmakers and cinema scholars. The program’s interrelationship with the M.F.A. program makes it truly unique.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
 			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6></div></div>
@@ -173,24 +172,40 @@
 		<strong>Course requirements (12 credits)</strong>
 		<ul>
 			<li>Film Analysis and Research</li>
-			<li>Film Theory</li>
 			<li>Film History/Historiography</li>
+			<li>Film Theory</li>
 			<li>Integrated Media</li>
 		</ul>
-		<strong>Electives (24 credits)</strong>
-		<p>Course titles listed under Electives are rubrics only. Topics will change every semester so that students can take a particular course more than once and may include: Spike Lee’s Brooklyn, Transnational Cinemas: From Hollywood to Bollywood, Queer Theory, Feminism in Film and Media, Historical Perspectives in Film Noir, Contemporary Animation, Urban Cinemas, Class, Race and Cinema.</p>
+		<strong>Electives (21 credits)</strong>
+		<p>The following elective titles are rubrics only. Topics will change every semester so that students can take a particular course more than once.</p>
 		<ul>
 			<li>Film Directors</li>
 			<li>Film Genres</li>
-			<li>National Cinemas</li>
 			<li>Global Cinemas</li>
-			<li>Special Topics in Film Theory</li>
+			<li>National Cinemas</li>
 			<li>Special Topics in Film History</li>
+			<li>Special Topics in Film Theory</li>
+		</ul>
+		<p>Topics for the above courses may include:</p>
+		<ul>
+			<li>Cinema on the Edge</li>
+			<li>Class, Race and Cinema</li>
+			<li>Contemporary Animation</li>
+			<li>The Critical Eye: Film Criticism in a Mediated World</li>
+			<li>Experimental Cinema</li>
+			<li>Feminism in Film and Media</li>
+			<li>Historical Perspectives in Film Noir</li>
+			<li>Producing for New Media</li>
+			<li>Producing Symposium</li>
+			<li>Queer Theory</li>
+			<li>Spike Lee's Brooklyn</li>
+			<li>Transnational Cinemas: From Hollywood to Bollywood</li>
+			<li>Urban Cinemas</li>
 		</ul>
 		<strong>Capstone (3 credits)</strong>
-		<p>Students must complete either of the following courses:</p>
+		<p>Students must complete <em>either</em> of the following courses:</p>
 		<ul>
-			<li>Comprehensive Examination – Supervised Reading</li>
+			<li>Comprehensive Examination – Supervised Reading, <em>or</em></li>
 			<li>Thesis Development</li>
 		</ul>
 	</div>

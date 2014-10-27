@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Post-Production</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,8 +14,8 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Feirstein Graduate School of Cinema - Brooklyn College">
-	<meta itemprop="description" content="The Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Post-Production<">
+	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
 	<!-- Facebook Meta -->
@@ -52,7 +52,6 @@
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="-----icons/apple-touch-icon-57-precomposed.png">
 
 	<link rel="home" href="http://www.brooklyn.cuny.edu" />
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
 
 <!-- start Mixpanel -->
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -160,7 +159,7 @@
 				<h4 class="smaller">Post-Production</h4>
 			</div>
 		</div>
-		<p>It has been said that a movie is made three times: in the writing, in the shooting and in the cutting. The responsibility of the editor is to give shape and rhythm to the film, bringing the creative process to completion. As a post-production student you will learn the technical, aesthetic and collaborative process of filmmaking. Apart from picture editing, you will develop an understanding of sound design, the use of Foley, ADR and music editing. In addition, courses will cover digital media integration, workflow management and post-production supervision. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>
+		<p>It has been said that a movie is made three times: in the writing, in the shooting and in the cutting. The responsibility of the editor is to give shape and rhythm to the film, bringing the creative process to completion. As a post-production student you will learn the technical, aesthetic and collaborative process of filmmaking. Apart from picture editing, you will develop an understanding of sound design, the use of Foley, ADR and music editing. In addition, courses will cover digital media integration, workflow management and post-production supervision.  The M.F.A. culminates in the collaborative production of a 15- to 20- minute narrative film over the final two semesters.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
 			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6></div></div>
@@ -171,45 +170,45 @@
 		<h5>Requirements (66 credits)</h5>
 		<strong>Semester 1 (12 credits)</strong>
 		<ul>
-			<li>World Cinema to 1960</li>
-			<li>Production Workshop 1</li>
-			<li>Narrative Structure</li>
 			<li>Integrated Media</li>
+			<li>Narrative Structure</li>
+			<li>Production Workshop 1</li>
+			<li>World Cinema to 1960</li>
 		</ul>
 		<strong>Semester 2 (12 credits)</strong>
 		<ul>
-			<li>World Cinema 1960 to the present</li>
-			<li>Sound Recording</li>
 			<li>Editors’ Symposium</li>
 			<li>Picture Editing</li>
+			<li>Sound Recording</li>
+			<li>World Cinema 1960 to the present</li>
 		</ul>
 		<strong>Semester 3 (12 credits)</strong>
 		<ul>
-			<li>Script Analysis and Development</li>
-			<li>Sound Editing and Design 1</li>
 			<li>Advanced Editing</li>
 			<li>Digital Media Integration</li>
+			<li>Script Analysis and Development</li>
+			<li>Sound Editing and Design 1</li>			
 		</ul>
 		<strong>Semester 4 (12 credits)</strong>
 		<ul>
-			<li>Visual Effects</li>
-			<li>Sound Editing and Design 2</li>
 			<li>Post-Production Supervision</li>
+			<li>Sound Editing and Design 2</li>
 			<li>Thesis Project Development</li>
+			<li>Visual Effects</li>
 		</ul>
 		<strong>Semester 5 (9 credits)</strong>
 		<ul>
 			<li>Thesis 1: Final Project — Production</li>
 			<li>Advanced Visual Effects</li>
-			<li>Choose one elective</li>
+			<li>Choice of one elective course*</li>
 		</ul>
 		<strong>Semester 6 (9 credits)</strong>
 		<ul>
 			<li>Thesis 2: Final Project — Post-Production</li>
-			<li>Portfolio Development </li>
+			<li>Portfolio Development</li>
 		</ul>
-		<strong>Electives (24 credits)</strong>
-		<p>Courses may include:</p>
+		<strong>Electives</strong>
+		<p>*Elective courses may include:</p>
 		<ul>
 			<li>The Art of Motion Capture</li>
 			<li>Assistant Directing</li>
@@ -227,7 +226,6 @@
 			<li>Location Management</li>
 			<li>National Cinemas</li>
 			<li>Producing for the Small Screen</li>
-			<li>Sound Recording</li>
 			<li>Understanding Digital Culture</li>
 		</ul>
 	</div>

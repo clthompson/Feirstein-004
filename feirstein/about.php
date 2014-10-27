@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - About Us</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,8 +14,8 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Feirstein Graduate School of Cinema - Brooklyn College">
-	<meta itemprop="description" content="The Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - About Us">
+	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
 	<!-- Facebook Meta -->
@@ -52,7 +52,6 @@
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="-----icons/apple-touch-icon-57-precomposed.png">
 
 	<link rel="home" href="http://www.brooklyn.cuny.edu" />
-	<title>Feirstein Graduate School of Cinema - Brooklyn College</title>
 
 <!-- start Mixpanel -->
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -244,7 +243,8 @@
 					<h5>Darren Aronofsky</h5>
 					<p>Academy Award–nominated director Darren Aronofsky was born and raised in Brooklyn, N. Y. His most recent film, <em>Noah</em>, was released to critical acclaim and grossed more than $340 million worldwide. Starring Russell Crowe, Anthony Hopkins, Jennifer Connelly and Emma Watson, it is an adaptation of the story of Noah’s ark, which Richard Roeper called “one of the most dazzling and unforgettable Biblical epics ever put on film.”</p>
 					<p>Prior to <em>Noah</em>, Aronofsky directed <em>Black Swan</em>, which won Natalie Portman the Academy Award for Best Actress and received four other nominations, including one for Best Picture. The film received other accolades, appeared on more than 200 critical Top 10 lists, and swept the 2011 Independent Spirit Award with wins for Best Film, Best Director, Best Actress and Best Cinematography. The box office phenomenon grossed more than $320 million worldwide.</p>
-					<p>In 2008, Aronofsky directed <em>The Wrestler</em>. The film premiered at the Venice Film Festival, where it won the esteemed Golden Lion, making it only the third American film in history to win this grand prize. <em>The Wrestler</em> won Best Feature at the Independent Spirit Awards and garnered Academy Award nominations for both Mickey Rourke and Marisa Tomei. Golden Globes were given to Rourke for his iconic performance and to Bruce Springsteen for his original track <em>The Wrestler</em>. Aronofsky also wrote and directed <em>The Foundation</em>, a science-fiction romance starring Hugh Jackman and Rachel Weisz. In 2000, he premiered <em>Requiem for a Dream</em> at the Cannes Film Festival. The film was named to more than 150 Top 10 lists, including <em>The New York Times</em>, <em>Rolling Stone</em>, <em>Entertainment Weekly</em> and the <em>American Film Institute</em>, and five Independent Spirit Award nominations, including one for Best Director and a win for Best Actress, Ellen Burstyn. Aronofsky’s first feature, <em>π,</em> won the Director’s Award at the 1998 Sundance Film Festival and an Independent Spirit Award for Best First Screenplay. Among his honors, the American Film Institute gave Aronofsky the prestigious Franklin J. Schaffner Alumni Medal, the Stockholm Film Festival presented him the Golden Horse Visionary Award, and he has won three Independent Spirit Awards.</p>
+					<p>In 2008, Aronofsky directed <em>The Wrestler</em>. The film premiered at the Venice Film Festival, where it won the esteemed Golden Lion, making it only the third American film in history to win this grand prize. <em>The Wrestler</em> won Best Feature at the Independent Spirit Awards and garnered Academy Award nominations for both Mickey Rourke and Marisa Tomei. Golden Globes were given to Rourke for his iconic performance and to Bruce Springsteen for his original track <em>The Wrestler</em>.</p>
+					<p>Aronofsky also wrote and directed <em>The Foundation</em>, a science-fiction romance starring Hugh Jackman and Rachel Weisz. In 2000, he premiered <em>Requiem for a Dream</em> at the Cannes Film Festival. The film was named to more than 150 Top 10 lists, including <em>The New York Times</em>, <em>Rolling Stone</em>, <em>Entertainment Weekly</em> and the <em>American Film Institute</em>, and received five Independent Spirit Award nominations, including one for Best Director and a win for Best Actress, Ellen Burstyn. Aronofsky’s first feature, <em>π,</em> won the Director’s Award at the 1998 Sundance Film Festival and an Independent Spirit Award for Best First Screenplay. Among his honors, the American Film Institute gave Aronofsky the prestigious Franklin J. Schaffner Alumni Medal, the Stockholm Film Festival presented him the Golden Horse Visionary Award, and he has won three Independent Spirit Awards.</p>
 				</div>
 			</article>
 			<article class="hidden" data-person="don-buchwald">
@@ -261,9 +261,9 @@
 				</div>
 				<div class="bio">
 					<h5>Celia Costas</h5>
-					<p>Celia Costas won her first Emmy Award as producer of one of the most acclaimed miniseries of all time, <em>Angels in America</em>, directed by Mike Nichols, the Pulitzer Prize-winning playwright. In addition to the Outstanding Miniseries Emmy, the project earned 11 other Emmys, five Golden Globe Awards and two Screen Actors Guild Awards. Costas won her second Emmy Award as executive producer of Joseph Sargent's <em>Warm Springs</em>, written by Margaret Nagle.</p>
+					<p>Celia Costas won her first Emmy Award as producer of one of the most acclaimed miniseries of all time, <em>Angels in America</em>, directed by Mike Nichols and written by Pulitzer prize winning playwright, Tony Kushner. In addition to the Outstanding Miniseries Emmy, the project earned 11 other Emmys, five Golden Globe Awards and two Screen Actors Guild Awards. Costas won her second Emmy Award as executive producer of Joseph Sargent's <em>Warm Springs</em>, written by Margaret Nagle.</p>
 					<p>She worked again with Mike Nichols as executive producer of the features <em>Closer</em> and <em>Charlie Wilson's War</em>. She was executive producer of John Patrick Shanley's <em>Doubt</em>, which was nominated for five Academy Awards. She has worked with Natalie Portman, Clive Owen, Philip Seymour Hoffman, Kenneth Brannagh and Cynthia Nixon.</p>
-					<p>Costas produced the telefilm <em>For Love or Country: The Arturo Sandoval Story</em> and co-produced <em>A Lesson Before Dying</em>, which won the "Outstanding Made for Television Movie" Emmy. Her other feature credits as co-producer include Betty Thomas' <em>Private Parts</em>, <em>28 Days</em> and Ben Stiller's <em>Zoolander</em>.</p>
+					<p>Costas produced the telefilm <em>For Love or Country: The Arturo Sandoval Story</em> and co-produced <em>A Lesson Before Dying</em>, which won the Outstanding Made for Television Movie Emmy. Her other feature credits as co-producer include Betty Thomas' <em>Private Parts</em>, <em>28 Days</em> and Ben Stiller's <em>Zoolander</em>.</p>
 				</div>
 			</article>
 			<article class="hidden" data-person="roy-furman">
@@ -343,8 +343,8 @@
 					<h5>Jonathan Wacks, Founding Director</h5>
 					<p>Jonathan Wacks is the founding director of the Barry R. Feirstein Graduate School of Cinema and professor of film at Brooklyn College. He has directed a number of films, including <em>Powwow Highway</em> (Warner Bros), produced by Beatle George Harrison. The film was the recipient of the Sundance Film Festival Filmmaker’s Trophy, nominated for four Independent Spirit Awards, and winner of awards for best picture, director and actor at the American Indian Film Festival in San Francisco.</p>
 					<p>Wacks’ first film, <em>Crossroads/South Africa</em> (PBS), won a Student Academy Award in the documentary category. He then produced the acclaimed cult-hit <em>Repo Man</em> (Universal), starring Emilio Estevez and Harry Dean Stanton, and directed <em>Mystery Date</em> (Orion), starring Ethan Hawke and Terri Polo, and <em>Ed and His Dead Mother</em>, starring Steve Buscemi and Ned Beatty. He also directed an array of TV productions, including <em>21 Jump Street</em>, with Johnny Depp, <em>Sirens</em> and <em>Going to Extremes</em>.</p>
-					<p>Prior to his career as a director, Wacks served as vice president of production at the Samuel Goldwyn Company. He is a former chairman of the board of the Independent Feature Project/ West (now Film Independent), the largest organization of independent filmmakers in America, and has served on the selection committee of the Writers’ Program at the Sundance Institute. His work has been seen at numerous international film festivals, including Sundance, Montreal, Tokyo, Florence, London, Leipzig, Leeds, Cape Town, Deauville, New York, Munich and Berlin.</p>
-					<p>Wacks has written several screenplays, including <em>Recoil</em>, based on the Jim Thompson novel, <em>No Cure for Love</em>, <em>My African Heart</em>, <em>Coldsleep Lullaby</em> and <em>Stuck</em>. He served as chair of the Visual and Media Arts Department at Emerson College, head of the Film Department at the Vancouver Film School in British Columbia and chair of the Moving Image Arts Department at the College of Santa Fe. He was also director of Garson Studios in Santa Fe, N.M. Wacks holds a B.A. (with honours) from the University of Essex (United Kingdom) and an M.F.A. from the UCLA School of Theater, Film and Television. He is a member of the Directors Guild of America.</p>
+					<p>Prior to his career as a director, Wacks served as vice president of production at the Samuel Goldwyn Company. He is a former chairman of the board of the Independent Feature Project/West (now Film Independent), the largest organization of independent filmmakers in America, and has served on the selection committee of the Writers’ Program at the Sundance Institute. His work has been seen at numerous international film festivals, including Sundance, Montreal, Tokyo, Florence, London, Leipzig, Leeds, Cape Town, Deauville, New York, Munich and Berlin.</p>
+					<p>Wacks has written several screenplays, including <em>Recoil</em>, based on the Jim Thompson novel, <em>No Cure for Love</em>, <em>My African Heart</em>, <em>Coldsleep Lullaby</em> and <em>Stuck</em>. He served as chair of the Visual and Media Arts Department at Emerson College, head of the Film Department at the Vancouver Film School in British Columbia and chair of the Moving Image Arts Department at the College of Santa Fe. He was also director of Garson Studios in Santa Fe, N.M. Wacks holds a B.A. (Hons.) from the University of Essex (United Kingdom) and an M.F.A. from UCLA School of Theater, Film and Television. He is a member of the Directors Guild of America.</p>
 				</div>
 			</article>
 		</div>
