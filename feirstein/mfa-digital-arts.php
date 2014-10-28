@@ -8,15 +8,15 @@
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta name="apple-mobile-web-app-title" content="Feirstein">
-	<link href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/favicon.ico" rel="icon" type="image/x-icon" />
-	<link href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
-	<link rel="icon" sizes="192x192" href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/android-icon-192x192.png">
+	<link href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/favicon.ico" rel="icon" type="image/x-icon" />
+	<link href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152" />
+	<link rel="icon" sizes="192x192" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/android-icon-192x192.png">
 
 	<!-- meta -->
 	<!-- Google Meta -->
 	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Digital Arts">
 	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
-	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg">
+	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
 	<!-- Facebook Meta -->
 	<meta name="description" content="The first public graduate school of cinema in New York City is looking for exceptional students for 2015."/>
@@ -25,22 +25,22 @@
 	<meta property="og:url" content="http://feirstein.brooklyn.cuny.edu" />
 	<meta property="og:description" content="The first public graduate school of cinema in New York City is looking for exceptional students for 2015." />
 	<meta property="fb:admins" content="618382230" />
-	<meta property="og:image" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Facebook-Ad-1200x863.jpg" />
+	<meta property="og:image" content="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Facebook-Ad-1200x863.jpg" />
 
 	<!-- Twitter Meta -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@FeirsteinSchool">
 	<meta name="twitter:title" content="Feirstein Graduate School of Cinema at Brooklyn College">
 	<meta name="twitter:description" content="Make a scene! The 1st public graduate school of cinema in NYC, on a working film lot, is looking for exceptional students.">
-	<meta name="twitter:image:src" content="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/Twitter-Card-750x560.jpg">
+	<meta name="twitter:image:src" content="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Twitter-Card-750x560.jpg">
 	<!-- css -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/cc83cb62-3221-4e28-b3d0-aeaf145ba479.css"/>
 
-	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/styles/vendor.css">
-	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/styles/app.css">
+	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/vendor.min.css">
+	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/app.min.css">
 
 	<!-- Tracking -->
 	<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);  mixpanel.init("436e513f5900df201df5bbfc5667a7aa");</script>
@@ -73,12 +73,12 @@
 	<header class="page-header">
 	<div class="gutter"></div>
 	<h1>
-		<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein.php">
+		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein.php">
 			<div class="logo-f">
-				<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/feirstein_graduate-school-of-cinema_logo_f.png"/>
+				<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/feirstein_graduate-school-of-cinema_logo_f.png"/>
 			</div>
 			<div class="logo-name">
-				<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/feirstein_graduate-school-of-cinema_logo.png"/>
+				<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/feirstein_graduate-school-of-cinema_logo.png"/>
 			</div>
 		</a>
 		<div class="hamburger" id="openMobileNav">
@@ -87,72 +87,72 @@
 	</h1>
 	<nav>
 		<div class="menu">
-			<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/admissions.php" class="menu-item"><span >Admissions</span></a>
-			<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/academics.php" class="menu-item active"><span>Academics</span></a>
-			<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/facilities.php" class="menu-item"><span>Facilities</span></a>
-			<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/about.php" class="menu-item"><span>About Us</span></a>
-			<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="menu-item"><span >Admissions</span></a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/academics.php" class="menu-item active"><span>Academics</span></a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/facilities.php" class="menu-item"><span>Facilities</span></a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php" class="menu-item"><span>About Us</span></a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
 		</div>
 	</nav>
 	<div class="gutter"></div>
 </header>
 <div class="mobile-menu">
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/admissions.php" class="menu-item"><span >Admissions</span></a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/academics.php" class="menu-item academics-subnav">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="menu-item"><span >Admissions</span></a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/academics.php" class="menu-item academics-subnav">
 		<span>Academics</span>
 	</a>
 	<ul class="mobile-subnav">
-		<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/ma-cinema-studies.php">Cinema studies</a></li>
-		<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-directing.php">Directing</a></li>
-		<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-screenwriting.php">Screenwriting</a></li>
-		<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-cinematography.php">Cinematography</a></li>
-		<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-post-production.php">Post-Production</a></li>
-		<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-producing.php">Producing</a></li>
-		<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-digital-arts.php">Digital arts</a></li>
+		<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/ma-cinema-studies.php">Cinema studies</a></li>
+		<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-directing.php">Directing</a></li>
+		<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-screenwriting.php">Screenwriting</a></li>
+		<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-cinematography.php">Cinematography</a></li>
+		<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-post-production.php">Post-Production</a></li>
+		<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-producing.php">Producing</a></li>
+		<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-digital-arts.php">Digital arts</a></li>
 	</ul>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/facilities.php" class="menu-item"><span>Facilities</span></a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/about.php" class="menu-item"><span>About Us</span></a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/facilities.php" class="menu-item"><span>Facilities</span></a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php" class="menu-item"><span>About Us</span></a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
 </div>	<section class="container">
 		<nav class="subnav academics-subnav">
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/ma-cinema-studies.php" class="cinema-studies">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/ma-cinema-studies.php" class="cinema-studies">
 		<div class="icon"></div>
 		<span>Cinema studies</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-directing.php" class="directing">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-directing.php" class="directing">
 		<div class="icon"></div>
 		<span>Directing</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-screenwriting.php" class="screenwriting">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-screenwriting.php" class="screenwriting">
 		<div class="icon"></div>
 		<span>Screenwriting</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-cinematography.php" class="cinematography">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-cinematography.php" class="cinematography">
 		<div class="icon"></div>
 		<span>Cinematography</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-post-production.php" class="post-production">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-post-production.php" class="post-production">
 		<div class="icon"></div>
 		<span>Post-production</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-producing.php" class="producing">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-producing.php" class="producing">
 		<div class="icon"></div>
 		<span>Producing</span>
 	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/mfa-digital-arts.php" class="digital-arts active">
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-digital-arts.php" class="digital-arts active">
 		<div class="icon"></div>
 		<span>Digital arts</span>
 	</a>
 </nav>
 <section class="academics-hero">
-	<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-digital-arts-hero.jpg">
+	<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-digital-arts-hero.jpg">
 </section>
 <section class="academics-info ma-digital-arts">
 	<div class="course">
 		<div class="course-title">
 			<div class="icon">
 				<div class="circle">
-					<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/white_digital-arts.png">
+					<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/white_digital-arts.png">
 				</div>
 			</div>
 			<div class="text">
@@ -161,7 +161,7 @@
 			</div>
 		</div>
 		<p>Digital technologies have transformed the media and cinematic landscapes. The Digital Arts Program will be at the leading edge of those ongoing changes. With an emphasis on experimentation and imagination and a foundation in narrative structure, the program will bridge the worlds of technology-based innovation and cinematic storytelling. Courses and workshops will be taught by industry professionals culminating in the completion of a portfolio of personal and collaborative work in visual effects and CG animation.</p>
-		<p>In addition to an intensive engagement in creative production, the program will also provide opportunities for professional internships and networking to facilitate the transition into the industry.</p>
+		<p>In addition to an intensive engagement in creative production, the program will provide opportunities for professional internships and networking to facilitate the transition into the industry.</p>
 	</div>
 	<div class="degree">
 		<h4 class="smaller">Tell us more</h4>
@@ -170,7 +170,7 @@
 			<input type="hidden" name="u" value="b6b1f93a018d8441f6ca8c64e">
 			<input type="hidden" name="id" value="cf3d2a5fae">
 			<div>
-				<label><p>Are you currently enrolled in an undergraduate University?</p></label>
+				<label><p>Are you currently enrolled in an undergraduate university?</p></label>
 				<div class="yes-no">
 					<input id="MERGE7-0" type="radio" name="MERGE7" value="Yes">  
 					<label for="MERGE7-0"><h4 class="smaller">yes</h4></label>  
@@ -207,11 +207,11 @@
 	<div id="map"></div>
 </section>
 <footer>
-	<div class="footer-content" style="background-image: url('http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/footer-bg.jpg')">
+	<div class="footer-content" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/footer-bg.jpg')">
 		<div class="wrapper">
 			<div class="schools">
 				<div class="item">
-					<img src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/feirstein_graduate-school-of-cinema_logo_white.png" alt="Feirstein Graduate School of Cinema">
+					<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/feirstein_graduate-school-of-cinema_logo_white.png" alt="Feirstein Graduate School of Cinema">
 					<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 						<span itemprop="streetAddress">25 Washington Avenue</span><br>
 						<span itemprop="addressLocality">Brooklyn</span>, <span itemprop="addressRegion">NY</span> <span itemprop="postalCode">11205</span><br>
@@ -221,7 +221,7 @@
 					</p>
 				</div>
 				<div class="item">
-					<img class="brooklyn_college_logo"src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/brooklyn_college_logo.png" alt="Brooklyn College">
+					<img class="brooklyn_college_logo"src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/brooklyn_college_logo.png" alt="Brooklyn College">
 					<p>
 						<strong>Office of Graduate Admissions</strong><br>
 						2900 Bedford Avenue<br>
@@ -256,12 +256,12 @@
 	</div>
 	<div class="site-map-social">
 		<ul class="site-map">
-			<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/admissions.php">Admissions</a></li>
-			<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/academics.php">Academics</a></li>
-			<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/facilities.php">Facilities</a></li>
-			<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/about.php">About Us</a></li>
-			<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/contact-us.php">Contact</a></li>
-			<li><a href="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/faq.php">FAQ</a></li>
+			<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php">Admissions</a></li>
+			<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/academics.php">Academics</a></li>
+			<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/facilities.php">Facilities</a></li>
+			<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php">About Us</a></li>
+			<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php">Contact</a></li>
+			<li><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faq.php">FAQ</a></li>
 		</ul>
 		<div class="follow-us">
 			<div class="overlay">
@@ -279,7 +279,7 @@
 	</div>
 </footer>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
-	<script src="http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/js/app.js"></script>
+	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.js"></script>
 
 	
 <script>window.App.da.run()</script>

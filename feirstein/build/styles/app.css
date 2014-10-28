@@ -1648,7 +1648,7 @@ header.page-header h1 a .logo-f {
   display: table-cell;
   max-width: 55px;
   width: 55px;
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/color_rays.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/color_rays.png");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
@@ -3015,7 +3015,7 @@ footer .follow-us ul li:before {
   -ms-transition: all ease 0.2s;
   -o-transition: all ease 0.2s;
   transition: all ease 0.2s;
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/facilities-steiner-studios-hover.jpg");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-steiner-studios-hover.jpg");
   background-color: #fff100;
   background-blend-mode: darken;
   background-blend-mode: luminosity;
@@ -3055,7 +3055,7 @@ footer .follow-us ul li:before {
 }
 .facilities-cta:hover {
   cursor: auto;
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/facilities-steiner-studios-hover.jpg");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-steiner-studios-hover.jpg");
   background-color: #fff;
   background-blend-mode: normal;
 }
@@ -4524,7 +4524,7 @@ footer .follow-us ul li:before {
   }
 }
 .letter-from-director .fullwidth .letter-hero {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/jonathan-wacks.jpg");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/jonathan-wacks.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -4654,7 +4654,7 @@ footer .follow-us ul li:before {
   max-width: 50%;
 }
 .faq .fullwidth .faq-hero {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/faq_banner.jpg");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/faq_banner.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -5683,7 +5683,7 @@ footer .follow-us ul li:before {
   background-size: cover;
 }
 .academics-subnav a.cinema-studies .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/k_cinema-studies.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_cinema-studies.png");
 }
 .academics-subnav a.cinema-studies:hover,
 .academics-subnav a.cinema-studies.active {
@@ -5691,10 +5691,10 @@ footer .follow-us ul li:before {
 }
 .academics-subnav a.cinema-studies:hover .icon,
 .academics-subnav a.cinema-studies.active .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/cinema-studies.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/cinema-studies.png");
 }
 .academics-subnav a.directing .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/k_directing.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_directing.png");
 }
 .academics-subnav a.directing:hover,
 .academics-subnav a.directing.active {
@@ -5702,10 +5702,10 @@ footer .follow-us ul li:before {
 }
 .academics-subnav a.directing:hover .icon,
 .academics-subnav a.directing.active .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/directing.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/directing.png");
 }
 .academics-subnav a.screenwriting .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/k_screenwriting.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_screenwriting.png");
 }
 .academics-subnav a.screenwriting:hover,
 .academics-subnav a.screenwriting.active {
@@ -5713,10 +5713,10 @@ footer .follow-us ul li:before {
 }
 .academics-subnav a.screenwriting:hover .icon,
 .academics-subnav a.screenwriting.active .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/screenwriting.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/screenwriting.png");
 }
 .academics-subnav a.cinematography .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/k_cinematography.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_cinematography.png");
 }
 .academics-subnav a.cinematography:hover,
 .academics-subnav a.cinematography.active {
@@ -5724,10 +5724,10 @@ footer .follow-us ul li:before {
 }
 .academics-subnav a.cinematography:hover .icon,
 .academics-subnav a.cinematography.active .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/cinematography.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/cinematography.png");
 }
 .academics-subnav a.post-production .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/k_post-production.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_post-production.png");
 }
 .academics-subnav a.post-production:hover,
 .academics-subnav a.post-production.active {
@@ -5735,10 +5735,10 @@ footer .follow-us ul li:before {
 }
 .academics-subnav a.post-production:hover .icon,
 .academics-subnav a.post-production.active .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/post-production.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/post-production.png");
 }
 .academics-subnav a.producing .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/k_producing.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_producing.png");
 }
 .academics-subnav a.producing:hover,
 .academics-subnav a.producing.active {
@@ -5746,10 +5746,10 @@ footer .follow-us ul li:before {
 }
 .academics-subnav a.producing:hover .icon,
 .academics-subnav a.producing.active .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/producing.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/producing.png");
 }
 .academics-subnav a.digital-arts .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/k_digital-arts.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/k_digital-arts.png");
 }
 .academics-subnav a.digital-arts:hover,
 .academics-subnav a.digital-arts.active {
@@ -5757,7 +5757,7 @@ footer .follow-us ul li:before {
 }
 .academics-subnav a.digital-arts:hover .icon,
 .academics-subnav a.digital-arts.active .icon {
-  background-image: url("http://www.brooklyn.cuny.edu/web/feirsteinbeta/feirstein/build/images/academics-icons/digital-arts.png");
+  background-image: url("http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/academics-icons/digital-arts.png");
 }
 .contact-info {
   background-position: center;
