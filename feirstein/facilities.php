@@ -241,17 +241,12 @@
 		<img src="build/images/facilities-slider/Facilities_Gate_Slideshow.jpg"/>
 	</label>
 	<img src="build/images/facilities-slider/Facilities_Gate_Slideshow.jpg"/>
-	<input type="radio" name="slide_switch" id="id5"/>
-	<label for="id5">
-		<img src="build/images/facilities-slider/Facilities_Parking_Slideshow.jpg"/>
-	</label>
-	<img src="build/images/facilities-slider/Facilities_Parking_Slideshow.jpg"/>
-		<input type="radio" name="slide_switch" id="id6"/>
+	<input type="radio" name="slide_switch" id="id6"/>
 	<label for="id6">
 		<img src="build/images/facilities-slider/Facilities_Screening_Slideshow.jpg"/>
 	</label>
 	<img src="build/images/facilities-slider/Facilities_Screening_Slideshow.jpg"/>
-		<input type="radio" name="slide_switch" id="id7"/>
+	<input type="radio" name="slide_switch" id="id7"/>
 	<label for="id7">
 		<img src="build/images/facilities-slider/Facilities_Stage_Slideshow.jpg"/>
 	</label>
