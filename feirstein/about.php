@@ -135,10 +135,7 @@
 	<div class="overlay">
 		<h4 class="pink">The school</h4>
 		<p>The Barry R. Feirstein Graduate School of Cinema, the first graduate film school in the state of New York, opens its doors in fall 2015. The only film school in America to be built on a working lot, Feirstein will be housed at Steiner Studios in Brooklyn, the largest soundstage complex on the East Coast and home to many movies and TV productions.</p>
-		<p>Visit:</p>
-		<p>
-			<a href="http://www.steinerstudios.com" target=_blank""><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/steiner-studios-logo.png" alt="Steiner Studios logo"></a>
-		</p>
+		<p>Visit: <a href="http://www.steinerstudios.com" target=_blank""><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/steiner-studios-logo.png" alt="Steiner Studios logo"></a></p>
 		<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/divider-pink-long.png" class="divider">
 		<div class="deadlines">
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
@@ -212,7 +209,8 @@
 		<div class="wrap">
 			<aside>
 				<ol>
-					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks, Founding Director</span></li>
+					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks, Founding Director</span>
+					 	</li>
 					 <li class="selection" data-person="darren-aronofsky"><span>Darren Aronofsky</span></li>
 					 <li class="selection" data-person="don-buchwald"><span>Don Buchwald</span></li>
 					 <li class="selection" data-person="celia-costas"><span>Celia Costas</span></li>
@@ -413,6 +411,7 @@
 					<button class="submit">
 						<div class="content"><h6>Sign up</h6></div>
 						<div class="cta-info"><div class="content"><h6>Sign up</h6></div></div>
+						<IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
 					</button>
 				</form>
 			</div>
@@ -444,9 +443,8 @@
 </footer>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
 	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.js"></script>
-
-	
 <script>window.App.about.run()</script>
 
+<IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=feirstein_remarketing" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
   </body>
 </html>

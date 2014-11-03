@@ -3894,7 +3894,8 @@ footer .follow-us ul li:before {
   }
 }
 .about-introduction .overlay p a img {
-  margin-right: 1.5em;
+  margin: .30em 1.5em 0 .5em; /*margin-right: .30em 1.5em 0 .5em; */
+  vertical-align: text-top;
 }
 .about-introduction .overlay .divider {
   width: 100%;
