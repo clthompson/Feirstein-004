@@ -186,7 +186,7 @@
 										<strong>How will I know my application status?</strong>
 									</p>
 									<p class="answer">
-										Soon after you apply you will receive an e-mail from the Office of Graduate Admissions. An e-mail will be sent to you whenever there is a change in your status. You may check the status of your application by contacting the Office of Graduate Admissions Office at 718.951.4536 or by <a href="mailto:mailto:grads@brooklyn.cuny.edu?subject=Application Status">e-mail</a>.
+										Soon after you apply you will receive an e-mail from the Office of Graduate Admissions. An e-mail will be sent to you whenever there is a change in your status. You may check the status of your application by contacting the Office of Graduate Admissions Office at 718.951.4536 or by <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Application Status">e-mail</a>.
 									</p>
 								</div>
 							</div>
@@ -227,7 +227,7 @@
 										<strong>Can I visit the school?</strong>
 									</p>
 									<p class="answer">
-										We will be offering tours of the facility in the upcoming months; it is currently under construction and off limits to visitors. If you would like to sign up for a tour, please <a href="mailto:Feirstein@brooklyn.cuny.edu?subject=Tour Request">e-mail us</a> and include "Tour Request" in the subject line.
+										We will be offering tours of the facility in the upcoming months; it is currently under construction and off limits to visitors. If you would like to sign up for a tour, please <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Tour Request">e-mail us</a> and include "Tour Request" in the subject line.
 									</p>
 								</div>
 								<div class="question">
@@ -302,7 +302,7 @@
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>
-						<i class="fa fa-envelope"></i> <a href="mailto:grads@brooklyn.cuny.edu">grads@brooklyn.cuny.edu</a>
+						<i class="fa fa-envelope"></i> <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>
 					</p>
 					<p>
 						<a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Brooklyn College Graduate Admissions</a>

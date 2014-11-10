@@ -137,7 +137,7 @@
 				Brooklyn, NY 11210<br>
 				<i class="fa fa-phone"></i>718.951.4536<br>
 				<i class="fa fa-fax"></i>718.951.5076<br>
-				<i class="fa fa-envelope"></i><a href="mailto:grads@brooklyn.cuny.edu">grads@brooklyn.cuny.edu</a>
+				<i class="fa fa-envelope"></i><a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>
 			</p>
 		</div>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
@@ -197,7 +197,7 @@
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>
-						<i class="fa fa-envelope"></i> <a href="mailto:grads@brooklyn.cuny.edu">grads@brooklyn.cuny.edu</a>
+						<i class="fa fa-envelope"></i> <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>
 					</p>
 					<p>
 						<a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Brooklyn College Graduate Admissions</a>

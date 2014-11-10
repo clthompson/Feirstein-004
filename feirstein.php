@@ -145,13 +145,13 @@
 					<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
 						<h4 class="salmon">MA</h4>
 						<p>in cinema<br>studies</p><br>
-						<h4 class="date">12/01/14</h4>
+						<h4 class="date">01/15/15</h4>
 					</a>
 					<div class="separator"></div>
 					<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#mfa-cinemaarts" class="item">
 						<h4 class="salmon">MFA</h4>
 						<p>in cinema<br>arts</p><br>
-						<h4 class="date">12/01/14</h4>
+						<h4 class="date">01/15/15</h4>
 					</a>
 				</div>
 			</div>
@@ -240,7 +240,7 @@
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>
-						<i class="fa fa-envelope"></i> <a href="mailto:grads@brooklyn.cuny.edu">grads@brooklyn.cuny.edu</a>
+						<i class="fa fa-envelope"></i> <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>
 					</p>
 					<p>
 						<a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Brooklyn College Graduate Admissions</a>
@@ -289,6 +289,7 @@
 </footer>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
 	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.min.js"></script>
+	<script src="http://match.rundsp.com/redirect-all.js?seg=aHY"></script>
 <script>window.App.home.run()</script>
 
 <IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=feirstein_home_page" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>

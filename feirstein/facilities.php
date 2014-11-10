@@ -286,7 +286,7 @@
 						<i class="fa fa-fax"></i> 718.951.5076
 					</p>
 					<p>
-						<i class="fa fa-envelope"></i> <a href="mailto:grads@brooklyn.cuny.edu">grads@brooklyn.cuny.edu</a>
+						<i class="fa fa-envelope"></i> <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>
 					</p>
 					<p>
 						<a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Brooklyn College Graduate Admissions</a>
