@@ -7825,3 +7825,17 @@ html {
 .homepage-hero .overlay .homepage-hero-introduction .content {
   padding-bottom: 1.25em;
 }
+
+/* Jonathan's name and title adjustment */
+.advisory-council .content .wrap aside ol li span.jwfd {
+  text-transform: capitalize; 
+  font-style: italic;
+  color: #58595b;
+  border: none;
+  padding-bottom: .1em;
+  margin-bottom: 0em;
+}
+.advisory-council .content .wrap aside ol li span.jwfd:hover {
+  border-bottom-color: transparent;
+  color: #d81e5d;
+}

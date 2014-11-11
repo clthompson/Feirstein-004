@@ -209,8 +209,9 @@
 		<div class="wrap">
 			<aside>
 				<ol>
-					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks, Founding Director</span>
-					 	</li>
+					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks</br>
+					 	<span class="jwfd">Founding Director</span></span>
+					 </li>
 					 <li class="selection" data-person="darren-aronofsky"><span>Darren Aronofsky</span></li>
 					 <li class="selection" data-person="don-buchwald"><span>Don Buchwald</span></li>
 					 <li class="selection" data-person="celia-costas"><span>Celia Costas</span></li>
