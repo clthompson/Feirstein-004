@@ -59,6 +59,15 @@
  mixpanel.init("436e513f5900df201df5bbfc5667a7aa");</script>
 <!-- end Mixpanel -->
 
+<script type="text/javascript">
+	$(document).ready(function(){
+	$("#signup-btn").click(function(){
+		var iframe = $("#submit-btn");
+		iframe.attr("src", iframe.data("src")); 
+	});
+	})
+</script>
+
   </head>
 
   <body class="fadeIn">
@@ -217,6 +226,7 @@
 					 <li class="selection" data-person="barry-r-feirstein"><span>Barry R. Feirstein</span></li>
 					 <li class="selection" data-person="roy-furman"><span>Roy Furman</span></li>
 					 <li class="selection" data-person="ethan-hawke"><span>Ethan Hawke</span></li>
+					 <!--<li class="selection" data-person="cynthia-lopez">Cynthia López</span></li>-->
 					 <li class="selection" data-person="michael-lynne"><span>Michael Lynne</span></li>
 					 <li class="selection" data-person="steven-soderbergh"><span>Steven Soderbergh</span></li>
 					 <li class="selection" data-person="douglas-steiner"><span>Douglas Steiner</span></li>
@@ -283,6 +293,18 @@
 					<p>Hawke has written two novels, <em>The Hottest State</em> and <em>Ash Wednesday</em>, the former of which he adapted and directed for film. He has also been nominated for a Tony Award, Academy Awards for both acting and writing, and a Drama Desk Award for both acting and directing.</p>
 				</div>
 			</article>
+			<!--<article class="hidden" data-person="cynthia-lopez">
+				<div class="picture" style="background-image:url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Cynthia_Lopez.jpg')">
+				</div>
+				<div class="bio">
+					<h5>Cynthia López</h5>
+					<p>Cynthia López is the commissioner of the New York City Mayor’s Office of Media and Entertainment. López joined the City of New York from American Documentary | POV, where she had worked since 2000. Previously, she served as executive vice president and co-executive producer of the award-winning <em>POV</em> (Point of View) documentary series, where she was responsible for all aspects of the organization’s development, working with key stakeholders in education, public policy and community development. Her ability to forge strategic partnerships among corporate and public interest media has been a signature of her work.</p>
+					<p>During López’s tenure, <em>POV</em> earned numerous awards. In 2013 alone, it was one of only 13 nonprofit organizations worldwide to receive a $1 million MacArthur Award for Creative and Effective Institutions. Among its other honors are a Special News & Documentary Emmy Award for Excellence in Television Documentary Filmmaking, two IDA Awards for Best Continuing Series, 32 additional Emmy Awards, 17 George Foster Peabody Awards, 12 duPont-Columbia Broadcast Journalism Awards, three Academy Awards, the Prix Italia and the Webby. López is the recipient of nine News & Documentary Emmy Awards.</p>
+					<p>Prior to joining <em>POV</em>, she served as acting executive director of the Deep Dish Satellite TV Network and executive producer of Hunter College’s Satellite TV Network, which included university, municipal and public access channels that distributed Latino public interest programming. López is the founding chair of the board of directors of the National Association of Latino Independent Producers. She also serves on the board of directors for Latino Public Broadcasting. In 2013, the Imagen Foundation cited her as one of the top 20 most influential Latinos in entertainment.</p>
+					<p><strong>About the Mayor’s Office of Media and Entertainment</strong></br>
+					The Mayor’s Office of Media and Entertainment consists of the Office of Film, Theatre & Broadcasting, facilitating and supporting film and TV production throughout the five boroughs, and NYC Media, the official TV, radio and online network of the City of New York. The agency’s mission includes supporting relevant media and entertainment industries in New York City. The city’s entertainment industry contributes $7.1 billion to the local economy and employs 130,000 New Yorkers. Each year, hundreds of films, television series and other projects film on location in New York City.</p>
+				</div>
+			</article>-->
 			<article class="hidden" data-person="michael-lynne">
 				<div class="picture" style="background-image:url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Michael_Lynne.jpg')">
 				</div>
@@ -412,14 +434,6 @@
 						<div class="content"><h6>Sign up</h6></div>
 						<div class="cta-info"><div class="content"><h6>Sign up</h6></div></div>
 						<iframe src="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion"  data-src='http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion' id="submit-btn" frameborder="0" scrolling="NO" width="0" height="0" style="display: none !important;"> </iframe>
-						<script type="text/javascript">
- 							$(document).ready(function(){
-							$("#signup-btn").click(function(){
-							   var iframe = $("#submit-btn");
-							   iframe.attr("src", iframe.data("src")); 
-							});
-							})
-						</script>
 					</button>
 				</form>
 			</div>

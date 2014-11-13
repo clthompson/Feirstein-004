@@ -59,6 +59,15 @@
  mixpanel.init("436e513f5900df201df5bbfc5667a7aa");</script>
 <!-- end Mixpanel -->
 
+<script type="text/javascript">
+	$(document).ready(function(){
+	$("#signup-btn").click(function(){
+		var iframe = $("#submit-btn");
+		iframe.attr("src", iframe.data("src")); 
+	});
+	})
+</script>
+
   </head>
 
   <body class="fadeIn">
@@ -282,14 +291,6 @@
 						<div class="content"><h6>Sign up</h6></div>
 						<div class="cta-info"><div class="content"><h6>Sign up</h6></div></div>
 						<iframe src="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion"  data-src='http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion' id="submit-btn" frameborder="0" scrolling="NO" width="0" height="0" style="display: none !important;"> </iframe>
-						<script type="text/javascript">
- 							$(document).ready(function(){
-							$("#signup-btn").click(function(){
-							   var iframe = $("#submit-btn");
-							   iframe.attr("src", iframe.data("src")); 
-							});
-							})
-						</script>
 					</button>
 				</form>
 			</div>
