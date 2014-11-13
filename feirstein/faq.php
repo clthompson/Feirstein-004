@@ -57,7 +57,6 @@
 <script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
  for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
  mixpanel.init("436e513f5900df201df5bbfc5667a7aa");</script>
-
 <!-- end Mixpanel -->
 
   </head>
@@ -217,7 +216,7 @@
 										<strong>Where is the school located? How do I get there?</strong>
 									</p>
 									<p class="answer">
-										The Feirstein Graduate School of Cinema is located at 25 Washington Street in Brooklyn, at Steiner Studios in the Brooklyn Navy Yard. Upon entering Steiner, 25 Washington is on the right, and the school is located on the fifth and sixth floors. The Brooklyn Navy Yard has become an area of private manufacturing and commercial activity. Today, more than 200 businesses operate at the yard and employ approximately 5,000 people.
+										The Feirstein Graduate School of Cinema is located at 25 Washington Avenue in Brooklyn, at Steiner Studios in the Brooklyn Navy Yard. Upon entering Steiner, 25 Washington is on the right, and the school is located on the fifth and sixth floors. The Brooklyn Navy Yard has become an area of private manufacturing and commercial activity. Today, more than 200 businesses operate at the yard and employ approximately 5,000 people.
 										<br><br>
 										<a href="http://www.steinerstudios.com/directions/" target="_blank">Directions to the Feirstein Graduate School of Cinema at Steiner Studios</a>
 									</p>
@@ -316,10 +315,18 @@
 					<input type="hidden" name="u" value="b6b1f93a018d8441f6ca8c64e">
 					<input type="hidden" name="id" value="da294fcec8">
 					<input type="email" required placeholder="Email address" id="MERGE0" name="MERGE0">
-					<button class="submit">
+					<button class="submit" id="signup-btn">
 						<div class="content"><h6>Sign up</h6></div>
 						<div class="cta-info"><div class="content"><h6>Sign up</h6></div></div>
-						<IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
+						<iframe src="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion"  data-src='http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion' id="submit-btn" frameborder="0" scrolling="NO" width="0" height="0" style="display: none !important;"> </iframe>
+						<script type="text/javascript">
+ 							$(document).ready(function(){
+							$("#signup-btn").click(function(){
+							   var iframe = $("#submit-btn");
+							   iframe.attr("src", iframe.data("src")); 
+							});
+							})
+						</script>
 					</button>
 				</form>
 			</div>
