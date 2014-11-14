@@ -217,17 +217,16 @@
 										<strong>Is it still part of Brooklyn College?</strong>
 									</p>
 									<p class="answer">
-										Yes, the Feirstein School is a graduate division of Brooklyn College.
+										Yes, the Feirstein School is a graduate division of Brooklyn College.  All questions regarding admission to Feirstein can be directed to our Office of Graduate Admissions via phone 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.
 									</p>
 								</div>
 								<div class="question">
 									<p>
-										<strong>Where is the school located? How do I get there?</strong>
+										<strong>Where is the school located?</strong>
 									</p>
 									<p class="answer">
-										The Feirstein Graduate School of Cinema is located at 25 Washington Avenue in Brooklyn, at Steiner Studios in the Brooklyn Navy Yard. Upon entering Steiner, 25 Washington is on the right, and the school is located on the fifth and sixth floors. The Brooklyn Navy Yard has become an area of private manufacturing and commercial activity. Today, more than 200 businesses operate at the yard and employ approximately 5,000 people.
-										<br><br>
-										<a href="http://www.steinerstudios.com/directions/" target="_blank">Directions to the Feirstein Graduate School of Cinema at Steiner Studios</a>
+										The Feirstein Graduate School of Cinema will be located at Steiner Studios at the Brooklyn Navy Yard.
+										The Brooklyn Navy Yard has become an area of private manufacturing and commercial activity, and is situated between the neighborhoods of Williamsburg, DUMBO, Fort Greene and Clinton Hill.
 									</p>
 								</div>
 								<div class="question">
@@ -235,7 +234,7 @@
 										<strong>Can I visit the school?</strong>
 									</p>
 									<p class="answer">
-										We will be offering tours of the facility in the upcoming months; it is currently under construction and off limits to visitors. If you would like to sign up for a tour, please <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Tour Request">e-mail us</a> and include "Tour Request" in the subject line.
+										We will be offering tours of the facility in the upcoming months; the school is currently <span class="boldedcopy">under construction</span> and off limits to visitors. If you would like to sign up for a future tour, please <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Tour Request">e-mail us</a> and include "Tour Request" in the subject line.
 									</p>
 								</div>
 								<div class="question">
@@ -290,16 +289,6 @@
 			<div class="schools">
 				<div class="item">
 					<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/feirstein_graduate-school-of-cinema_logo_white.png" alt="Feirstein Graduate School of Cinema">
-					<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-						<span itemprop="streetAddress">25 Washington Avenue</span><br>
-						<span itemprop="addressLocality">Brooklyn</span>, <span itemprop="addressRegion">NY</span> <span itemprop="postalCode">11205</span><br>
-					</p>
-					<p>
-						<i class="fa fa-envelope"></i> <a href="mailto:feirstein@brooklyn.cuny.edu"><span itemprop="email">feirstein@brooklyn.cuny.edu</span></a>
-					</p>
-				</div>
-				<div class="item">
-					<img class="brooklyn_college_logo"src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/brooklyn_college_logo.png" alt="Brooklyn College">
 					<p>
 						<strong>Office of Graduate Admissions</strong><br>
 						2900 Bedford Avenue<br>
@@ -315,6 +304,9 @@
 					<p>
 						<a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Brooklyn College Graduate Admissions</a>
 					</p>
+				</div>
+				<div class="item">
+					<img class="brooklyn_college_logo"src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/brooklyn_college_logo.png" alt="Brooklyn College">
 				</div>
 			</div>
 			<div class="newsletter">

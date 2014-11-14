@@ -131,14 +131,6 @@
 		</div>
 		<div class="item">
 			<p>
-				<strong class="uppercase">Feirstein Graduate School of Cinema</strong><br>
-				25 Washington Avenue<br>
-				Brooklyn, NY 11205<br>
-				<i class="fa fa-envelope"></i><a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>
-			</p>
-		</div>
-		<div class="item">
-			<p>
 				<strong class="uppercase">Brooklyn College</strong><br>
 				<strong>Office of Graduate Admissions</strong><br>
 				2900 Bedford Avenue<br>
@@ -186,16 +178,6 @@
 			<div class="schools">
 				<div class="item">
 					<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/feirstein_graduate-school-of-cinema_logo_white.png" alt="Feirstein Graduate School of Cinema">
-					<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-						<span itemprop="streetAddress">25 Washington Avenue</span><br>
-						<span itemprop="addressLocality">Brooklyn</span>, <span itemprop="addressRegion">NY</span> <span itemprop="postalCode">11205</span><br>
-					</p>
-					<p>
-						<i class="fa fa-envelope"></i> <a href="mailto:feirstein@brooklyn.cuny.edu"><span itemprop="email">feirstein@brooklyn.cuny.edu</span></a>
-					</p>
-				</div>
-				<div class="item">
-					<img class="brooklyn_college_logo"src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/brooklyn_college_logo.png" alt="Brooklyn College">
 					<p>
 						<strong>Office of Graduate Admissions</strong><br>
 						2900 Bedford Avenue<br>
@@ -211,6 +193,9 @@
 					<p>
 						<a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Brooklyn College Graduate Admissions</a>
 					</p>
+				</div>
+				<div class="item">
+					<img class="brooklyn_college_logo"src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/brooklyn_college_logo.png" alt="Brooklyn College">
 				</div>
 			</div>
 			<div class="newsletter">
