@@ -167,6 +167,14 @@
 								</div>
 								<div class="question">
 									<p>
+										<strong>Will scholarships be available?</strong>
+									</p>
+									<p class="answer">
+										Scholarships will be available based on need. For more information, please e-mail the Office of Graduate Admissions at <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Scholarships Inquiry">feirstein@brooklyn.cuny.edu</a>.
+									</p>
+								</div>
+								<div class="question">
+									<p>
 										<strong>Do I have to submit official transcripts?</strong>
 									</p>
 									<p class="answer">
@@ -194,7 +202,7 @@
 										<strong>How will I know my application status?</strong>
 									</p>
 									<p class="answer">
-										Soon after you apply you will receive an e-mail from the Office of Graduate Admissions. An e-mail will be sent to you whenever there is a change in your status. You may check the status of your application by contacting the Office of Graduate Admissions Office at 718.951.4536 or by <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Application Status">e-mail</a>.
+										Soon after you apply you will receive an e-mail from the Office of Graduate Admissions. An e-mail will be sent to you whenever there is a change in your status. You may check the status of your application by contacting the Office of Graduate Admissions at 718.951.4536 or by <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Application Status">e-mail</a>.
 									</p>
 								</div>
 							</div>
