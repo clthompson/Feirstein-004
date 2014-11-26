@@ -4790,10 +4790,11 @@ footer .follow-us ul li:before {
   text-align: left;
   margin-bottom: 0.75em;
 }
-.faq .inner-wrap .faq .split-item .faq-item .faq-questions .question p.answer {
+.faq .inner-wrap .faq .split-item .faq-item .faq-questions .question p.answer, .faq .inner-wrap .faq .split-item .faq-item .faq-questions .question ul.answer {
   padding: 0 1em 1em 1em;
   font-size: 0.875em;
 }
+
 .faq .inner-wrap .faq .split-item .faq-item.active h5,
 .faq .inner-wrap .faq .split-item .faq-item:hover h5 {
   color: #8d2246;
@@ -7838,4 +7839,16 @@ html {
 .advisory-council .content .wrap aside ol li span.jwfd:hover {
   border-bottom-color: transparent;
   color: #d81e5d;
+}
+
+/* Jobs UL */
+.faq .inner-wrap .faq .split-item .faq-item .faq-questions .question ul.answer {
+  padding: 0 1em 1em 1em;
+  font-size: 0.875em;
+}
+.faq .inner-wrap .faq .split-item .faq-item .faq-questions .question ul.answer li{
+    font-size: 1.0em; 
+    letter-spacing: .02em; 
+    font-weight:400; 
+    line-height: 1.8em;
 }

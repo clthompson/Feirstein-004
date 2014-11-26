@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Barry R. Feirstein Graduate School of Cinema - Letter from the Director</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - FAQ</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,7 +14,7 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Letter from the Director">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - FAQ">
 	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
@@ -123,43 +123,75 @@
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
 </div>	<section class="container">
 		<nav class="subnav centered">
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php" class="active">
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php">
 				<span>Letter from the director</span>
 			</a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faq.php">
 				<span>FAQ</span>
 			</a>
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php">
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php" class="active">
 				<span>Job Opportunities</span>
 			</a>
 		</nav>
-<section class="letter-from-director">
+<section class="faq">
 	<div class="right-bar-container fullwidth">
-		<div class="letter-hero">
-			<div class="profile">
-				<h4 class="bordeaux">Jonathan</h4>
-				<h4>Wacks</h4>
-				<p><strong><em>Founding Director and Professor</em><br>Barry R. Feirstein Graduate School of Cinema</strong></p>
-			</div>
+		<div class="faq-hero">
 			<figcaption>
-				<p>From the director</p>
+				<h4 class="bordeaux">Job Opportunities</h4>
 			</figcaption>			
 		</div>
 	</div>
 	<div class="right-bar-container">
 		<div class="inner-wrap">
-			<div class="letter">
-				<h5>You are here because you want to be a filmmaker.</h5>
-				<p>The Barry R. Feirstein Graduate School of Cinema was built to provide you the opportunity to learn the art and craft of filmmaking. Whether your interest is in directing, producing, cinematography, screenwriting, post-production or digital arts, Feirstein will provide an environment where you can develop the courage and confidence to discover your voice as a filmmaker. At Feirstein you will participate in a collaborative experience where you will be engaged in a creative endeavor that will enable you to express your ideas, tell your stories, and follow the lights in your head. But you should know at the outset that filmmaking requires discipline and commitment. You will be expected to dig deep to uncover the content of your imagination, to bring forth fresh and original ideas. You will also need a strong work ethic and sense of discipline to get to the place where your imagination can find form in aesthetically compelling ways. That is the beauty of filmmaking: It is a dialectic of individual creativity and group collaboration, the capacity to communicate and the ability to be still, the willingness to take risks and the discipline to learn the rules of the game.</p>
-				<p>Feirstein offers a unique opportunity to go to film school on a working film lot. Our campus is Steiner Studios, the largest soundstage complex on the East Coast. From the moment you arrive here you will be immersed in filmmaking in a facility that is second to none. Built from the ground up to meet the demands of 21st-century production and post-production, we offer a state-of-the-art facility outfitted with the most up-to-date digital equipment and technology. But tools do not make art; ideas and imagination do.</p>
-				<p>Essential to becoming a filmmaker is a deep understanding of the history of the last 100 years of our art form. As a cinema studies student, you will become steeped in the history and theory of cinema over the course of your master’s degree and deepen your knowledge within the context of a larger community of filmmakers and cinema scholars. As a cinema arts student, an intimate familiarity with cinema history will underpin everything you do as a practitioner. I cannot stress enough the importance of developing a critical understanding of cinema both within and without the classroom.</p>
-				<p>So, if you have an abiding love of cinema and a commitment to challenge the prevailing political, cultural and aesthetic conventions, and the urge to give expression to your creativity, I strongly encourage you to consider Feirstein. I look forward to seeing you next fall.</p>
-				<p>
-				<strong class="bordeaux name">Jonathan Wacks</br>
-					Founding Director and Professor</br>
-					Barry R. Feirstein Graduate School of Cinema</strong>
- 				</p>
- 				<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/jonathan-wacks-signature.png" alt="Jonathan Wacks Signature"/>
+			<div class="faq">
+				<div class="split-item">
+					<aside><h5 class="bordeaux">Choose</h4><h5>a position</h5></aside>
+					<article>
+							<div class="letter"><p>The new Barry R. Feirstein Graduate School of Cinema will open on the Steiner Studios film lot in Brooklyn, N.Y., in fall 2015. The school will offer a two-year M.A. in cinema studies and a three-year M.F.A. in cinema arts with a specialized education in six disciplines — producing, directing, screenwriting, cinematography, post-production and digital arts (begins in fall 2016). Housed in a new 68,000-square-foot state-of the-art facility, the school is the first public graduate film school in New York and the only film school in the United States located on a working film lot, and is dedicated to cultivating new and emerging voices in cinema.</p>
+							<p>The Feirstein Graduate School of Cinema invites applications for the following tenure-track positions, beginning in fall 2015. All appointments are subject to financial availability.</p>
+							<div class="faq-item">
+							<div class="faq-category">
+								<h5>Assistant Professor — Production (Film)</h5><span>&#9662;</span>
+							</div>
+							<div class="faq-questions">
+								<div class="question">
+									<p class="answer">The successful candidate will be required to teach five courses in (narrative) production and post-production per year, mentor graduate students, and contribute to the ongoing development of the M.F.A. program in cinema arts. For purposes of reappointment, tenure and promotion, emphasis will be placed on teaching effectiveness, creative achievement and service to the school and Brooklyn College. Faculty release time, subject to approval, is granted to pursue academic research.</p>
+									<p class="answer"><strong>Qualifications</strong></p>
+									<ul class="answer">
+										<li>An M.F.A. in film/digital production</li>
+										<li>At least three years of graduate-level teaching experience</li>
+										<li>A recognized body of credited, professional work in (narrative) filmmaking</li>
+										<li>A demonstrable capacity to translate one's professional background into a dynamic classroom experience</li>
+										<li>Hands-on expertise in digital production, including familiarity with most of the following equipment: Red Epic; Cannon C500; Sony F55 and F65; Arriflex Alexa and associated lenses, lighting, grip and distribution; Avid Media Composer; Blackmagic DaVinci and Pro Tools</li>
+										<li>A commitment to teaching at a public, urban institution that serves a highly diverse student body</li>
+									</ul>
+									<p class="answer">Step One: <a href="https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=11798&SiteId=1&PostingSeq=1" target="_blank">Apply Here</a></p>
+									<p class="answer">Step Two: <a href="https://websql.brooklyn.cuny.edu/hrref/?job_id=114" target="_blank">Submit Reference Information</a></p>
+								</div>
+							</div>
+							</div>
+							<div class="faq-item">
+							<div class="faq-category">
+								<h5>Assistant Professor — Screenwriting</h5><span>&#9662;</span>
+							</div>
+							<div class="faq-questions">
+								<div class="question">
+									<p class="answer">The successful candidate will be required to teach five courses in (narrative) screenwriting per year, mentor graduate students, and contribute to the ongoing development of the M.F.A. program in cinema arts. For purposes of reappointment, tenure and promotion, emphasis will be placed on teaching effectiveness, creative achievement and service to the school and Brooklyn College. Pre-tenured faculty receive new faculty release time to pursue academic research.</p>
+									<p class="answer"><strong>Qualifications</strong></p>
+									<ul class="answer">
+										<li>An M.F.A. in screenwriting or appropriate terminal degree in a related discipline, such as creative writing</li>
+										<li>At least three years of graduate-level teaching experience</li>
+										<li>A recognized body of credited, professional work in (narrative) screenwriting</li>
+										<li>A demonstrable capacity to translate one's professional background into a dynamic classroom experience</li>
+										<li>A strong commitment to teaching at a public, urban institution that serves a highly diverse student body</li>
+									</ul>
+									<p class="answer">Step One: <a href="https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=11799&SiteId=1&PostingSeq=1" target="_blank">Apply Here</a></p>
+									<p class="answer">Step Two: <a href="https://websql.brooklyn.cuny.edu/hrref/?job_id=115" target="_blank">Submit Reference Information</a></p>
+								</div>
+							</div>
+						</div>
+					</article>
+				</div>
 			</div>
 		</div>
 	</div> 
@@ -240,5 +272,7 @@
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
 	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.js"></script>
 
-	  </body>
+	
+<script>window.App.faq.run()</script>
+  </body>
 </html>

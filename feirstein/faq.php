@@ -123,13 +123,16 @@
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
 </div>	<section class="container">
 		<nav class="subnav centered">
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php">
-		<span>Letter from the director</span>
-	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faq.php" class="active">
-		<span>FAQ</span>
-	</a>
-</nav>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php">
+				<span>Letter from the director</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faq.php" class="active">
+				<span>FAQ</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php">
+				<span>Job Opportunities</span>
+			</a>
+		</nav>
 <section class="faq">
 	<div class="right-bar-container fullwidth">
 		<div class="faq-hero">
@@ -170,7 +173,7 @@
 										<strong>Will scholarships be available?</strong>
 									</p>
 									<p class="answer">
-										Scholarships will be available based on need. For more information, please e-mail the Office of Graduate Admissions at <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Scholarships Inquiry">feirstein@brooklyn.cuny.edu</a>.
+										Scholarships will be available based on need. For more information, please e-mail the <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Scholarships Inquiry">Office of Graduate Admissions</a>.
 									</p>
 								</div>
 								<div class="question">
@@ -225,7 +228,7 @@
 										<strong>Is it still part of Brooklyn College?</strong>
 									</p>
 									<p class="answer">
-										Yes, the Feirstein School is a graduate division of Brooklyn College.  All questions regarding admission to Feirstein can be directed to our Office of Graduate Admissions via phone 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.
+										Yes, the Feirstein School is a graduate division of Brooklyn College. All questions regarding admission to Feirstein can be directed to our Office of Graduate Admissions via phone 718.951.4536 or <a href="mailto:feirstein@brooklyn.cuny.edu">e-mail us</a>.
 									</p>
 								</div>
 								<div class="question">
