@@ -172,7 +172,7 @@
 							</div>
 							<div class="faq-item">
 							<div class="faq-category">
-								<h5>Assistant Professor — Screenwriting</h5><span>&#9662;</span>
+								<h5>Assistant Professor — Screenwriting (Film)</h5><span>&#9662;</span>
 							</div>
 							<div class="faq-questions">
 								<div class="question">
