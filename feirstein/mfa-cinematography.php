@@ -78,6 +78,20 @@
 		ga('create', 'UA-53237086-1', 'auto');
 		ga('send', 'pageview');
 	</script>
+	<!-- Start of DoubleClick Floodlight Tag: Please do not remove
+	Activity name of this tag: Cinematog_Dec
+	URL of the webpage where the tag is expected to be placed: http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/mfa-cinematography.php
+	This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+	Creation Date: 12/04/2014 -->
+		<script type="text/javascript">
+		var axel = Math.random() + "";
+		var a = axel * 10000000000000;
+		document.write('<iframe src="http://4535897.fls.doubleclick.net/activityi;src=4535897;type=Fall20;cat=cinem00;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+		</script>
+		<noscript>
+		<iframe src="http://4535897.fls.doubleclick.net/activityi;src=4535897;type=Fall20;cat=cinem00;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+		</noscript>
+	<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 	<header class="page-header">
 	<div class="gutter"></div>
 	<h1>
