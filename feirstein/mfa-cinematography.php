@@ -209,7 +209,7 @@
 		<ul>
 			<li>Cinematography 2</li>
 			<li>Digital Media Integration</li>
-			<li>Post-production Workshop 3</li>
+			<li>Production Workshop 3</li>
 			<li>Script Analysis and Development</li>
 		</ul>
 		<strong>Semester 4 (12 credits)</strong>

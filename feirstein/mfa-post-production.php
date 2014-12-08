@@ -221,7 +221,7 @@
 		</ul>
 		<strong>Semester 5 (9 credits)</strong>
 		<ul>
-			<li>Thesis 1: Final Project — Production</li>
+			<li>Thesis 1: Final Project — Post-production</li>
 			<li>Advanced Visual Effects</li>
 			<li>Choice of one elective course*</li>
 		</ul>
