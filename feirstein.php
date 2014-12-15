@@ -157,15 +157,16 @@
 					<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
 						<h4 class="salmon">MA</h4>
 						<p>in cinema<br>studies</p><br>
-						<h4 class="date">01/15/15</h4>
+						<h4 class="date">03/14/15</h4>
 					</a>
 					<div class="separator"></div>
 					<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#mfa-cinemaarts" class="item">
 						<h4 class="salmon">MFA</h4>
 						<p>in cinema<br>arts</p><br>
-						<h4 class="date">01/15/15</h4>
+						<h4 class="date">03/14/15</h4>
 					</a>
 				</div>
+				<p itemprop="description" class="deadline-rider">Applications received before the deadline will receive priority consideration.</p>
 			</div>
 			<div class="illustration the-wrap">
 				<figcaption><p>Eli Stuart <span class="yellow">/ Aspiring Filmmaker</span></p></figcaption>

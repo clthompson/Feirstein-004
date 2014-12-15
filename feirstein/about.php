@@ -166,15 +166,16 @@
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
 				<h4 class="salmon">MA</h4>
 				<p>in cinema<br>studies</p><br>
-				<h4 class="date">01/15/15</h4>
+				<h4 class="date">03/14/15</h4>
 			</a>
 			<div class="separator"></div>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#mfa-cinemaarts" class="item">
 				<h4 class="salmon">MFA</h4>
 				<p>in cinema<br>arts</p><br>
-				<h4 class="date">01/15/15</h4>
+				<h4 class="date">03/14/15</h4>
 			</a>
 		</div>
+		<p itemprop="description" class="deadline-rider">Applications received before the deadline will receive priority consideration.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
 			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6></div></div>
@@ -474,7 +475,7 @@
 	</div>
 </footer>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
-	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.js"></script>
+	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.min.js"></script>
 <script>window.App.about.run()</script>
 
 <IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=feirstein_remarketing" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>

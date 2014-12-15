@@ -147,7 +147,7 @@
 			<div class="content">
 				<div class="title">
 					<h4>Deadline for</br>Applications</h4>
-					<h5>January 15, 2015</h5>
+					<h5>March 14, 2015</h5>
 				</div>
 			</div>
 		</div>
@@ -167,19 +167,20 @@
 				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
 					<h4 class="salmon">MA</h4>
 					<p class="deadline-p">in cinema<br>studies</p>
-					<h4 class="date">01/15/15</h4>
+					<h4 class="date">03/14/15</h4>
 				</a>
 				<div class="separator"></div>
 				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#mfa-cinemaarts" class="item">
 					<h4 class="salmon">MFA</h4>
 					<p class="deadline-p">in cinema<br>arts</p>
-					<h4 class="date">01/15/15</h4>
+					<h4 class="date">03/14/15</h4>
 				</a>
 			</div>
+			<p itemprop="description" class="deadline-rider">Applications received before the deadline will receive priority consideration.</p>
 		</div>
 	</div>
 </section>
-<section class="three-up-cta admissions-ctas">
+<section class="three-up-cta admissions-ctas" id="three-up-scroll">
 	<div class="three-wrap">
 		<div class="item">
 			<div class="button requirement active">
@@ -197,7 +198,7 @@
 			<div class="button financial">	
 				<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/admissions-icons/tuition.png" alt="Tuition and Financial aid">
 			</div>
-			<p>Tuition & Fees</p>
+			<p>Tuition, Fees & Scholarships</p>
 		</div>
 	</div>
 </section>
@@ -327,9 +328,9 @@
 			</div>
 			<div class="split-item  tuition-financial-aid hidden">
 				<div class="breadcrumbs"></div>
-				<aside><h5>Tuition<br>and fees</h5></aside>
+				<aside><h5>Tuition, Fees and <br>Scholarships</h5></aside>
 				<article>
-					<h5>TUITION AND FEES FOR ACADEMIC YEAR 2015 – 2016*</h5>
+					<h5>TUITION, FEES AND SCHOLARSHIPS FOR ACADEMIC YEAR 2015 – 2016*</h5>
 					<h5>Degree Programs</h5>
 					<strong>Master of Fine Arts (M.F.A.) — Full-time Only</strong>
 					<ul>
