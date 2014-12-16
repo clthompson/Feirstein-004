@@ -7854,7 +7854,7 @@ html {
 }
 
 /* Deadline Rider */
-.homepage-hero .overlay .homepage-hero-introduction p.deadline-rider, .right-content p.deadline-rider, .overlay p.deadline-rider {
+.homepage-hero .overlay .homepage-hero-introduction p.deadline-rider, .right-content p.deadline-rider, .overlay p.deadline-rider,{
   font-size: 1.2em;
   letter-spacing: 0.03em;
   font-family: 'TradeGothicW01-BoldCn20 675334', Arial, sans-serif;
@@ -7867,4 +7867,15 @@ html {
 
 .right-content p.deadline-rider, .overlay p.deadline-rider{
   margin-bottom: 0px;
+}
+
+.about-deadline {
+  color: #f0635d;
+  font-size: 1.4em;
+  letter-spacing: 0.03em;
+  font-family: 'TradeGothicW01-BoldCn20 675334', Arial, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 1.05em;
+  margin-top: 5px;
 }

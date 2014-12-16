@@ -159,10 +159,12 @@
 <section class="about-introduction" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/about-introduction.jpg')">
 	<div class="overlay">
 		<h4 class="pink">The school</h4>
-		<p>The Barry R. Feirstein Graduate School of Cinema, the first graduate film school in the state of New York, opens its doors in fall 2015. The only film school in America to be built on a working lot, Feirstein will be housed at Steiner Studios in Brooklyn, the largest soundstage complex on the East Coast and home to many movies and TV productions.</p>
+		<p>The Barry R. Feirstein Graduate School of Cinema is the only film school in America to be built on a working film lot. Feirstein is housed at Steiner Studios in Brooklyn, the largest soundstage complex on the East Coast and home to many movies and TV productions. As the first public film school in New York, Feirstein is dedicated to diversity, inclusion and the cultivation of new and emerging voices in cinema.</p>
 		<p>Visit: <a href="http://www.steinerstudios.com" target=_blank""><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/steiner-studios-logo.png" alt="Steiner Studios logo"></a></p>
 		<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/divider-pink-long.png" class="divider">
+		<p class="about-deadline salmon">Deadline for applications:</p>
 		<div class="deadlines">
+
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
 				<h4 class="salmon">MA</h4>
 				<p>in cinema<br>studies</p><br>
