@@ -190,6 +190,25 @@
 								</div>
 							</div>
 						</div>
+							<div class="faq-item">
+							<div class="faq-category">
+								<h5>Distinguished Lecturer — Cinematography (Film)</h5><span>&#9662;</span>
+							</div>
+							<div class="faq-questions">
+								<div class="question">
+									<p class="answer">The successful candidate will have a national or international reputation and will possess the skills, background and temperament to contribute to a new graduate program that will rival those of the finest film schools in the country. Responsibilities include teaching at the graduate level in various aspects of cinematography, from introductory to advanced classes; supervising student productions; and administering the cinematography track as well as participating in program administration, curriculum development and departmental committees. The successful candidate will be expected to mentor cinematography students and contribute to the ongoing development of the M.F.A. program.</p>
+									<p class="answer"><strong>Qualifications</strong></p>
+									<ul class="answer">
+										<li>A bachelor's degree and a record of achievement in a profession or field of expertise related to teaching assignments</li>
+										<li>An M.F.A. in filmmaking and prior college-level teaching experience (preferred). Candidates without an M.F.A. who have a distinguished body of feature film and/or dramatic television credits are encouraged to apply</li>
+										<li>A demonstrable ability to translate one's professional background into a dynamic classroom experience</li>
+										<li>A commitment to teaching at a public, urban institution that services a highly diverse student body</li>
+									</ul>
+									<p class="answer">Step One: <a href="https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=12111&SiteId=1&PostingSeq=1" target="_blank">Apply Here</a></p>
+									<p class="answer">Step Two: <a href="https://websql.brooklyn.cuny.edu/hrref/?job_id=117" target="_blank">Submit Reference Information</a></p>
+								</div>
+							</div>
+							</div>
 					</article>
 				</div>
 			</div>
