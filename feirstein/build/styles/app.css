@@ -7879,3 +7879,21 @@ html {
   line-height: 1.05em;
   margin-top: 5px;
 }
+
+/* Faculty Bios */ 
+.faculty-top {
+  height: 165px;
+}
+
+.advisory-council .content .wrap article .bio a {
+  color: #00adee;
+  -webkit-transition: 0.15s ease-in-out;
+  -moz-transition: 0.15s ease-in-out;
+  -ms-transition: 0.15s ease-in-out;
+  -o-transition: 0.15s ease-in-out;
+  transition: 0.15s ease-in-out;
+}
+
+.advisory-council .content .wrap article .bio a:hover {
+  color: #2e7de1 !important;
+}

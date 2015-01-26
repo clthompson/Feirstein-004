@@ -246,7 +246,7 @@
 					 <li class="selection" data-person="barry-r-feirstein"><span>Barry R. Feirstein</span></li>
 					 <li class="selection" data-person="roy-furman"><span>Roy Furman</span></li>
 					 <li class="selection" data-person="ethan-hawke"><span>Ethan Hawke</span></li>
-					 <!--<li class="selection" data-person="cynthia-lopez">Cynthia López</span></li>-->
+					 <li class="selection" data-person="cynthia-lopez"><span>Cynthia López</span></li>
 					 <li class="selection" data-person="michael-lynne"><span>Michael Lynne</span></li>
 					 <li class="selection" data-person="steven-soderbergh"><span>Steven Soderbergh</span></li>
 					 <li class="selection" data-person="douglas-steiner"><span>Douglas Steiner</span></li>
@@ -313,7 +313,7 @@
 					<p>Hawke has written two novels, <em>The Hottest State</em> and <em>Ash Wednesday</em>, the former of which he adapted and directed for film. He has also been nominated for a Tony Award, Academy Awards for both acting and writing, and a Drama Desk Award for both acting and directing.</p>
 				</div>
 			</article>
-			<!--<article class="hidden" data-person="cynthia-lopez">
+			<article class="hidden" data-person="cynthia-lopez">
 				<div class="picture" style="background-image:url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Cynthia_Lopez.jpg')">
 				</div>
 				<div class="bio">
@@ -324,7 +324,7 @@
 					<p><strong>About the Mayor’s Office of Media and Entertainment</strong></br>
 					The Mayor’s Office of Media and Entertainment consists of the Office of Film, Theatre & Broadcasting, facilitating and supporting film and TV production throughout the five boroughs, and NYC Media, the official TV, radio and online network of the City of New York. The agency’s mission includes supporting relevant media and entertainment industries in New York City. The city’s entertainment industry contributes $7.1 billion to the local economy and employs 130,000 New Yorkers. Each year, hundreds of films, television series and other projects film on location in New York City.</p>
 				</div>
-			</article>-->
+			</article>
 			<article class="hidden" data-person="michael-lynne">
 				<div class="picture" style="background-image:url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Michael_Lynne.jpg')">
 				</div>
