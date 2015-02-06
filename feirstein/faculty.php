@@ -167,8 +167,8 @@
 					 <li class="selection" data-person="jason-kliot"><span>Jason Kliot</span></li>
 					 <li class="selection" data-person="katherine-lindberg"><span>Katherine Lindberg</span></li>
 					 <li class="selection" data-person="paula-massood"><span>Paula Massood</span></li>
-					 <li class="selection" data-person="howard-rosenman"><span>Howard Rosenman</span></li>
 					 <li class="selection" data-person="thomas-reilly"><span>Thomas Reilly</span></li>
+					 <li class="selection" data-person="howard-rosenman"><span>Howard Rosenman</span></li>
 				</ol>
 			</aside>
 			<article data-person="jonathan-wacks">
@@ -245,6 +245,22 @@
 					</ul>
 				</div>
 			</article>
+			<article class="hidden" data-person="thomas-reilly">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Thomas Reilly, Producing</h5>
+					<p>Tom Reilly has been the Distinguished Lecturer on Film at Brooklyn College since 2011. He is a graduate of Harvard College and has been a member of the Directors Guild of America since 1979.</p>
+					<p>Reilly has 35 years of feature film production experience working as an associate producer, assistant director, production manager, second unit director and associate director for every major studio and network, including Twentieth Century Fox, Columbia, Warner&rsquo;s, Paramount and Disney. He has filmed throughout the United States and Europe, helped oversee pro-rated budgets totaling in excess of $2 billion, and was nominated for the Directors Guild of America Award for <em>Hannah and Her Sisters, Crimes and Misdemeanors</em> and<em> The Prince of Tides</em>. Over his career, Reilly has more than 50 A-level feature films to his credit as well as an extensive background in pilots, episodic television and MOWs.</p>
+					<p>Reilly has collaborated with directors Woody Allen (18 films), Sydney Pollack, Barbra Streisand, Taylor Hackford, and Irwin Winkler, among numerous others. Cinematographers worked with include Gordon Willis, Carlo Di Palma, Giuseppe Rotunno, John Seale, Michael Ballhaus and Sven Nykvist. He has done films with more than 70 Academy Award winners and worked with such actors as Al Pacino, Robert De Niro, Vanessa Redgrave, John Huston, Alec Guinness, Diane Keaton, Harrison Ford, Charlize Theron, Keanu Reeves, Tom Hanks, Harrison Ford and Sean Connery.</p>
+					<p>He is the author of <em>The Big Picture: Filmmaking Lessons From a Life on the Set</em> (St. Martin&rsquo;s Press, 2009; also published in the United Kingdom by Old Street Publishing and in Spain by Ediciones Jaguar).</p>
+					<p>Learn more about Thomas Reilly:</p>
+					<ul>
+						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=1072" target="_blank">Brooklyn College Faculty Profile</a></li>
+						 <li><a href="http://www.tomreillyauthor.com" target="_blank">Tom Reilly's Website</a></li>
+						 <li><a href="http://www.imdb.com/name/nm0717759/?ref_=fn_al_nm_3" target="_blank">IMDB</a></li>
+					</ul>
+				</div>
+			</article>
 			<article class="hidden" data-person="howard-rosenman">
 				<div class="faculty-top"></div>
 				<div class="bio">
@@ -256,16 +272,6 @@
 					<p>Learn more about Howard Rosenman:</p>
 					<ul>
 						<li><a href="http://www.imdb.com/name/nm0742651/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
-					</ul>
-				</div>
-			</article>
-			<article class="hidden" data-person="thomas-reilly">
-				<div class="faculty-top"></div>
-				<div class="bio">
-					<h5>Thomas Reilly, Producing</h5>
-					<p>Learn more about Thomas Reilly:</p>
-					<ul>
-						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=1072" target="_blank">Brooklyn College Faculty Profile</a></li>
 					</ul>
 				</div>
 			</article>

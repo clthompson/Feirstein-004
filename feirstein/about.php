@@ -146,6 +146,9 @@
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php" class="subnav-item">
 		<span>Job Opportunities</span>
 	</a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
+		<span>Faculty</span>
+	</a>
 </nav>
 <section class="internal-page-hero" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/about-hero.jpg'); background-position: bottom">
 	<div class="overlay">

@@ -132,9 +132,9 @@
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php" class="active">
 				<span>Job Opportunities</span>
 			</a>
-			<!--<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
 				<span>Faculty</span>
-			</a>-->
+			</a>
 		</nav>
 <section class="faq">
 	<div class="right-bar-container fullwidth">
