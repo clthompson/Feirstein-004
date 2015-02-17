@@ -415,6 +415,9 @@
 							** Brooklyn College students, staff and faculty with valid college ID receive a 40 percent discount.
 							</ul></li>
 					</ul>
+					<h5>Scholarships</h5>
+					<p>Even with our extraordinarily accessible tuition rates, we recognize that scholarship support can make all the difference for some students. That’s why at the Barry R. Feirstein Graduate School of Cinema at Steiner Studios, we are pleased to announce the Robert De Niro Award, the Barry R. Feirstein Cinematic Arts Graduate Scholarship, the Paul and Betsy Mazursky Scholarship, the Joel and Candice Zwick Scholarship in Directing and the New York City Mayor’s Office for Media and Entertainment Scholarship.</p>
+					<p>Scholarships will be awarded on a competitive basis. For more information on how to apply, please contact the Office of Graduate Admissions at 718.951.4536 or via <a href="mailto:feirstein@brooklyn.cuny.edu?subject=Scholarship Inquiry">e-mail</a>.</p>
 					<h5>Definitions and Classifications</h5>
 					<strong>New York State Residency Requirements</strong>
 					<p>For further information on establishing New York State residency, please visit the <a href="http://www.brooklyn.cuny.edu/web/admissions/apply/residency.php" target="_blank">Residency Information and Procedures page</a>.</p>
