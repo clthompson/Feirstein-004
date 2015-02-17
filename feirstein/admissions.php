@@ -236,7 +236,7 @@
 					<strong>Test Of English as a Foreign Language (TOEFL)</strong>
 					<p>A <a href="http://www.ets.org/toefl" target="_blank">TOEFL</a> score report is required from applicants whose first language is not English and who did not receive the equivalent of a four-year U.S. undergraduate education from an institution where English is the official language of instruction. We only accept TOEFL scores sent to us directly from Educational Testing Services (ETS). Our ETS Institution code is 2046. The minimum IBT score required for consideration is 100. We also accept the IELTS exam with score of 7.0 or higher.</p>
 					<h5>Deadlines</h5>
-					<p>Applications open on Nov. 1, 2014. Deadline for priority admissions is <strong>Jan. 15, 2015</strong>. Applications received after the deadline will be reviewed on a rolling admissions basis until the class is full.</p>
+					<p>Applications open on Nov. 1, 2014. Deadline for priority admissions is <strong>March 14, 2015</strong>. Applications received after the deadline will be reviewed on a rolling admissions basis until the class is full.</p>
 					<h5>Contact</h5>
 					<p><a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Office of Graduate Admissions</a></br>
 						Brooklyn College</br>
@@ -304,7 +304,7 @@
 					<p>Once you have registered to start a portfolio via Slideroom, you may step away and come back at any time, until the final deadline. Please ensure that you save your progress after each visit, and do not click to submit until you are certain that you have uploaded the required components. Once you click submit, you may no longer edit your portfolio. Once you submit your portfolio, Slideroom will send you an e-mail to confirm receipt of your materials.</p>
 					<p>The submission of video can contain one or more selections, as long as the total running time does not exceed 30 minutes. You may upload up to 10 minutes of video onto the media page within Slideroom. If the total running time of your video sample exceeds 10 minutes, a link to your work must be provided on the media page. Please test your video prior to submission. If you are submitting a link, be sure that no downloads or passwords are required. For technical assistance, please <a href="mailto:support@slideroom.com" target="_blank">e-mail Slideroom</a>.</p>
 					<h5>DEADLINES</h5>
-					<p>Applications open on Nov. 1, 2014. Deadline for priority admissions is <strong>Jan. 15, 2015</strong>. Applications received after the deadline will be reviewed on a rolling admissions basis until the class is full. Each discipline is capped at 14 students, except for screenwriting, where up to 20 students will be admitted.</p>
+					<p>Applications open on Nov. 1, 2014. Deadline for priority admissions is <strong>March 14, 2015</strong>. Applications received after the deadline will be reviewed on a rolling admissions basis until the class is full. Each discipline is capped at 14 students, except for screenwriting, where up to 20 students will be admitted.</p>
 					<h5>Contact</h5>
 					<p><a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Office of Graduate Admissions</a></br>
 						Brooklyn College</br>

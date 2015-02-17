@@ -392,19 +392,19 @@
 		</div>
 	</div>
 </section>
-<!--<section class="partners">
+<section class="partners">
 	<div class="title"><h4>Partners</h4></div>
 	<div class="partners-list">
 		<div class="wrap">
+			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_avid.png"></div>
+			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_miny.png"></div>
+			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_steiner.png"></div>
+			<!--<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
 			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
+			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>-->
 		</div>
 	</div>
-</section>-->
+</section>
 	</section>
 	<section class="visit-us">
 	<div class="headline">

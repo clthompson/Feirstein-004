@@ -7897,3 +7897,9 @@ html {
 .advisory-council .content .wrap article .bio a:hover {
   color: #2e7de1 !important;
 }
+
+/* Partners */ 
+.partners .partners-list .wrap img {
+  max-height: 200px;
+  max-width: 100%;
+}
