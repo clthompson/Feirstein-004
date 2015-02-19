@@ -209,7 +209,12 @@
 		<div class="admission-info">
 			<div class="split-item  adm-requirements">
 				<div class="breadcrumbs" id="ma-cinemastudies"><a href="#ma-cinemastudies">MA in cinema studies</a><a href="#mfa-cinemaarts">MFA in cinema arts</a></div>
-				<aside><h3>MA</h3><h5>in cinema <br/>studies</h5></aside>
+				<aside>
+					<h3>MA</h3><h5>in cinema <br/>studies</h5>
+					<div class="req-intro">
+						<p>A two-year full- or part-time program that offers a comprehensive education in cinema history, theory, criticism and aesthetics; and encourages the scholarly exploration of cinema as a form of art and a social communication.</p>
+					</div>
+				</aside>
 				<article id="admissions-ma-cinemastudies">
 					<h5>Requirements for Application for M.A. in Cinema Studies</h5>
 					<strong>Introduction</strong>
@@ -248,7 +253,20 @@
 					</p>
 				</article>
 				<div id="mfa-cinemaarts"></div>
-				<aside><h3>MFA</h3><h5>in cinema <br/>arts</h5></aside>
+				<aside>
+					<h3>MFA</h3><h5>in cinema <br/>arts</h5>
+					<div class="req-intro">
+						<p>A three-year full-time program that offers a highly specialized education in a hands-on learning environment in six disciplines:</p>
+						<ul>
+							<li>Cinematography</li>
+							<li>Directing</li>
+							<li>Post-production</li>
+							<li>Producing</li>
+							<li>Screenwriting</li>
+							<li>Digital Arts (begins in fall 2016)</li>
+						</ul>
+					</div>
+				</aside>
 				<article>
 					<h5>Requirements for Application for M.F.A. in Cinema Arts</h5>
 					<p>Applications to the M.F.A. in Cinema Arts Program will be considered based on demonstrated evidence of the following:</p>

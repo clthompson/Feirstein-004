@@ -225,11 +225,12 @@
 						<li>The Office of the Brooklyn Borough President</li>
 					</ol>
 				</div>
+				<div id="advisory-council"></div>
 			</div>
 		</div>
 	</div>
 </section>
-<section class="advisory-council">
+<section class="advisory-council" >
 	<div class="about-section-title">
 		<div class="wrap">
 			<div class="title"><h4>Advisory council</h4></div>

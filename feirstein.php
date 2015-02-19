@@ -171,8 +171,10 @@
 				<p itemprop="description" class="deadline-rider">Applications received before the deadline will receive priority consideration.</p>
 			</div>
 			<div class="illustration the-wrap">
-				<figcaption><p>Eli Stuart <span class="yellow">/ Aspiring Filmmaker</span></p></figcaption>
-				<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/homepage-intro-testimony.jpg">
+				<img class="testimony-img" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/homepage-intro-testimony-hawke.jpg">
+				<figcaption><p>Ethan Hawke <span class="yellow">/ Oscar-nominated Actor</span></p></figcaption>
+				<p class="testimony-p white">Meet our Advisory Council — industry professionals dedicated to supporting the mission and vision of Feirstein.</br>
+				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php#advisory-council">Learn more ></a></p>
 			</div>
 		</div>
 	</div>

@@ -7903,3 +7903,117 @@ html {
   max-height: 200px;
   max-width: 100%;
 }
+
+/* Testimonials */
+.homepage-hero .overlay .illustration img {
+  width: 100%;
+}
+
+.illustration img.testimony-img {
+  width: 100%;
+  z-index: -2;
+}
+
+.illustration figcaption {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.illustration p.testimony-p{
+  position: absolute;
+  width: 50%;
+  right: 20px;
+  bottom: 60px;
+  text-align: left; 
+  font-size: 1.5em !important;
+  letter-spacing: .05em !important;
+  line-height: 1.25em !important;
+}
+
+.illustration p.testimony-p.white {
+  color: #fff;
+}
+
+.illustration p.testimony-p.black {
+  color: #000;
+}
+
+.illustration p.testimony-p a{
+  color: #f0635d;
+}
+
+.illustration p.testimony-p.white a:hover{
+  color: #f4918d !important;
+}
+
+.illustration p.testimony-p.black a:hover{
+  color: #a84541 !important;
+}
+
+@media all and (max-width: 1201px) {
+  .illustration p.testimony-p {
+    font-size: 1.1em !important;
+    letter-spacing: .00em !important;
+    line-height: 1.1em !important;
+  }
+}
+
+/* Requirements Intro */
+.req-intro {
+  width: 155px;
+  padding-top: 20px;
+}
+
+.req-intro p, .req-intro li {
+  font-size: .8em;
+  text-align: left !important;
+  color: #58595B;
+}
+
+@media all and (max-width: 1065px) {
+  .req-intro {
+    width: 140px;
+  }
+  .req-intro p, .req-intro li {
+    font-size: .75em;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .req-intro {
+    width: 125px;
+  }
+  .req-intro p, .req-intro li {
+    font-size: .7em;
+  }
+}
+
+@media all and (max-width: 769px) {
+  .req-intro {
+    width: 140px;
+    padding-top: 15px;
+  }
+  .req-intro p, .req-intro li {
+    font-size: .9em;
+  }
+}
+
+@media all and (max-width: 640px) {
+  .req-intro {
+    width: 100px;
+    padding-top: 10px;
+  }
+  .req-intro p, .req-intro li {
+    font-size: .8em;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .req-intro {
+    width: 100%;
+  }
+  .req-intro p, .req-intro li {
+    font-size: .9em;
+  }
+}
