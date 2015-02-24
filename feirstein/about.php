@@ -251,6 +251,7 @@
 					 <li class="selection" data-person="ethan-hawke"><span>Ethan Hawke</span></li>
 					 <li class="selection" data-person="cynthia-lopez"><span>Cynthia López</span></li>
 					 <li class="selection" data-person="michael-lynne"><span>Michael Lynne</span></li>
+					 <li class="selection" data-person="robert-richardson"><span>Robert Richardson</span></li>
 					 <li class="selection" data-person="steven-soderbergh"><span>Steven Soderbergh</span></li>
 					 <li class="selection" data-person="douglas-steiner"><span>Douglas Steiner</span></li>
 					 <li class="selection" data-person="fisher-stevens"><span>Fisher Stevens</span></li>
@@ -335,6 +336,19 @@
 					<h5>Michael Lynne</h5>
 					<p>Michael Lynne is a principal of Unique Features LLC, a film and television development and production company. Prior to Unique Features, Lynne was co-chairman and co-CEO of New Line Cinema Corporation. During his long association with the company and its founder, Robert Shaye, he was a driving force in its becoming the most successful, fully integrated independent film company in the world. In addition to many other films, Lynne was an executive producer of New Line’s historically successful <em>The Lord of the Rings</em> trilogy.</p>
 					<p>Lynne is a long-time trustee of the Brooklyn College Foundation and also sits on the boards of the Museum of Modern Art, Citymeals-on-Wheels and Guild Hall of East Hampton. He is a member of the board of visitors of Columbia Law School, where he received his J.D. degree in 1964. He is a director of the publicly traded REIT, Vornado Realty Trust and IMAX Corporations, and is the owner of the North Fork’s premier winery and vineyard, Bedell Cellars.</p>
+				</div>
+			</article>
+			<article class="hidden" data-person="robert-richardson">
+				<div class="picture" style="background-image:url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Robert_Richardson.jpg')">
+				</div>
+				<div class="bio">
+					<h5>Robert Richardson, ASC</h5>
+					<p>Robert Richardson is a three-time Academy Award winner for Best Cinematography for his work on both Martin Scorsese's <em>Hugo</em> and <em>The Aviator</em> and Oliver Stone's epic tapestry, <em>JFK</em>.</p>
+					<p>Richardson has enjoyed a successful long-standing relationship with Stone. By cultivating the ability to adopt a wide variety of visual styles as a survival guide, their artistic partnership flourished on a number of films, including <em>Natural Born Killers, Nixon, Born on the Fourth of July</em> and <em>Platoon</em>, the latter two of which garnered Richardson Academy Award nominations.</p>
+					<p>He has done additional beautiful work for Scorsese (<em>Casino, Bringing Out the Dead</em>) as well as for other prominent directors, such as Robert Redford (<em>The Horse Whisperer</em>) and Barry Levinson (<em>Wag the Dog</em>).</p>
+					<p>Currently, Richardson is working on <em>The Hateful 8</em>, which marks his fifth collaboration with director Quentin Tarantino, having previously teamed with the influential filmmaker on <em>Django Unchained, Inglorious Basterds</em> and both volumes of <em>Kill Bill</em>.</p>
+					<p>He has also photographed several documentaries with Errol Morris, including <em>Fast, Cheap and Out of Control; Mr. Death;</em> and the unflinching Abu Ghraib documentary <em>Standard Operating Procedure</em>.</p>
+					<p>A native of Cape Cod, Mass., Richardson attended the Rhode Island School of Design and the American Film Institute.</p>
 				</div>
 			</article>
 			<article class="hidden" data-person="steven-soderbergh">
