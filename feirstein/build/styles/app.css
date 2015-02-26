@@ -8017,3 +8017,20 @@ html {
     font-size: .9em;
   }
 }
+
+/* AVID logo on the facilities and PP pages */
+#avid, #avid2 {
+  display: inline;
+  vertical-align: text-bottom;
+  width: 43px;
+  height: 13px;
+  margin-bottom: .25em;
+}
+
+.avid-pp {
+  display: inline;
+  vertical-align: text-top;
+  width: 112px;
+  height: 34px;
+  margin-top: .3em;
+}

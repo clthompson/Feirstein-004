@@ -182,12 +182,12 @@
 		<div class="item">
 			<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-icons/facilities_post_production.png">
 			<h5>Post-production</h5>
-			<span>Avid Everywhere&trade;</span>
+			<a href="http://www.avid.com/US/Vision/index.html#overview" target="_blank"><span>Powered by <img id="avid" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Avid_logo_purple_112x34.png"></span></a>
 		</div>
 		<div class="item">
 			<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-icons/facilities_editing.png">
-			<h5>Editing</h5>
-			<span>Suites</span>
+			<h5>Editing Suites</h5>
+			<span><a href="http://www.avid.com/US/Vision/index.html#overview" target="_blank">Powered by <img id="avid2" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Avid_logo_purple_112x34.png"></a></span>
 		</div>
 		<div class="item">
 			<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/facilities-icons/facilities_animation.png">
