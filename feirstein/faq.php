@@ -78,6 +78,19 @@
 		ga('create', 'UA-53237086-1', 'auto');
 		ga('send', 'pageview');
 	</script>
+	<!-- Begin Universal Pixel -->
+	<div id="ttdUniversalPixelTagaa529e32300c4c20bb33d3dc65f0749c" style="display:none">
+        <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            (function(global) {
+                if (typeof TTDUniversalPixelApi === 'function') {
+                    var universalPixelApi = new TTDUniversalPixelApi();
+                    universalPixelApi.init("fyfrwc5", ["ijkuka3"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTagaa529e32300c4c20bb33d3dc65f0749c");
+                }
+            })(this);
+        </script>
+    </div>
+	<!-- End Universal Pixel -->
 	<header class="page-header">
 	<div class="gutter"></div>
 	<h1>
