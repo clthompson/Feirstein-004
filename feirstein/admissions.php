@@ -161,8 +161,8 @@
 		<div class="admission-hero-introduction">
 			<div class="content">
 				<div class="title">
-					<h4>Deadline for</br>Applications</h4>
-					<h5>March 14, 2015</h5>
+					<h4>Applications accepted on a rolling basis until all places are filled.</h4>
+					<h5>For more information, contact the Office of Graduate Admissions at 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</h5>
 				</div>
 			</div>
 		</div>
@@ -176,22 +176,6 @@
 				<div class="cta-info"><div class="content"><h6>Apply</h6>
 				</div></div>
 			</a>
-		</div>
-		<div class="right-content">
-			<div class="deadlines">
-				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
-					<h4 class="salmon">MA</h4>
-					<p class="deadline-p">in cinema<br>studies</p>
-					<h4 class="date">03/14/15</h4>
-				</a>
-				<div class="separator"></div>
-				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#mfa-cinemaarts" class="item">
-					<h4 class="salmon">MFA</h4>
-					<p class="deadline-p">in cinema<br>arts</p>
-					<h4 class="date">03/14/15</h4>
-				</a>
-			</div>
-			<p itemprop="description" class="deadline-rider">Applications received before the deadline will receive priority consideration.</p>
 		</div>
 	</div>
 </section>

@@ -166,22 +166,7 @@
 				<div class="title">
 					<h3><span>Opening Fall 2015</span></h3>
 				</div>
-				<p itemprop="description"><span itemprop="name">The Feirstein Graduate School of Cinema at Steiner Studios</span>, the first public graduate film school in New York, is looking for exceptional students.</p>
-				<p class="salmon">Deadline for applications:</p>
-				<div class="deadlines">
-					<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
-						<h4 class="salmon">MA</h4>
-						<p>in cinema<br>studies</p><br>
-						<h4 class="date">03/14/15</h4>
-					</a>
-					<div class="separator"></div>
-					<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#mfa-cinemaarts" class="item">
-						<h4 class="salmon">MFA</h4>
-						<p>in cinema<br>arts</p><br>
-						<h4 class="date">03/14/15</h4>
-					</a>
-				</div>
-				<p itemprop="description" class="deadline-rider">Applications received before the deadline will receive priority consideration.</p>
+				<p itemprop="description">Applications accepted on a rolling basis until all places are filled. For more information, contact the Office of Graduate Admissions at 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</p>
 			</div>
 			<div class="illustration the-wrap">
 				<img class="testimony-img" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/homepage-intro-testimony-hawke.jpg">

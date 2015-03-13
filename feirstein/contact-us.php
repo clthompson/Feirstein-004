@@ -177,7 +177,7 @@
 </section>
 <section class="split-overlay contact-form" style="overflow: hidden;">
 	<div class="overlay">
-		<p>If you are interested in receiving more information about the Feirstein Graduate School of Cinema’s programs and events, please send us your email.</p>
+		<p>If you are interested in receiving more information about the Feirstein Graduate School of Cinema’s programs and events, please send us your e&#8209;mail.</p>
 		<form class="general-form" action="http://cuny.us1.list-manage.com/subscribe/post-json" method="POST">
 					<input type="hidden" name="u" value="b6b1f93a018d8441f6ca8c64e">
 					<input type="hidden" name="id" value="da294fcec8">
