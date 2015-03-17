@@ -43,7 +43,6 @@
 	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/app.min.css">
 
 	<!-- Tracking -->
-	<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);  mixpanel.init("436e513f5900df201df5bbfc5667a7aa");</script>
 
 	<!-- Devices -->
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="------icons/apple-touch-icon-144-precomposed.png">
@@ -53,11 +52,6 @@
 
 	<link rel="home" href="http://www.brooklyn.cuny.edu" />
 
-<!-- start Mixpanel -->
-<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
- for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
- mixpanel.init("436e513f5900df201df5bbfc5667a7aa");</script>
-<!-- end Mixpanel -->
 
 <script type="text/javascript">
 	$(document).ready(function(){
@@ -71,40 +65,7 @@
   </head>
 
   <body class="fadeIn">
-  	<!-- Google Analytics Code -->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		ga('create', 'UA-53237086-1', 'auto');
-		ga('send', 'pageview');
-	</script>
-	<!-- Start of DoubleClick Floodlight Tag: Please do not remove
-	Activity name of this tag: About_Dec
-	URL of the webpage where the tag is expected to be placed: http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php
-	This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-	Creation Date: 12/04/2014 -->
-		<script type="text/javascript">
-		var axel = Math.random() + "";
-		var a = axel * 10000000000000;
-		document.write('<iframe src="http://4535897.fls.doubleclick.net/activityi;src=4535897;type=Fall20;cat=about0;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-		</script>
-		<noscript>
-		<iframe src="http://4535897.fls.doubleclick.net/activityi;src=4535897;type=Fall20;cat=about0;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-		</noscript>
-	<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
-	<!-- Begin Universal Pixel -->
-	<div id="ttdUniversalPixelTagaa529e32300c4c20bb33d3dc65f0749c" style="display:none">
-        <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            (function(global) {
-                if (typeof TTDUniversalPixelApi === 'function') {
-                    var universalPixelApi = new TTDUniversalPixelApi();
-                    universalPixelApi.init("fyfrwc5", ["ijkuka3"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTagaa529e32300c4c20bb33d3dc65f0749c");
-                }
-            })(this);
-        </script>
-    </div>
-	<!-- End Universal Pixel -->
+
 	<header class="page-header">
 	<div class="gutter"></div>
 	<h1>
@@ -178,6 +139,21 @@
 		<p>Visit: <a href="http://www.steinerstudios.com" target=_blank""><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/steiner-studios-logo.png" alt="Steiner Studios logo"></a></p>
 		<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/divider-pink-long.png" class="divider">
 		<p class="rolling" itemprop="description">Applications accepted on a rolling basis until all places are filled. For more information, contact the Office of Graduate Admissions at 718.951.4536 or e&#8209;mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</p>
+		<!--<p class="about-deadline salmon">Deadline for applications:</p>
+		<div class="deadlines">
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#ma-cinemastudies" class="item">
+				<h4 class="salmon">MA</h4>
+				<p>in cinema<br>studies</p><br>
+				<h4 class="date">03/14/15</h4>
+			</a>
+			<div class="separator"></div>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php#mfa-cinemaarts" class="item">
+				<h4 class="salmon">MFA</h4>
+				<p>in cinema<br>arts</p><br>
+				<h4 class="date">03/14/15</h4>
+			</a>
+		</div>
+		<p itemprop="description" class="deadline-rider">Applications received before the deadline will receive priority consideration.</p>-->
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
 			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6></div></div>
@@ -495,6 +471,5 @@
 	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.min.js"></script>
 <script>window.App.about.run()</script>
 
-<IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=feirstein_remarketing" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
   </body>
 </html>

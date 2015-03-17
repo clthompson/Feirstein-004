@@ -8079,3 +8079,7 @@ html {
 .homepage-hero .overlay .homepage-hero-introduction p {
   text-align: left !important;
 }
+
+.rolling a {
+  margin-top: 0em !important;
+}
