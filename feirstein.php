@@ -169,8 +169,8 @@
 				<p itemprop="description">Applications accepted on a rolling basis until all places are filled. For more information, contact the Office of Graduate Admissions at 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</p>
 			</div>
 			<div class="illustration the-wrap">
-				<img class="testimony-img" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/homepage-intro-testimony-hawke.jpg">
-				<figcaption><p>Ethan Hawke <span class="yellow">/ Oscar-nominated Actor</span></p></figcaption>
+				<img class="testimony-img" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/homepage-intro-testimony-aronofsky.jpg">
+				<figcaption><p>Darren Aronofsky <span class="yellow">/ Director</span></p></figcaption>
 				<p class="testimony-p white">Meet our Advisory Council — industry professionals dedicated to supporting the mission and vision of Feirstein.</br>
 				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php#advisory-council">Learn more ></a></p>
 			</div>
