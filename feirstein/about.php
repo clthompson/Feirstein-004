@@ -241,6 +241,7 @@
 					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks</br>
 					 	<span class="jwfd">Founding Director</span></span>
 					 </li>
+					 <li class="selection" data-person="maryse-alberti"><span>Maryse Alberti</span></li>
 					 <li class="selection" data-person="darren-aronofsky"><span>Darren Aronofsky</span></li>
 					 <li class="selection" data-person="don-buchwald"><span>Don Buchwald</span></li>
 					 <li class="selection" data-person="celia-costas"><span>Celia Costas</span></li>
@@ -264,6 +265,23 @@
 					<p>Barry R. Feirstein graduated from Brooklyn College summa cum laude with a B.S. in economics and membership in Phi Beta Kappa. He earned an M.B.A. from the Harvard Graduate School of Business in 1978 and became a technology analyst for Equitable Capital Management Corporation of New York. He managed the firm’s aggressive growth portfolio from 1984 to 1992 so successfully that the financial press noted his capacity to foretell trends and discover promising areas his fellow professionals had overlooked, such as biotechnology, the Internet and personal computers.</p>
 					<p>Feirstein is also the founder of Feirstein LLC, a unique investment partnership. Feirstein believes that a film school, located on a film studio in New York City and run by Brooklyn College, will be distinctive, excellent and highly competitive in today’s entertainment industry. The ability to help create a graduate school reminded Feirstein of his other great investment opportunities. </p>
 					<p>Feirstein is a producer of Broadway and off-Broadway musicals and plays, including <em>Catch Me if You Can</em>; <em>Black Tie</em>; <em>Morini Strad</em>; <em>Harrison, TX</em>; <em>The Model Apartment</em> and <em>Poor Behavior</em>. He serves on the board of the Brooklyn College Foundation, is ex-chairman of the Friars Foundation, and president of The New York Film Society and the Anderson Center for Autism. He is a regular contributor to a number of New York City nonprofit organizations, including the Friars Club, the Center for Jewish History and the American Ballet Theater.</p>
+				</div>
+			</article>
+			<article class="hidden" data-person="maryse-alberti">
+				<div class="picture" style="background-image:url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Maryse_Alberti.jpg')">
+				</div>
+				<div class="bio">
+					<h5>Maryse Alberti</h5>
+					<p>Maryse Alberti is a multi–award-winning cinematographer and photographic artist from France who has worked on a variety of high-profile projects. </p>
+					<p>She is currently shooting <em>Creed</em>, the <em>Rocky</em> re-boot starring Sylvester Stallone and Michael B. Jordan for director Ryan Coogler.</p>
+					<p>Recent projects include <em>Freeheld</em>, starring Steve Carell, Julianne Moore and Ellen Page with director Peter Sollett; <em>The Visit</em>, the M. Night Shyamalan's thriller set to be released Sept. 11, 2015; and <em>Bending the Light</em>, a Michael Apted documentary thatscreened at last year's Camerimage International Film Festival.</p>
+					<p>With an eye for thought-provoking and challenging subject matter, Alberti has lensed a number of lauded political films, including director Amy Berg's exploration of the infamous West Memphis Three, <em>West of Memphis</em>, which premiered at the 2012 Sundance Film Festival, and the 2010 feature <em>Stone</em>, starring Robert De Niro and Edward Norton.</p>
+					<p>Alberti's wide-ranging body of work includes the Oscar-nominated Darren Aronofsky directed film <em>The Wrestler</em>, for which she received the 2008 Best Cinematography Independent Spirit Award. She received praise for her standout cinematography on director Todd Haynes' <em>Poison</em> and <em>Velvet Goldmine</em> and the hard-hitting drama <em>Happiness</em> for indie provocateur Todd Solondz. For <em>Velvet Goldmine,</em> Alberti earned her first Indie Spirit Best Cinematography Award.</p>
+					<p>Additionally, she has lensed several acclaimed documentaries with her long-time collaborator Alex Gibney: <em>We Steal Secrets,</em> about Wikileaks founder Julian Assange; <em>The Armstrong Lie,</em> an official selection for the 2013 Toronto International Film Festival; and <em>Casino Jack and the United States of Money</em>. Her documentary work with Gibney also includes the films <em>History of the Eagles Part One; Client 9: The Rise and Fall of Eliot Spitzer;</em> <em>Gonzo:</em><em>The Life and Work of Dr. Hunter S. Thompson</em> and <em>Taxi to the Dark Side</em>, which won the 2008 Academy Award for Best Documentary.</p>
+					<p>The director and cinematographer's early collaboration, <em>Enron: The Smartest Guys in the Room</em>, received a Best Documentary Academy Award nomination in 2006. Later that year, Alberti received the prestigious Kodak Vision Award and an Emmy nomination for Outstanding Cinematography on HBO's <em>ALL ABOARD! Rosie's Family Cruise</em>. In 2004, she earned an Independent Spirit Awards nomination for Best Cinematography for her work on the feature <em>We Don't Live Here Anymore</em><em>,</em> directed by John Curran. </p>
+					<p>Her other awards include Sundance Film Festival Best Cinematography honors for documentaries <em>CRUMB</em> in 1995 and <em>H-2 Worker</em> in 1990. </p>
+					<p> Alberti came to New York in the mid 1970s and for the next few years hitchhiked through the United States. She began taking photographs when she arrived back in New York City. Before long she was working for the <em>New York Rocker</em> magazine, photographing artists including Lou Reed, Iggy Pop and Frank Zappa. In the mid 1980s Alberti began working on movie sets, first as a stills photographer, then as a cinematographer on both features and documentaries. </p>
+					<p> As well as her film work, Alberti continues to make highly personal art in the form of photographs and video. She has exhibited in New York and Los Angeles galleries. In the last couple of years Alberti has worked with artists such as Laurie Anderson and Pierre Huyghe. She lives in New York City with her husband and son and is represented by Dattner Dispoto and Associates of Los Angeles.</p>
 				</div>
 			</article>
 			<article class="hidden" data-person="darren-aronofsky">
