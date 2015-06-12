@@ -163,67 +163,15 @@
 					<aside><h5 class="bordeaux">Choose</h4><h5>a position</h5></aside>
 					<article>
 							<div class="letter"><p>The new Barry R. Feirstein Graduate School of Cinema will open on the Steiner Studios film lot in Brooklyn, N.Y., in fall 2015. The school will offer a two-year M.A. in cinema studies and a three-year M.F.A. in cinema arts with a specialized education in six disciplines — producing, directing, screenwriting, cinematography, post-production and digital arts (begins in fall 2016). Housed in a new 68,000-square-foot state-of the-art facility, the school is the first public graduate film school in New York and the only film school in the United States located on a working film lot, and is dedicated to cultivating new and emerging voices in cinema.</p>
-							<p>The Feirstein Graduate School of Cinema invites applications for the following tenure-track positions, beginning in fall 2015. All appointments are subject to financial availability.</p>
-							<div class="faq-item">
-							<div class="faq-category">
-								<h5>Assistant Professor — Production (Film)</h5><span>&#9662;</span>
-							</div>
-							<div class="faq-questions">
-								<div class="question">
-									<p class="answer">The successful candidate will be required to teach five courses in (narrative) production and post-production per year, mentor graduate students, and contribute to the ongoing development of the M.F.A. program in cinema arts. For purposes of reappointment, tenure and promotion, emphasis will be placed on teaching effectiveness, creative achievement and service to the school and Brooklyn College. Faculty release time, subject to approval, is granted to pursue academic research.</p>
-									<p class="answer"><strong>Qualifications</strong></p>
-									<ul class="answer">
-										<li>An M.F.A. in film/digital production</li>
-										<li>At least three years of graduate-level teaching experience</li>
-										<li>A recognized body of credited, professional work in (narrative) filmmaking</li>
-										<li>A demonstrable capacity to translate one's professional background into a dynamic classroom experience</li>
-										<li>Hands-on expertise in digital production, including familiarity with most of the following equipment: Red Epic; Cannon C500; Sony F55 and F65; Arriflex Alexa and associated lenses, lighting, grip and distribution; Avid Media Composer; Blackmagic DaVinci and Pro Tools</li>
-										<li>A commitment to teaching at a public, urban institution that serves a highly diverse student body</li>
-									</ul>
-									<p class="answer">Step One: <a href="https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=11798&SiteId=1&PostingSeq=1" target="_blank">Apply Here</a></p>
-									<p class="answer">Step Two: <a href="https://websql.brooklyn.cuny.edu/hrref/?job_id=114" target="_blank">Submit Reference Information</a></p>
-								</div>
-							</div>
-							</div>
-							<div class="faq-item">
-							<div class="faq-category">
-								<h5>Assistant Professor — Screenwriting (Film)</h5><span>&#9662;</span>
-							</div>
-							<div class="faq-questions">
-								<div class="question">
-									<p class="answer">The successful candidate will be required to teach five courses in (narrative) screenwriting per year, mentor graduate students, and contribute to the ongoing development of the M.F.A. program in cinema arts. For purposes of reappointment, tenure and promotion, emphasis will be placed on teaching effectiveness, creative achievement and service to the school and Brooklyn College. Pre-tenured faculty receive new faculty release time to pursue academic research.</p>
-									<p class="answer"><strong>Qualifications</strong></p>
-									<ul class="answer">
-										<li>An M.F.A. in screenwriting or appropriate terminal degree in a related discipline, such as creative writing</li>
-										<li>At least three years of graduate-level teaching experience</li>
-										<li>A recognized body of credited, professional work in (narrative) screenwriting</li>
-										<li>A demonstrable capacity to translate one's professional background into a dynamic classroom experience</li>
-										<li>A strong commitment to teaching at a public, urban institution that serves a highly diverse student body</li>
-									</ul>
-									<p class="answer">Step One: <a href="https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=11799&SiteId=1&PostingSeq=1" target="_blank">Apply Here</a></p>
-									<p class="answer">Step Two: <a href="https://websql.brooklyn.cuny.edu/hrref/?job_id=115" target="_blank">Submit Reference Information</a></p>
-								</div>
-							</div>
-						</div>
-							<div class="faq-item">
-							<div class="faq-category">
-								<h5>Distinguished Lecturer — Cinematography (Film)</h5><span>&#9662;</span>
-							</div>
-							<div class="faq-questions">
-								<div class="question">
-									<p class="answer">The successful candidate will have a national or international reputation and will possess the skills, background and temperament to contribute to a new graduate program that will rival those of the finest film schools in the country. Responsibilities include teaching at the graduate level in various aspects of cinematography, from introductory to advanced classes; supervising student productions; and administering the cinematography track as well as participating in program administration, curriculum development and departmental committees. The successful candidate will be expected to mentor cinematography students and contribute to the ongoing development of the M.F.A. program.</p>
-									<p class="answer"><strong>Qualifications</strong></p>
-									<ul class="answer">
-										<li>A bachelor's degree and a record of achievement in a profession or field of expertise related to teaching assignments</li>
-										<li>An M.F.A. in filmmaking and prior college-level teaching experience (preferred). Candidates without an M.F.A. who have a distinguished body of feature film and/or dramatic television credits are encouraged to apply</li>
-										<li>A demonstrable ability to translate one's professional background into a dynamic classroom experience</li>
-										<li>A commitment to teaching at a public, urban institution that services a highly diverse student body</li>
-									</ul>
-									<p class="answer">Step One: <a href="https://home.cunyfirst.cuny.edu/psp/cnyepprd/GUEST/HRMS/c/HRS_HRAM.HRS_CE.GBL?Page=HRS_CE_JOB_DTL&Action=A&JobOpeningId=12111&SiteId=1&PostingSeq=1" target="_blank">Apply Here</a></p>
-									<p class="answer">Step Two: <a href="https://websql.brooklyn.cuny.edu/hrref/?job_id=117" target="_blank">Submit Reference Information</a></p>
-								</div>
-							</div>
-							</div>
+							<p>The Feirstein Graduate School of Cinema is looking for adjunct faculty qualified to teach graduate-level courses for fall 2015 and spring 2016 on the following topics:</p>
+							<ul>
+							 <li>Integrated Media</li>
+							 <li>Production Workshop</li>
+							 <li>Sound Recording</li>
+							 <li>Script Analysis &amp; Development</li>
+							 <li>Various Cinema Studies courses</li>
+							</ul>
+							<p>Industry credits required, graduate teaching experience preferred, M.F.A. preferred for production courses, Ph.D. required for Cinema Studies courses. Please send CV and short cover letter to <a href="mailto:MMoore@brooklyn.cuny.edu">Matt Moore</a>, academic program manager.</p>
 					</article>
 				</div>
 			</div>
