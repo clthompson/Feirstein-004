@@ -174,6 +174,7 @@
 			<aside>
 				<ol>
 					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks</li>
+					 <li class="selection" data-person="ricardo-hernandez-anzola"><span>Ricardo Hernández Anzola</span></li>
 					 <li class="selection" data-person="sarah-christman"><span>Sarah Christman</span></li>
 					 <li class="selection" data-person="sabine-hoffman"><span>Sabine Hoffman</span></li>
 					 <li class="selection" data-person="jason-kliot"><span>Jason Kliot</span></li>
@@ -193,6 +194,18 @@
  					<p>Learn more about Jonathan Wacks:</p>
 					<ul>
   						<li><a href="http://www.imdb.com/name/nm0905237/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
+					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="ricardo-hernandez-anzola">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Ricardo Hernández Anzola, Screenwriting</h5>
+					<p>Ricardo Hernández Anzola graduated from Columbia University&rsquo;s M.F.A. program in film, and during his time there he co-wrote several thesis short films that went on to play and garner awards in showcases like Sundance, Telluride, Berlin, Aspenshort and New Directors/New Films. His first feature film as a screenwriter, <em>Mejor es que Gabriela no se muera </em>was part of the official selection of AFI FEST, Guadalajara and São Paulo, among others, and won the award for Best First Feature at Cinequest in 2008. As a writer for Venezuela&rsquo;s RCTV (then one of the leading content producers in Latin America), he worked as creator and head writer of telenovelas and TV series including <em>Tukiti, I Grew up</em>, which was a semifinalist for the International Emmys in 2007 in the Children and Young People category. During that same period he also taught screenwriting at the Universidad Central de Venezuela as an adjunct professor.</p>
+					<p>Most recently he created and co-directed <em>La cocina de Babe, </em>a 13-episode documentary series about immigration in Venezuela and the way its stories are told through food.</p>
+					<p>Learn more about Ricardo Hernández Anzola:</p>
+					<ul>
+  						<li><a href="http://www.imdb.com/name/nm1172278/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
 					</ul>
 				</div>
 			</article>
