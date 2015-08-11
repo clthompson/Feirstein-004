@@ -176,10 +176,12 @@
 					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks</li>
 					 <li class="selection" data-person="ricardo-hernandez-anzola"><span>Ricardo Hernández Anzola</span></li>
 					 <li class="selection" data-person="sarah-christman"><span>Sarah Christman</span></li>
+					 <li class="selection" data-person="sarah-cawley"><span>Sarah Cawley</span></li>
 					 <li class="selection" data-person="sabine-hoffman"><span>Sabine Hoffman</span></li>
 					 <li class="selection" data-person="jason-kliot"><span>Jason Kliot</span></li>
 					 <li class="selection" data-person="katherine-lindberg"><span>Katherine Lindberg</span></li>
 					 <li class="selection" data-person="paula-massood"><span>Paula Massood</span></li>
+					 <li class="selection" data-person="jason-orans"><span>Jason Orans</span></li>
 					 <li class="selection" data-person="thomas-reilly"><span>Thomas Reilly</span></li>
 					 <li class="selection" data-person="howard-rosenman"><span>Howard Rosenman</span></li>
 				</ol>
@@ -217,6 +219,18 @@
   					<p>Learn more about Sarah Christman:</p>
 					<ul>
   						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=794" target="_blank">Brooklyn College Faculty Profile</a></li>
+					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="sarah-cawley">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Sarah Cawley, Producing and Cinematography</h5>
+					<p>Sarah Cawley began her career as a cinematographer on independent features and music videos, working with such directors as Steve Buscemi, Richard Shepard, Hal Hartley and Michael Spiller. In 2006, <em>Variety</em> included her on its prestigious list of &ldquo;10 Cinematographers to Watch.&rdquo; She is in demand as a director of photography on high-end network pilots, including <em>Ringer</em> for the CW Network, <em>Golden Boy</em> for CBS and <em>Salem</em> for Tribune/WGN. Cawley is represented by United Talent Agency.</p>
+					<p>Two of Cawley&rsquo;s students have been awarded the First Place Kodak International Cinematography Scholarship and have received recognition at Taiwan&rsquo;s Golden Horse Film Academy, the Toronto International Film Festival, the Hong Kong Film Festival and the Asian Film Academy.</p>
+					<p>Learn more about Sarah Cawley:</p>
+					<ul>
+  						<li><a href="http://www.imdb.com/name/nm0004529/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
 					</ul>
 				</div>
 			</article>
@@ -267,6 +281,17 @@
 					<p>Learn more about Paula Massood:</p>
 					<ul>
 						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=3" target="_blank">Brooklyn College Faculty Profile</a></li>
+					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="jason-orans">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Jason Orans, Integrated Media</h5>
+					<p>Emmy, Independent Spirit and Image Award–nominated producer Jason Orans&rsquo; narrative features include Ramin Bahrani&rsquo;s <em>Goodbye Solo</em> (winner of the FIPRESCI Critics Prize at Venice) and Sundance premieres <em>Night Catches Us</em> (starring Anthony Mackie and Kerry Washington), <em>Dare</em> (starring Emmy Rossum and Rooney Mara), <em>Year of the Fish</em> and <em>Flannel Pajamas</em>. His most recent documentary, Margaret Brown&rsquo;s <em>The Great Invisible</em>, won the Grand Jury Prize at SXSW and is nominated for the Exceptional Merit in Documentary Filmmaking 2015 Primetime Emmy Award. Orans has produced numerous other feature film, documentary, television and new media projects.</p>
+					<p>Learn more about Jason Orans:</p>
+					<ul>
+						<li><a href="http://www.imdb.com/name/nm0649346/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
 					</ul>
 				</div>
 			</article>
