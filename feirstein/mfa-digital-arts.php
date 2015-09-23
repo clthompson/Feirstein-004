@@ -194,7 +194,6 @@
 			</div>
 			<div class="text">
 				<h4 class="smaller">Digital Arts</h4>
-				<h5>(Scheduled to begin in fall 2016)</h5>
 			</div>
 		</div>
 		<p>Digital technologies have transformed the media and cinematic landscapes. The Digital Arts Program will be at the leading edge of those ongoing changes. With an emphasis on experimentation and imagination and a foundation in narrative structure, the program will bridge the worlds of technology-based innovation and cinematic storytelling. Courses and workshops will be taught by industry professionals culminating in the completion of a portfolio of personal and collaborative work in visual effects and CG animation.</p>

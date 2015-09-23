@@ -162,16 +162,16 @@
 				<div class="split-item">
 					<aside><h5 class="bordeaux">Choose</h4><h5>a position</h5></aside>
 					<article>
-							<div class="letter"><p>The new Barry R. Feirstein Graduate School of Cinema will open on the Steiner Studios film lot in Brooklyn, N.Y., in fall 2015. The school will offer a two-year M.A. in cinema studies and a three-year M.F.A. in cinema arts with a specialized education in six disciplines — producing, directing, screenwriting, cinematography, post-production and digital arts (begins in fall 2016). Housed in a new 68,000-square-foot state-of the-art facility, the school is the first public graduate film school in New York and the only film school in the United States located on a working film lot, and is dedicated to cultivating new and emerging voices in cinema.</p>
-							<p>The Feirstein Graduate School of Cinema is looking for adjunct faculty qualified to teach graduate-level courses for fall 2015 and spring 2016 on the following topics:</p>
+							<div class="letter"><p>The Barry R. Feirstein Graduate School of Cinema on the Steiner Studios film lot in Brooklyn, N.Y., opened in fall 2015. The school offers a two-year M.A. in cinema studies and a three-year M.F.A. in cinema arts with a specialized education in six disciplines — producing, directing, screenwriting, cinematography, post-production and digital arts (begins in fall 2016). Housed in a new 68,000-square-foot state-of the-art facility, the school is the first public graduate film school in New York and the only film school in the United States located on a working film lot, and is dedicated to cultivating new and emerging voices in cinema.</p>
+							<p>The Feirstein Graduate School of Cinema is looking for adjunct faculty qualified to teach the following graduate-level courses in spring 2016:</p>
 							<ul>
-							 <li>Integrated Media</li>
-							 <li>Production Workshop</li>
-							 <li>Sound Recording</li>
+							 <li>Post-Production Workshop</li>
 							 <li>Script Analysis &amp; Development</li>
-							 <li>Various Cinema Studies courses</li>
+							 <li>Sound Recording</li>
+							 <li>World Cinema 2: 1960 to the Present</li>
+							 <li>Various cinema studies courses</li>
 							</ul>
-							<p>Industry credits required, graduate teaching experience preferred, M.F.A. preferred for production courses, Ph.D. required for Cinema Studies courses. Please send CV and short cover letter to <a href="mailto:MMoore@brooklyn.cuny.edu">Matt Moore</a>, academic program manager.</p>
+							<p>Industry credits are required, and graduate teaching and M.F.A. are preferred for production courses. Ph.D. is required for cinema studies courses. Send CV and short cover letter to <a href="mailto:MMoore@brooklyn.cuny.edu?Subject=Feirstein Jobs">Matt Moore</a>, academic program manager; please reference “Feirstein Jobs” in the subject line.</p>
 					</article>
 				</div>
 			</div>

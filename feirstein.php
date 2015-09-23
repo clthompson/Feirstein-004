@@ -147,32 +147,34 @@
 		<div class="homepage-hero-heading">
 			<h2>
 				<span class="make">Make</span>
-				<span class="your">your</span>
-				<span class="movie">movie</span>
+				<span class="your">a</span>
+				<span class="movie">scene</span>
 			</h2>
 			<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/divider-warm-short.png" class="divider">
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="cta warm">
 				<div class="content"><h6>Apply<br>now</h6></div>
-				<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6>
+				<div class="cta-info"><div class="content"><h6>for<br>fall 2016</h6>
 				</div></div>
 			</a>
 		</div>
 		<div class="homepage-hero-introduction">
 			<div class="title">
-				<h3>Opening</h3>
-				<h3 class="reduced">Fall 2015</h3>
+				<h3>Apply Now</h3>
+				<h3 class="reduced">for Fall 2016</h3>
 			</div>
 			<div class="content">
 				<div class="title">
-					<h3><span>Opening Fall 2015</span></h3>
+					<h3><span>Apply Now for Fall 2016</span></h3>
 				</div>
-				<p itemprop="description">Applications accepted on a rolling basis until all places are filled. For more information, contact the Office of Graduate Admissions at 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</p>
+				<p itemprop="description">For more information, contact the Office of Graduate Admissions at 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</p>
 			</div>
 			<div class="illustration the-wrap">
-				<img class="testimony-img" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/homepage-intro-testimony-aronofsky.jpg">
-				<figcaption><p>Darren Aronofsky <span class="yellow">/ Director</span></p></figcaption>
-				<p class="testimony-p white">Meet our Advisory Council — industry professionals dedicated to supporting the mission and vision of Feirstein.</br>
-				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php#advisory-council">Learn more ></a></p>
+				<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php#advisory-council">
+					<img class="testimony-img" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/homepage-intro-testimony-aronofsky.jpg">
+					<figcaption><p>Darren Aronofsky <span class="yellow">/ Director</span></p></figcaption>
+					<p class="testimony-p white">Meet our Advisory Council — industry professionals dedicated to supporting the vision of Feirstein.<!--</br>
+					<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php#advisory-council">Learn more ></a>--></p>
+				</a>
 			</div>
 		</div>
 	</div>

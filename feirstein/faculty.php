@@ -174,6 +174,8 @@
 			<aside>
 				<ol>
 					 <li class="selection" data-person="jonathan-wacks"><span class="active">Jonathan Wacks</li>
+					 <li class="selection" data-person="kara-lynn-andersen"><span>Kara Lynn Andersen</span></li>
+					 <li class="selection" data-person="alrick-brown"><span>Alrick Brown</span></li>
 					 <li class="selection" data-person="ricardo-hernandez-anzola"><span>Ricardo Hernández Anzola</span></li>
 					 <li class="selection" data-person="sarah-christman"><span>Sarah Christman</span></li>
 					 <li class="selection" data-person="sarah-cawley"><span>Sarah Cawley</span></li>
@@ -181,6 +183,7 @@
 					 <li class="selection" data-person="jason-kliot"><span>Jason Kliot</span></li>
 					 <li class="selection" data-person="katherine-lindberg"><span>Katherine Lindberg</span></li>
 					 <li class="selection" data-person="paula-massood"><span>Paula Massood</span></li>
+					 <li class="selection" data-person="opeyemi-olukemi"><span>Opeyemi Olukemi</span></li>
 					 <li class="selection" data-person="jason-orans"><span>Jason Orans</span></li>
 					 <li class="selection" data-person="thomas-reilly"><span>Thomas Reilly</span></li>
 					 <li class="selection" data-person="howard-rosenman"><span>Howard Rosenman</span></li>
@@ -196,6 +199,33 @@
  					<p>Learn more about Jonathan Wacks:</p>
 					<ul>
   						<li><a href="http://www.imdb.com/name/nm0905237/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
+					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="kara-lynn-andersen">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Kara Lynn Andersen, Cinema Studies</h5>
+					<p>Kara Lynn Andersen is a film studies professor with research interest in the intersection of animation, video games and live-action film. Her current book project analyzes the representation of collectors and collecting across media, and she has articles appearing in CLCWeb: Comparative Literature and Culture and Post Script and a chapter in Transnational Horror Across Visual Media: Fragmented Bodies, and has guest edited a special edition of Animation Journal on video game animation, “Animation on the Fly.”</p>
+					<p>Learn more about Kara Lynn Andersen:</p>
+					<ul>
+  						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=954">Brooklyn College Faculty Profile</a></li>
+					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="alrick-brown">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Alrick Brown, Producing, Directing</h5>
+					<p>Recognized as one of <em>Filmmaker Magazine</em>&rsquo;s 25 New Faces to Watch (2011), Alrick Brown is an award-winning writer and director. His collective works have screened in more than 65 festivals worldwide, earning numerous awards and honors. Among them is the HBO Life Through Your Lens Emerging Filmmaker Award for the critically acclaimed documentary <em>Death of Two Sons</em>, which he produced. In 2004 he was one of four NYU students featured in the IFC Documentary series <em>Film School,</em> produced by Academy Award–nominee Nannette Burstein.</p>
+					<p>His first feature, <em>Kinyarwanda</em>, made its world premiere as recipient of the prestigious World Cinema Audience Award at the 2011 Sundance Film Festival. Since then, <em>Kinyarwanda</em> has screened internationally in more than 20 festivals, adding over a half dozen honors to the writer/director&rsquo;s credits, including making Roger Ebert&rsquo;s top 10 list of 2011.</p>
+					<p>Brown made his small screen debut directing an episode of ABC&rsquo;s <em>Final Witness</em>, which aired in July 2012.&nbsp;Recently, he made his television-writing debut penning and producing two episodes of Investigative Discoveries Emmy Award–winning series <em>A Crime to Remember</em> that aired in fall 2014.&nbsp; </p>
+					<p>Brown began his career as an educator but found his true calling after visiting the slave castle of Elmina, in Ghana, during two years of service with the Peace Corps in Cote d'Ivoire. The interactions with the people of his village, and his overall experiences in West Africa, informed his creative expression, an expression first fostered by his birth in Kingston, Jamaica, and migration to, and upbringing in, Plainfield, N.J. </p>
+					<p>Since then, his work has been described as cinematic archaeology because of his vision to unearth stories that otherwise would not be told. His commitment to revealing the heart of and world around a story is what draws audiences, peers and clients to his work.</p>
+					<p>Brown graduated with a B.A. in English and a master&rsquo;s of education from Rutgers University, where he has taught undergraduate courses on the African American image in cinema. He received his M.F.A. from NYU&rsquo;s Tisch School of the Arts, where he later taught various courses to both undergraduate and graduate film students.</p>
+					<p>Learn more about Alrick Brown:</p>
+					<ul>
+  						<li><a href="http://www.imdb.com/name/nm1591341/?ref_=fn_al_nm_1">IMDB</a></li>
 					</ul>
 				</div>
 			</article>
@@ -281,6 +311,17 @@
 					<p>Learn more about Paula Massood:</p>
 					<ul>
 						<li><a href="http://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=3" target="_blank">Brooklyn College Faculty Profile</a></li>
+					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="opeyemi-olukemi">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Opeyemi Olukemi, Integrated Media</h5>
+					<p>Opeyemi Olukemi is senior director of the Interactive Department for the Tribeca Film Institute, where she oversees the TFI New Media Fund and leads the institute&rsquo;s digital and interactive programs. Since 2011, Olukemi has expanded the Interactive Department to include&nbsp;TFI Interactive, a daylong immersion into the world of digital storytelling;&nbsp;TFI Interactive Playground, an arena showcasing immersive technologies and projects;&nbsp;Tribeca Sandbox — an interactive resource report;&nbsp;Tribeca Hacks — a creative incubator, which mentors storytellers and technologists into creating interactive prototypes; and&nbsp;DEF CON at the Tribeca Film Festival, the hacking villages&rsquo; only collective convening outside of Las Vegas. Previously a senior project manager at ScrollMotion, she worked with and oversaw teams of designers, programmers and third-party vendors in the production of new media applications for clients such as Disney,&nbsp;<em>O: The Oprah Magazine</em>, and Genentech.</p>
+					<p>Learn more about Opeyemi Olukemi:</p>
+					<ul>
+						<li><a href="http://www.imdb.com/name/nm7094786/?ref_=fn_al_nm_1">IMDB</a></li>
 					</ul>
 				</div>
 			</article>

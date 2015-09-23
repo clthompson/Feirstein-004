@@ -2441,7 +2441,7 @@ footer .follow-us ul li:before {
   }
 }
 .homepage-hero .overlay .homepage-hero-introduction .title {
-  padding: 2em 3em 0 3em;
+  padding: 2em 3em 0 2.25em;
   background: #fff100;
 }
 @media all and (max-width: 1025px) {
@@ -7940,11 +7940,11 @@ html {
 }
 
 .illustration p.testimony-p a{
-  color: #f0635d;
+  color: #fff; <!-- #f0635d -->
 }
 
 .illustration p.testimony-p.white a:hover{
-  color: #f4918d !important;
+  color: #fff !important; <!-- #f4918d -->
 }
 
 .illustration p.testimony-p.black a:hover{
@@ -8082,4 +8082,9 @@ html {
 
 .rolling a {
   margin-top: 0em !important;
+}
+
+/* Additional Faculty Bios, min-height */
+.advisory-council {
+  min-height: 850px;
 }

@@ -199,7 +199,7 @@
 		<h5>M.A. in Cinema Studies</h5>
 		<p>The master of arts in cinema studies is a two-year program offered on a full- or part-time basis. The program offers a comprehensive education in cinema history, theory, criticism and aesthetics; and encourages the scholarly exploration of cinema as a form of art and a social communication.</p>
 		<h5>M.F.A. in Cinema Arts</h5>
-		<p>The master of fine arts in cinema arts is a three-year program that accepts students on a full-time basis only. It offers a highly specialized education in a collaborative hands-on learning environment in six filmmaking disciplines:</p>
+		<p>The master of fine arts in cinema arts is a three-year program that accepts students on a full-time basis only. It offers a highly specialized education in a collaborative hands-on learning environment in six filmmaking specializations:</p>
 		<ul>
 			<li>Cinematography</li>
 			<li>Directing</li>
@@ -208,7 +208,7 @@
 			<li>Screenwriting</li>
 			<li>Digital Arts (begins in fall 2016)</li>
 		</ul>
-		<p>Students are admitted to the program in one of the above disciplines. Although classes are offered across the different filmmaking disciplines to provide a rounded education, once accepted into a specific discipline, students are not permitted to switch.</p>
+		<p>Students are admitted to the program in one of the above specializations. Although classes are offered across the different filmmaking specializations to provide a rounded education, once accepted into a specific specialization, students are not permitted to switch.</p>
 	</div>
 </section>
 <section class="academics-grid">

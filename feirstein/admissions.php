@@ -161,7 +161,7 @@
 		<div class="admission-hero-introduction">
 			<div class="content">
 				<div class="title">
-					<h4>Applications accepted on a rolling basis until all places are filled.</h4>
+					<h4>Application deadline is January 15, 2016, for priority consideration.</h4>
 					<h5>For more information, contact the Office of Graduate Admissions at 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</h5>
 				</div>
 			</div>
@@ -221,12 +221,12 @@
 					<p><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank">Apply online</a>. Supporting documents, such as official transcripts and essays, must be mailed to the Office of Graduate Admissions.</p>
 					<strong>Application Fee</strong>
 					<p>Pay the nonrefundable $125 application fee.</p>
-					<strong>Official Transcripts</strong>
-					<p>Submit official transcripts from all universities and colleges attended.</p>
+					<strong>Transcripts</strong>
+					<p>Submit transcripts from all universities and colleges attended.</p>
 					<strong>International Transcript Credential Evaluation</strong>
 					<p>Transcripts from institutions in another country must be evaluated by a professional agency that is a member of the <a href="http://www.naces.org/members.html" target="_blank">National Association of Credential Evaluation Services</a>. Evaluations must include a course-by-course analysis indicating the type of degree received, the U.S. equivalency of the degree, the graduation date and a cumulative grade point average.</p>
 					<strong>Letters of Recommendation</strong>
-					<p>Three letters of recommendation are required from individuals who can assess your potential for graduate study. Register your recommenders in the online application system so that they can submit their letters electronically.</p>
+					<p>Two letters of recommendation are required from individuals who can assess your potential for graduate study. Register your recommenders in the online application system so that they can submit their letters electronically.</p>
 					<strong>Statement of Purpose</strong>
 					<p>Write a three- to four-page (double-spaced, 12-point font) statement explaining your purpose in undertaking a graduate program in cinema studies. This is your opportunity to define your goals, interests and career plans as they relate to your proposed course of study. We are trying to gain a sense of who you are and the distinctive experiences and interests that have motivated you to pursue this degree.</p>
 					<strong>Résumé/CV</strong>
@@ -238,7 +238,7 @@
 					<strong>Test Of English as a Foreign Language (TOEFL)</strong>
 					<p>A <a href="http://www.ets.org/toefl" target="_blank">TOEFL</a> score report is required from applicants whose first language is not English and who did not receive the equivalent of a four-year U.S. undergraduate education from an institution where English is the official language of instruction. We only accept TOEFL scores sent to us directly from Educational Testing Services (ETS). Our ETS Institution code is 2046. The minimum IBT score required for consideration is 100. We also accept the IELTS exam with score of 7.0 or higher.</p>
 					<h5>Deadlines</h5>
-					<p>Applications open on Nov. 1, 2014. Applications received after the deadline will be reviewed on a rolling admissions basis until the class is full.</p>
+					<p>Application deadline is January 15, 2016, for priority consideration.</p>
 					<h5>Contact</h5>
 					<p><a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Office of Graduate Admissions</a></br>
 						Brooklyn College</br>
@@ -253,14 +253,14 @@
 				<aside>
 					<h3>MFA</h3><h5>in cinema <br/>arts</h5>
 					<div class="req-intro">
-						<p>A three-year full-time program that offers a highly specialized education in a hands-on learning environment in six disciplines:</p>
+						<p>A three-year full-time program that offers a highly specialized education in a hands-on learning environment in six specializations:</p>
 						<ul>
 							<li>Cinematography</li>
+							<li>Digital Arts</li>
 							<li>Directing</li>
 							<li>Post-production</li>
 							<li>Producing</li>
 							<li>Screenwriting</li>
-							<li>Digital Arts (begins in fall 2016)</li>
 						</ul>
 					</div>
 				</aside>
@@ -274,18 +274,18 @@
 						<li>A strong interest in current intellectual and cultural issues</li>
 						<li>A commitment to undertake three years of full-time graduate study</li>
 					</ul>
-					<p>Students are accepted into only one filmmaking discipline: producing, directing, screenwriting, cinematography or post-production. Although classes are required across the different disciplines, you will not be able to transfer into another discipline once you have been accepted. You may, however, apply to up to two disciplines, indicating your first-choice discipline. Students are admitted on a full-time basis only and are required to complete a total of 66 credits over three years.</p>
+					<p>Students are accepted into only one filmmaking specialization: producing, directing, screenwriting, cinematography or post-production. Although classes are required across the different specializations, you will not be able to transfer into another specialization once you have been accepted. You may, however, apply to up to two specializations, indicating your first-choice specialization. Students are admitted on a full-time basis only and are required to complete a total of 66 credits over three years.</p>
 					<p>The Office of Graduate Admissions manages applications to the M.F.A. in Cinema Arts. Only complete applications are forwarded to the Feirstein Graduate School of Cinema.</p>
 					<strong>Application Form</strong>
 					<p><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank">Apply online</a>. Supporting documents, such as official transcripts and essays, must be mailed to the Office of Graduate Admissions.</p>
 					<strong>Application Fee</strong>
 					<p>Pay the nonrefundable $125 application fee.</p>
-					<strong>Official Transcripts</strong>
-					<p>Submit official transcripts from all universities and colleges attended.</p>
+					<strong>Transcripts</strong>
+					<p>Submit transcripts from all universities and colleges attended.</p>
 					<strong>International Transcript Credential Evaluation</strong>
 					<p>International transcripts must be evaluated by a professional agency that is a member of the <a href="http://www.naces.org/members.html" target="_blank">National Association of Credential Evaluation Services</a>. Evaluations must include a course-by-course analysis indicating the type of degree received, the U.S. equivalency of the degree, the graduation date and a cumulative grade point average.</p>
 					<strong>Letters of Recommendation</strong>
-					<p>Three letters of recommendation are required from individuals who can assess your potential for graduate study. Register your recommenders in the online application system so that they can submit their letters electronically.</p>
+					<p>Two letters of recommendation are required from individuals who can assess your potential for graduate study. Register your recommenders in the online application system so that they can submit their letters electronically.</p>
 					<strong>Statement of Purpose</strong>
 					<p>Write a three- to four-page (double-spaced, 12-point font) statement explaining your purpose in undertaking graduate study in cinema arts. This is your opportunity to articulate your goals, interests and career plans as they relate to pursuing an M.F.A. in cinema arts. We are trying to gain a sense of who you are and the distinctive experiences and interests that have motivated you to pursue this degree.</p>
 					<strong>Résumé/CV</strong>
@@ -296,30 +296,31 @@
 					<p>A <a href="http://www.ets.org/toefl" target="_blank">TOEFL</a> score report is required from applicants whose first language is not English and who did not receive the equivalent of a four-year U.S. undergraduate education from an institution where English is the official language of instruction. We only accept TOEFL scores sent to us directly from Educational Testing Services (ETS). Our ETS Institution code is 2046. The minimum IBT score required for consideration is 100. We also accept the IELTS exam with score of 7.0 or higher.</p>
 					<h5>Portfolio</h5>
 					<p>You must prepare and submit a portfolio of creative work via the online application system, Slideroom. Please note that, upon submitting your creative portfolio, Slideroom will charge a $6 fee for applicants to use this service. (You may pay this fee with a credit or debit card.)</p>
-					<h5>Filmmaking Disciplines</h5>
-					<p>Note that each of the five disciplines has separate requirements.</p>
-					<strong>Producing</strong>
-					<p>1. Choose a feature film that you admire and explain in five pages or less (double-spaced, 12-point font) what specifically impressed you about the film in terms of content and production, <strong><em>or</em></strong><br>
-					2. In 10 pages or less (double-spaced, 12-point font), write an original treatment for a feature film that you would like to produce, including one page explaining why.</p>
+					<h5>Filmmaking Specializations</h5>
+					<p>Note that each of the five specializations has separate requirements.</p>
+					<strong>Cinematography</strong>
+					<p>1. Submit a short film that you have personally shot, not to exceed 15 minutes, <strong><em>or</em></strong><br>
+					2. Submit clips from work that you personally have shot, not to exceed a total running time of 10 minutes.<strong><em>or</em></strong><br>
+					3. A portfolio of up to 20 photographs that you have taken.</p>
 					<strong>Directing</strong>
 					<p>1. Submit a short film that you have personally directed, not to exceed 15 minutes, <strong><em>or</em></strong><br>
 					2. In 10 pages or less (double-spaced, 12-point font), write an original treatment for a feature film that you would like to direct, including one page explaining why.</p>
-					<strong>Screenwriting</strong>
-					<p>1. Submit a screenplay that you have personally written, not to exceed 20 pages in length, correctly formatted, <strong><em>or</em></strong><br>
-					2. In 10 pages or less (double-spaced, 12-point font), write an original treatment for a feature film that you would like to write, including one page explaining why.</p>
-					<strong>Cinematography</strong>
-					<p>1. Submit a short film that you have personally shot, not to exceed 15 minutes, <strong><em>or</em></strong><br>
-					2. Submit clips from work that you personally have shot, not to exceed a total running time of 10 minutes.</p>
 					<strong>Post-production</strong>
 					<p>1. Submit a short film that you have personally edited, not to exceed 15 minutes, <strong><em>or</em></strong><br>
 					2. Submit clips from work that you have personally edited, not to exceed a total running time of 10 minutes.</p>
+					<strong>Producing</strong>
+					<p>1. Choose a feature film that you admire and explain in five pages or less (double-spaced, 12-point font) what specifically impressed you about the film in terms of content and production, <strong><em>or</em></strong><br>
+					2. In 10 pages or less (double-spaced, 12-point font), write an original treatment for a feature film that you would like to produce, including one page explaining why.</p>
+					<strong>Screenwriting</strong>
+					<p>1. Submit a screenplay that you have personally written, not to exceed 20 pages in length, correctly formatted, <strong><em>or</em></strong><br>
+					2. In 10 pages or less (double-spaced, 12-point font), write an original treatment for a feature film that you would like to write, including one page explaining why.</p>
 					<p><em>Portfolio submission materials will not be returned to applicants. We recommend submitting copies only.</em></p>
 					<strong>Instructions for Uploading Portfolio to Slideroom</strong>
 					<p><a href="http://feirsteincinema.slideroom.com" target="_blank">Register and set up an account</a>.</p>
 					<p>Once you have registered to start a portfolio via Slideroom, you may step away and come back at any time, until the final deadline. Please ensure that you save your progress after each visit, and do not click to submit until you are certain that you have uploaded the required components. Once you click submit, you may no longer edit your portfolio. Once you submit your portfolio, Slideroom will send you an e-mail to confirm receipt of your materials.</p>
 					<p>The submission of video can contain one or more selections, as long as the total running time does not exceed 30 minutes. You may upload up to 10 minutes of video onto the media page within Slideroom. If the total running time of your video sample exceeds 10 minutes, a link to your work must be provided on the media page. Please test your video prior to submission. If you are submitting a link, be sure that no downloads or passwords are required. For technical assistance, please <a href="mailto:support@slideroom.com" target="_blank">e-mail Slideroom</a>.</p>
 					<h5>DEADLINES</h5>
-					<p>Applications open on Nov. 1, 2014. Applications received after the deadline will be reviewed on a rolling admissions basis until the class is full. Each discipline is capped at 14 students, except for screenwriting, where up to 20 students will be admitted.</p>
+					<p>Application deadline is January 15, 2016, for priority consideration. Each specialization is capped at 14 students, except for screenwriting.</p>
 					<h5>Contact</h5>
 					<p><a href="http://www.brooklyn.cuny.edu/web/admissions/graduate.php" target="_blank">Office of Graduate Admissions</a></br>
 						Brooklyn College</br>

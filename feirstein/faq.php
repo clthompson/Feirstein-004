@@ -162,7 +162,7 @@
 										<strong>Can I apply to more than one master’s program?</strong>
 									</p>
 									<p class="answer">
-										No. Applicants may apply to only one master’s program. However, applicants to the M.F.A. in Cinema Arts Program may select two disciplines on the application form, indicating their first choice.
+										No. Applicants may apply to only one master’s program. However, applicants to the M.F.A. in Cinema Arts Program may select two specializations on the application form, indicating their first choice.
 									</p>
 								</div>
 								<div class="question">
@@ -274,7 +274,7 @@
 										<strong>Is there on-campus housing?</strong>
 									</p>
 									<p class="answer">
-										No. We do not offer housing. Students are expected to arrange their own accommodation.
+										There is no housing at the Feirstein School’s location at Steiner Studios. Brooklyn College refers students to the privately owned <a href="http://www.brooklyn.cuny.edu/web/kenilworth.php" target="_blank">Residence Hall</a> near the college’s main campus in the Midwood neighborhood of Brooklyn.
 									</p>
 								</div>
 							</div>
