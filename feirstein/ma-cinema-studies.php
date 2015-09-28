@@ -200,7 +200,7 @@
 		<p>Students are required to complete a total of 36 credits, which may be pursued either on a full-time basis in two years or part time. Because the degree program will be housed in the same facility as the M.F.A. in Cinema Arts — Steiner Studios — students will be able to deepen their knowledge within the context of a larger community of filmmakers and cinema scholars. The program’s interrelationship with the M.F.A. and its connection to the film and media industries makes it truly unique.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
-			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6>
+			<div class="cta-info"><div class="content"><h6>For<br>fall 2016</h6>
 			</div></div>
 		</a>
 	</div>

@@ -200,7 +200,7 @@
 		<p>Powered by: <a href="http://www.avid.com/US/Vision/index.html#overview" target="_blank"><img class="avid-pp" src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Avid_logo_purple_112x34.png"></a></p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
-			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6>
+			<div class="cta-info"><div class="content"><h6>For<br>fall 2016</h6>
 			</div></div>
 		</a>
 	</div>

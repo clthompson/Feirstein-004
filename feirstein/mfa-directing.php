@@ -199,7 +199,7 @@
 		<p>Directing is part art and part craft but mostly imagination. It requires organizational skills, discipline, leadership and collaboration. To be an effective director, all these pieces must cohere in service of projecting a compelling story on the screen. As a directing student you will learn all aspects of filmmaking, from directing actors to directing camera, cinematography, screenwriting and post-production. But most importantly you will develop the courage and confidence to take risks and express your personal creative vision as a filmmaker. As part of the two-semester thesis sequence, the program will culminate in the collaborative production of a 15- to 20-minute narrative film.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
-			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6>
+			<div class="cta-info"><div class="content"><h6>For<br>fall 2016</h6>
 			</div></div>
 		</a>
 	</div>

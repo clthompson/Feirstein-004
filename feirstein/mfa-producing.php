@@ -199,7 +199,7 @@
 		<p>At the top of the filmmaking hierarchy is the producer. He or she develops the screenplay and secures the finance, hires the crew, and manages physical production. In short, the producer takes a movie from script to screen. In the increasingly complex, technologically driven media environment, learning to produce for new and emerging media, in addition to cinema and television, is an essential competency for a producer. As a producing student you will graduate prepared to lead a team in a creative and collaborative manner. The M.F.A. culminates in the collaborative production of a 15- to 20-minute narrative film over the final two semesters.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
-			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6>
+			<div class="cta-info"><div class="content"><h6>For<br>fall 2016</h6>
 			</div></div>
 		</a>
 	</div>

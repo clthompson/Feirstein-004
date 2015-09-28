@@ -180,7 +180,7 @@
 		<p class="rolling" itemprop="description">Applications accepted on a rolling basis until all places are filled. For more information, contact the Office of Graduate Admissions at 718.951.4536 or e&#8209;mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</p>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
-			<div class="cta-info"><div class="content"><h6>Opening<br>fall 2015</h6></div></div>
+			<div class="cta-info"><div class="content"><h6>For<br>fall 2016</h6></div></div>
 		</a>
 	</div>
 </section>

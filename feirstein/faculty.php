@@ -328,7 +328,7 @@
 			<article class="hidden" data-person="jason-orans">
 				<div class="faculty-top"></div>
 				<div class="bio">
-					<h5>Jason Orans, Integrated Media</h5>
+					<h5>Jason Orans, Producing</h5>
 					<p>Emmy, Independent Spirit and Image Award–nominated producer Jason Orans&rsquo; narrative features include Ramin Bahrani&rsquo;s <em>Goodbye Solo</em> (winner of the FIPRESCI Critics Prize at Venice) and Sundance premieres <em>Night Catches Us</em> (starring Anthony Mackie and Kerry Washington), <em>Dare</em> (starring Emmy Rossum and Rooney Mara), <em>Year of the Fish</em> and <em>Flannel Pajamas</em>. His most recent documentary, Margaret Brown&rsquo;s <em>The Great Invisible</em>, won the Grand Jury Prize at SXSW and is nominated for the Exceptional Merit in Documentary Filmmaking 2015 Primetime Emmy Award. Orans has produced numerous other feature film, documentary, television and new media projects.</p>
 					<p>Learn more about Jason Orans:</p>
 					<ul>
