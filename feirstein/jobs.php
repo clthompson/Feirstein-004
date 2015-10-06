@@ -147,6 +147,12 @@
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
 				<span>Faculty</span>
 			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
+				<span>Founding Donors</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php">
+				<span>Advisory Council</span>
+			</a>
 		</nav>
 <section class="faq">
 	<div class="right-bar-container fullwidth">

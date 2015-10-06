@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Barry R. Feirstein Graduate School of Cinema - Letter from the Director</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Founding Donors</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,7 +14,7 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Letter from the Director">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Founding Donors">
 	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
@@ -78,6 +78,20 @@
 		ga('create', 'UA-53237086-1', 'auto');
 		ga('send', 'pageview');
 	</script>
+	<!-- Start of DoubleClick Floodlight Tag: Please do not remove
+	Activity name of this tag: About_Dec
+	URL of the webpage where the tag is expected to be placed: http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php
+	This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+	Creation Date: 12/04/2014 -->
+		<script type="text/javascript">
+		var axel = Math.random() + "";
+		var a = axel * 10000000000000;
+		document.write('<iframe src="http://4535897.fls.doubleclick.net/activityi;src=4535897;type=Fall20;cat=about0;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+		</script>
+		<noscript>
+		<iframe src="http://4535897.fls.doubleclick.net/activityi;src=4535897;type=Fall20;cat=about0;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+		</noscript>
+	<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 	<!-- Begin Universal Pixel -->
 	<div id="ttdUniversalPixelTagaa529e32300c4c20bb33d3dc65f0749c" style="display:none">
         <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
@@ -108,7 +122,7 @@
 	</h1>
 	<nav>
 		<div class="menu">
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="menu-item"><span >Admissions</span></a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="menu-item"><span>Admissions</span></a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/academics.php" class="menu-item"><span>Academics</span></a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/facilities.php" class="menu-item"><span>Facilities</span></a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php" class="menu-item active"><span>About Us</span></a>
@@ -138,52 +152,65 @@
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
 </div>	<section class="container">
 		<nav class="subnav centered">
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php" class="active">
-				<span>Letter from the director</span>
-			</a>
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php">
-				<span>Job Opportunities</span>
-			</a>
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
-				<span>Faculty</span>
-			</a>
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
-				<span>Founding Donors</span>
-			</a>
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php">
-				<span>Advisory Council</span>
-			</a>
-		</nav>
-<section class="letter-from-director">
-	<div class="right-bar-container fullwidth">
-		<div class="letter-hero">
-			<div class="profile">
-				<h4 class="bordeaux">Jonathan</h4>
-				<h4>Wacks</h4>
-				<p><strong><em>Founding Director and Professor</em><br>Barry R. Feirstein Graduate School of Cinema</strong></p>
-			</div>
-			<figcaption>
-				<p>From the director</p>
-			</figcaption>			
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php" class="subnav-item">
+		<span>Letter from the director</span>
+	</a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php" class="subnav-item">
+		<span>Job Opportunities</span>
+	</a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
+		<span>Faculty</span>
+	</a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
+		<span>Founding Donors</span>
+	</a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php">
+		<span>Advisory Council</span>
+	</a>
+</nav>
+<section class="founding-donors">
+	<div class="about-section-title">
+		<div class="wrap">
+			<div class="title"><h4>Founding donors</h4></div>
 		</div>
 	</div>
-	<div class="right-bar-container">
-		<div class="inner-wrap">
-			<div class="letter">
-				<h5>You are here because you want to be a filmmaker.</h5>
-				<p>The Barry R. Feirstein Graduate School of Cinema was built to provide you the opportunity to learn the art and craft of filmmaking. Whether your interest is in directing, producing, cinematography, screenwriting, post-production or digital arts, Feirstein will provide an environment where you can develop the courage and confidence to discover your voice as a filmmaker. At Feirstein you will participate in a collaborative experience where you will be engaged in a creative endeavor that will enable you to express your ideas, tell your stories, and follow the lights in your head. But you should know at the outset that filmmaking requires discipline and commitment. You will be expected to dig deep to uncover the content of your imagination, to bring forth fresh and original ideas. You will also need a strong work ethic and sense of discipline to get to the place where your imagination can find form in aesthetically compelling ways. That is the beauty of filmmaking: It is a dialectic of individual creativity and group collaboration, the capacity to communicate and the ability to be still, the willingness to take risks and the discipline to learn the rules of the game.</p>
-				<p>Feirstein offers a unique opportunity to go to film school on a working film lot. Our campus is Steiner Studios, the largest soundstage complex on the East Coast. From the moment you arrive here you will be immersed in filmmaking in a facility that is second to none. Built from the ground up to meet the demands of 21st-century production and post-production, we offer a state-of-the-art facility outfitted with the most up-to-date digital equipment and technology. But tools do not make art; ideas and imagination do.</p>
-				<p>Essential to becoming a filmmaker is a deep understanding of the history of the last 100 years of our art form. As a cinema studies student, you will become steeped in the history and theory of cinema over the course of your master’s degree and deepen your knowledge within the context of a larger community of filmmakers and cinema scholars. As a cinema arts student, an intimate familiarity with cinema history will underpin everything you do as a practitioner. I cannot stress enough the importance of developing a critical understanding of cinema both within and without the classroom.</p>
-				<p>So, if you have an abiding love of cinema and a commitment to challenge the prevailing political, cultural and aesthetic conventions, and the urge to give expression to your creativity, I strongly encourage you to consider Feirstein. I look forward to seeing you next fall.</p>
-				<p>
-				<strong class="bordeaux name">Jonathan Wacks</br>
-					Founding Director and Professor</br>
-					Barry R. Feirstein Graduate School of Cinema</strong>
- 				</p>
- 				<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/jonathan-wacks-signature.png" alt="Jonathan Wacks Signature"/>
+	<div class="content">
+		<div class="wrap">
+			<div class="item">
+				<h5>A Public-Private Partnership</h5>
+				<p>We are grateful for the generosity of numerous private individuals and public institutions for supporting the vision of a public film school in New York.</p>
+			</div>
+			<div class="item">
+				<h5>The Barry R. Feirstein Graduate School of Cinema</h5>
+				<div class="split-lists">
+					<ol>
+						<li class="title">Private contributions</li>
+						<li>Barry R. Feirstein</li>
+						<li>Sheila Baily</li>
+						<li>Don Buchwald</li>
+						<li>Celia Costas</li>
+						<li>Holly Feirstein</li>
+						<li>Roy Furman</li>
+						<li>Ilene and Stanley Gold</li>
+						<li>Jules Haimovitz</li>
+						<li>Michael Lynne</li>
+						<li>Dorothy Marting</li>
+						<li>Paul and Betsy Mazursky</li>
+						<li>Andrew Weyman</li>
+						<li>Joel and Candice Zwick</li>						
+					</ol>
+					<ol>
+						<li class="title">Public contributions</li>
+						<li>New York City Council</li>
+						<li>The Mayor’s Office of Media and Entertainment</li>
+						<li>New York State Senate</li>
+						<li>The Office of the Brooklyn Borough President</li>
+					</ol>
+				</div>
+				<div id="advisory-council"></div>
 			</div>
 		</div>
-	</div> 
+	</div>
 </section>
 	</section>
 	<section class="visit-us">
@@ -259,7 +286,9 @@
 	</div>
 </footer>
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGp_Nb2fF2sHpJN6VQDlqGt145Sd2353E"></script>
-	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.js"></script>
+	<script src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/js/app.min.js"></script>
+<script>window.App.about.run()</script>
 
-	  </body>
+<IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=feirstein_remarketing" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
+  </body>
 </html>

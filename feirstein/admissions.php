@@ -234,7 +234,7 @@
 					<strong>GRE</strong>
 					<p>The Graduate Record Examination (GRE) is not required.</p>
 					<strong>Writing Sample</strong>
-					<p>Write a 12- to 15-page (double-spaced, 12-point font) sample essay that best exemplifies your research interests and your ability to write critically about cinema, television or other media; or submit a published article. In the absence of either, an essay that critically examines a topic in the arts or humanities may be submitted.</p>
+					<p>Write a 12- to 15-page (double-spaced, 12-point font) sample essay that best exemplifies your research interests, your skills at conducting scholarly analysis (including the use of primary and secondary materials), and  your ability to write critically about cinema, television or other media; or submit a published article that fulfills these requirements. In the absence of either, an essay that critically examines a topic in the arts or humanities may be submitted provided that it meets the criteria listed above.</p>
 					<strong>Test Of English as a Foreign Language (TOEFL)</strong>
 					<p>A <a href="http://www.ets.org/toefl" target="_blank">TOEFL</a> score report is required from applicants whose first language is not English and who did not receive the equivalent of a four-year U.S. undergraduate education from an institution where English is the official language of instruction. We only accept TOEFL scores sent to us directly from Educational Testing Services (ETS). Our ETS Institution code is 2046. The minimum IBT score required for consideration is 100. We also accept the IELTS exam with score of 7.0 or higher.</p>
 					<h5>Deadlines</h5>
