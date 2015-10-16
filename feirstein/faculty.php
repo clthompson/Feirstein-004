@@ -185,6 +185,7 @@
 					 <li class="selection" data-person="ricardo-hernandez-anzola"><span>Ricardo Hernández Anzola</span></li>
 					 <li class="selection" data-person="sarah-christman"><span>Sarah Christman</span></li>
 					 <li class="selection" data-person="sarah-cawley"><span>Sarah Cawley</span></li>
+					 <li class="selection" data-person="leo-goldsmith"><span>Leo Goldsmith</span></li>
 					 <li class="selection" data-person="sabine-hoffman"><span>Sabine Hoffman</span></li>
 					 <li class="selection" data-person="jason-kliot"><span>Jason Kliot</span></li>
 					 <li class="selection" data-person="katherine-lindberg"><span>Katherine Lindberg</span></li>
@@ -268,6 +269,13 @@
 					<ul>
   						<li><a href="http://www.imdb.com/name/nm0004529/?ref_=fn_al_nm_1" target="_blank">IMDB</a></li>
 					</ul>
+				</div>
+			</article>
+			<article class="hidden" data-person="leo-goldsmith">
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<h5>Leo Goldsmith, Cinema Studies</h5>
+					<p>Leo Goldsmith is a Ph.D. candidate in the Department of Cinema Studies at New York University, where he is completing a dissertation on found footage and image circulation. He is the co-editor of the film section of <em>The Brooklyn Rail</em>, a monthly arts and  politics newspaper, and his writing on film and media has most recently appeared in <em>art-agenda, Artforum, Cinema Scope</em> and <em>Reverse Shot</em>. He is the  co-author, with Robert Stam and Richard Porton, of <em>Keywords in Subversive Film/Media Aesthetics</em> (Wiley, 2015), and, with Rachael Rakes, of a forthcoming book on the filmmaker Peter Watkins. He has organized exhibitions and film series for the Museum of the Moving Image, the Ann Arbor Film Festival, UnionDocs, 92Y Tribeca and Heliopolis Project Space. With Gregory Zinman, he curated the traveling film series &quot;Computer Age: Early Computer Movies, 1952–1987,&rdquo; and, with Lukas Brasiskis, he organized &quot;Human. Material. Machine,&quot; a program of films about machinic vision for the Contemporary Art Centre (Vilnius, Lithuania). His research interests include digital cinema aesthetics, documentary, and avant-garde/experimental film and video.</p>
 				</div>
 			</article>
 			<article class="hidden" data-person="sabine-hoffman">
