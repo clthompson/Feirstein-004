@@ -201,8 +201,8 @@
 					</ol>
 					<ol>
 						<li class="title">Public contributions</li>
-						<li>New York City Council</li>
 						<li>The Mayor’s Office of Media and Entertainment</li>
+						<li>New York City Council</li>
 						<li>New York State Senate</li>
 						<li>The Office of the Brooklyn Borough President</li>
 					</ol>

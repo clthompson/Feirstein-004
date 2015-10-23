@@ -163,6 +163,7 @@
 				<div class="title">
 					<h4>Application deadline is January 15, 2016, for priority consideration.</h4>
 					<h5>For more information, contact the Office of Graduate Admissions at 718.951.4536 or e-mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</h5>
+					<h5>View upcoming information session dates: <a href="http://www.brooklyn.cuny.edu/gradadmissions">www.brooklyn.cuny.edu/gradadmissions</a></h5>
 				</div>
 			</div>
 		</div>
@@ -349,19 +350,35 @@
 				<aside><h5>Tuition, Fees and <br>Scholarships</h5></aside>
 				<article>
 					<h5>TUITION, FEES AND SCHOLARSHIPS FOR ACADEMIC YEAR 2015 – 2016*</h5>
-					<h5>Degree Programs</h5>
+					<h5>Degree Programs (12 Credits)</h5>
 					<strong>Master of Fine Arts (M.F.A.) — Full-time Only</strong>
 					<ul>
-						<li>New York State Residents Tuition and Fees per semester: $9,200</li>
-						<li>Nonresidents and International Students Tuition and Fees per semester: $13,495</li>
+						<li>New York State Residents Tuition and Fees per semester: $9,205
+							<ul>
+								<li>Tuition: $5,065</li>
+								<li>Academic Excellence Fee: $4,140</li>
+							</ul></li>
+						<li>Nonresidents and International Students Tuition and Fees per semester: $13,500
+							<ul>
+								<li>Tuition: $9,360 ($780 per credit)</li>
+								<li>Academic Excellence Fee: $4,140</li>
+							</ul></li>
 					</ul>
 					<p><em>Note: M.F.A. students should expect to incur production and related costs over and above facilities and equipment that are reasonably provided by the school.</em></p>
-					<strong>Master of Arts (M.A.) — Full-time</strong>
+					<strong>Master of Arts (M.A.) — Full-time (12 Credits)</strong>
 					<ul>
-						<li>New York State Residents Tuition and Fees per semester: $5,065</li>
-						<li>Nonresidents and International Students Tuition and Fees per semester: $9,360</li>
+						<li>New York State Residents Tuition and Fees per semester: $5,065
+							<ul>
+								<li>Tuition: $5,065</li>
+								<li>Academic Excellence Fee: N/A</li>
+							</ul></li>
+						<li>Nonresidents and International Students Tuition and Fees per semester: $9,360
+							<ul>
+								<li>Tuition: $9,360 ($780 per credit)</li>
+								<li>Academic Excellence Fee: N/A</li>
+							</ul></li>
 					</ul>
-					<strong>Master of Arts (M.A.) — Part-time</strong>
+					<strong>Master of Arts (M.A.) — Part-time (Up to 11 Credits)</strong>
 					<ul>
 						<li>New York State Residents Tuition per credit: $425</li>
 						<li>Nonresidents and International Students Tuition per credit: $780</li>

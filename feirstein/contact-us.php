@@ -169,6 +169,22 @@
 				<i class="fa fa-envelope"></i><a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>
 			</p>
 		</div>
+		<div class="item">
+			<p>
+				<strong class="uppercase">Feirstein Graduate School of Cinema at Steiner Studios</strong><br>
+				25 Washington Avenue<br>
+				Brooklyn, NY 11205<br>
+				<i class="fa fa-phone"></i>718.237.3410
+			</p>
+		</div>
+		<div class="item">
+			<p>
+				<strong>Via public transportation</strong><br>
+				Subway: take the G train to Clinton-Washington, then a 12-15-minute walk<br>
+				Bus: take the B57 along Flushing Avenue, or the B54 (Myrtle Ave),<br>
+				B62 (Park Ave) and B69 (Vanderbilt Ave)
+			</p>
+		</div>
 		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
 			<div class="content"><h6>Apply<br>now</h6></div>
 			<div class="cta-info"><div class="content"><h6>Apply</h6></div></div>
