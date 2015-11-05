@@ -37,7 +37,7 @@
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/cc83cb62-3221-4e28-b3d0-aeaf145ba479.css"/>
+	<script type="text/javascript" src="http://fast.fonts.net/jsapi/cc83cb62-3221-4e28-b3d0-aeaf145ba479.js"></script>
 
 	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/vendor.min.css">
 	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/app.min.css">

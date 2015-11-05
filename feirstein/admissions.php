@@ -37,7 +37,7 @@
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/cc83cb62-3221-4e28-b3d0-aeaf145ba479.css"/>
+	<script type="text/javascript" src="http://fast.fonts.net/jsapi/cc83cb62-3221-4e28-b3d0-aeaf145ba479.js"></script>
 
 	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/vendor.min.css">
 	<link rel="stylesheet" href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/styles/app.min.css">
@@ -356,14 +356,15 @@
 						<li>New York State Residents Tuition and Fees per semester: $9,205
 							<ul>
 								<li>Tuition: $5,065</li>
-								<li>Academic Excellence Fee: $4,140</li>
+								<li>Academic Excellence Fee: $4,140 *</li>
 							</ul></li>
 						<li>Nonresidents and International Students Tuition and Fees per semester: $13,500
 							<ul>
 								<li>Tuition: $9,360 ($780 per credit)</li>
-								<li>Academic Excellence Fee: $4,140</li>
+								<li>Academic Excellence Fee: $4,140 *</li>
 							</ul></li>
 					</ul>
+					<p>* The Academic Excellence Fee supports facilities and equipment.</p>
 					<p><em>Note: M.F.A. students should expect to incur production and related costs over and above facilities and equipment that are reasonably provided by the school.</em></p>
 					<strong>Master of Arts (M.A.) — Full-time (12 Credits)</strong>
 					<ul>
