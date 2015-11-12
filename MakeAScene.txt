@@ -1,0 +1,123 @@
+/* Underlines A */
+.homepage-hero .homepage-hero-heading {
+  padding-left: 4.5em;
+  padding-right: 0em;
+  padding-bottom: 16%;
+  max-width: 100%;
+  width: 42%;
+}
+@media all and (max-width: 1201px) {
+  .homepage-hero .homepage-hero-heading h2 {
+    font-size: 9.5em;
+  }
+}
+.homepage-hero .homepage-hero-heading h2 span.movie {
+  font-size: 0.8em;
+  line-height: 0.9em;
+}
+.homepage-hero .homepage-hero-heading h2 span,
+.homepage-hero .homepage-hero-heading h2 i {
+  display: block;
+}
+@media all and (max-width: 769px) {
+  .homepage-hero .homepage-hero-heading h2 span,
+  .homepage-hero .homepage-hero-heading h2 i {
+    display: inline-block;
+  }
+}
+
+@media all and (max-width: 1350px) {
+  .homepage-hero .homepage-hero-heading {
+    padding-left: 3.5em;
+    padding-right: 0em;
+  }
+}
+
+@media all and (max-width: 1250px) {
+  .homepage-hero .homepage-hero-heading {
+    padding-left: 1.5em;
+    padding-right: 0em;
+  }
+}
+@media all and (max-width: 769px) {
+  .homepage-hero .homepage-hero-heading {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+  }
+}
+@media all and (max-width: 500px) {
+  .homepage-hero .homepage-hero-heading {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}
+
+.homepage-hero .homepage-hero-heading h2{
+	text-align: left;
+}
+.homepage-hero .homepage-hero-heading h2 span {
+	display: inline-block;
+}
+.homepage-hero-heading h2 {
+  margin-top: 0;
+  text-align: left;
+  color: #fff;
+  font-size: 10em;
+  letter-spacing: 0em !important;
+}
+
+.homepage-hero-heading h2 .make2 {
+	display: inline-block;
+}
+
+.homepage-hero-heading h2 .your2 {
+  display: inline-block;
+  border-bottom: 20px solid #fff100;
+  width: 68px;
+  overflow: visible;
+  font-size: .81em;
+  line-height: .8em;
+  vertical-align: top;
+  margin-top: 7px;
+  margin-left: 12px;
+  -webkit-animation-delay: .5s;
+  -moz-animation-delay: .5s;
+  -ms-animation-delay: .5s;
+  -o-animation-delay: .5s;
+  animation-delay: .5s;
+  -webkit-animation-name: fadeIn;
+  -moz-animation-name: fadeIn;
+  -ms-animation-name: fadeIn;
+  -o-animation-name: fadeIn;
+  animation-name: fadeIn;
+  -webkit-animation-duration: 1s;
+  -moz-animation-duration: 1s;
+  -ms-animation-duration: 1s;
+  -o-animation-duration: 1s;
+  animation-duration: 1s;
+}
+
+@media all and (max-width: 1210px) {
+  .homepage-hero-heading h2 .your2 {
+  	margin-top: 5px;
+  	margin-left: 10px;
+  	border-bottom: 15px solid #fff100;
+    width: 52px;
+  }
+}
+
+@media all and (max-width: 1024px) {
+  .homepage-hero-heading h2 .your2 {
+  	margin-top: 5px;
+  	margin-left: 10px;
+  	border-bottom: 15px solid #fff100;
+    width: 48px;
+  }
+}
+
+.homepage-hero-heading h2 .movie2 {
+  margin-top: -10px;	
+  font-size: 1.04em;
+  line-height: 0.9em;
+  color: #fff100;
+}
