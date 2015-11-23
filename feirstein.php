@@ -96,6 +96,9 @@
         </script>
     </div>
 	<!-- End Universal Pixel -->
+	<!-- Begin Metro US -->
+		<script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'centro.pixel.ad/iap/b03e4bd02720f558';new Image().src = ssaUrl;</script>
+	<!-- End Metro US -->
 	<header class="page-header">
 	<div class="gutter"></div>
 	<h1>
@@ -145,11 +148,11 @@
 		<section class="homepage-hero" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Home_1.jpg')">
 	<div class="overlay">
 		<div class="homepage-hero-heading">
+			<div class="hero-centered">
 			<h2>
-				<span class="make">Make</span>
-				<span class="your">a</span>
-				<span class="movie">scene</span>
+				<span class="make2">Make</span><span class="your2">a</span><span class="movie2">scene</span>
 			</h2>
+			</div>
 			<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/divider-warm-short.png" class="divider">
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="cta warm">
 				<div class="content"><h6>Apply<br>now</h6></div>

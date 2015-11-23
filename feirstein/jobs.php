@@ -91,6 +91,9 @@
         </script>
     </div>
 	<!-- End Universal Pixel -->
+	<!-- Begin Metro US -->
+    	<script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'centro.pixel.ad/iap/b03e4bd02720f558';new Image().src = ssaUrl;</script>
+  	<!-- End Metro US -->
 	<header class="page-header">
 	<div class="gutter"></div>
 	<h1>
@@ -169,13 +172,80 @@
 					<aside><h5 class="bordeaux">Choose</h4><h5>a position</h5></aside>
 					<article>
 							<div class="letter"><p>The Barry R. Feirstein Graduate School of Cinema on the Steiner Studios film lot in Brooklyn, N.Y., opened in fall 2015. The school offers a two-year M.A. in cinema studies and a three-year M.F.A. in cinema arts with a specialized education in six disciplines — producing, directing, screenwriting, cinematography, post-production and digital arts (begins in fall 2016). Housed in a new 68,000-square-foot state-of the-art facility, the school is the first public graduate film school in New York and the only film school in the United States located on a working film lot, and is dedicated to cultivating new and emerging voices in cinema.</p>
+							<h5>Full-time Faculty</h5>
+							<br>
+							<div class="faq-item">
+							<div class="faq-category">
+								<h5>Assistant Professor — Post-production (Film)</h5><span>&#9662;</span>
+							</div>
+							<div class="faq-questions">
+								<div class="question">
+							        <p class="answer">The successful candidate will be required to teach five courses per year in (narrative) post-production, mentor graduate students, and contribute to the ongoing development of the M.F.A in cinema arts. Emphasis will be placed on teaching effectiveness, creative achievement, and service to the school and college community. Pre-tenured faculty receive New Faculty Release Time to pursue academic research.</p>
+							        <p class="answer"><strong>Qualifications</strong></p>
+							        <ul class="answer">
+									  <li>An M.F.A. in cinema or related discipline.</li>
+									  <li>At least two years of university-level teaching.</li>
+									  <li>A recognized body of credited, professional work in (narrative) filmmaking.</li>
+									  <li>A demonstrable ability to create a dynamic classroom experience.</li>
+									  <li>Hands-on expertise in digital post-production, including Avid Media Composer.</li>
+									  <li>Proficiency in DaVinci Resolve and Avid Pro Tools.</li>
+									  <li>Ability to teach all or most of the following courses: Picture Editing, Sound Editing &amp; Design, Digital Media Integration, Visual Effects and Post-production Supervision.</li>
+									  <li>Strong story-telling skills.</li>
+									  <li>A commitment to teaching at a public, urban institution serving a diverse student body.</li>
+							        </ul>
+							        <p class="answer">For more information, and to apply and submit references, click <a href="http://www.brooklyn.cuny.edu/web/about/offices/hr/employment/faculty.php?utm_source=Ad&utm_medium=HR&utm_campaign=FacultySearchAd" target="_blank">here</a>.</p>
+								</div>
+							</div>
+							</div>
+							<div class="faq-item">
+							<div class="faq-category">
+								<h5>Distinguished Lecturer — Producing (Film)</h5><span>&#9662;</span>
+							</div>
+							<div class="faq-questions">
+								<div class="question">
+							        <p class="answer">The successful candidate will have a national or international reputation and will possess the skills, background and temperament to contribute to a specialized program in all aspects of producing that aims to rival those of the finest film schools in the country. Responsibilities include teaching graduate-level classes as well as participation in program administration, curriculum development and departmental committees.</p>
+							        <p class="answer"><strong>Qualifications</strong></p>
+							        <ul class="answer">
+									  <li>A bachelor's degree or higher.</li>
+									 <li>A significant list of feature credits as a producer in the film industry.</li>
+									 <li>A distinguished career as a producer with evidence of high-profile recognition in the industry.</li>
+									 <li>College-level teaching experience is preferred.</li>
+									 <li>A demonstrable ability to create a dynamic classroom experience.</li>
+									 <li>The successful candidate should be capable of teaching most of the following courses: Integrated Media, Production Management, Distribution &amp; Exhibition, Producing for New Media, Finance for Film and Other Media, Post-production Supervision, Portfolio Development and Thesis Project.</li>
+									 <li>A commitment to teaching at a public, urban institution serving a diverse student body.</li>
+							        </ul>
+							        <p class="answer">For more information, and to apply and submit references, click <a href="http://www.brooklyn.cuny.edu/web/about/offices/hr/employment/faculty.php?utm_source=Ad&utm_medium=HR&utm_campaign=FacultySearchAd" target="_blank">here</a>.</p>
+								</div>
+							</div>
+							</div>
+							<div class="faq-item">
+							<div class="faq-category">
+								<h5>Distinguished Lecturer — Cinematography (Film)</h5><span>&#9662;</span>
+							</div>
+							<div class="faq-questions">
+								<div class="question">
+							        <p class="answer">The successful candidate will have a national or international reputation and will possess the skills, background and temperament to contribute to a specialized program in cinematography that aims to rival those of the finest film schools in the country. Responsibilities include teaching graduate-level classes as well as participation in program administration, curriculum development and departmental committees.</p>
+							        <p class="answer"><strong>Qualifications</strong></p>
+							        <ul class="answer">
+									  <li>A bachelor's degree or higher.</li>
+									 <li>A significant list of feature credits as a director of photography in the film industry.</li>
+									 <li>A distinguished career as a DP with evidence of high-profile recognition in the industry.</li>
+									 <li>College-level teaching experience is preferred.</li>
+									 <li>A demonstrable ability to create a dynamic classroom experience.</li>
+									 <li>Hands-on expertise with digital cameras, including the Arri Alexa and Red Weapon.</li>
+									 <li>Strong story-telling skills.</li>
+									 <li>The successful candidate should be capable of teaching most of the following courses: Cinema Aesthetics, Basic Cinematography, Advanced Cinematography, Digital Media Integration, Portfolio Development and Thesis Project.</li>
+									 <li>A commitment to teaching at a public, urban institution serving a diverse student body.</li>
+							        </ul>
+							        <p class="answer">For more information, and to apply and submit references, click <a href="http://www.brooklyn.cuny.edu/web/about/offices/hr/employment/faculty.php?utm_source=Ad&utm_medium=HR&utm_campaign=FacultySearchAd" target="_blank">here</a>.</p>
+								</div>
+							</div>
+							</div>
+							<h5>Adjunct Faculty</h5>
 							<p>The Feirstein Graduate School of Cinema is looking for adjunct faculty qualified to teach the following graduate-level courses in spring 2016:</p>
 							<ul>
-							 <li>Post-Production Workshop</li>
-							 <li>Script Analysis &amp; Development</li>
-							 <li>Sound Recording</li>
 							 <li>World Cinema 2: 1960 to the Present</li>
-							 <li>Various cinema studies courses</li>
+							 <li>Reading (Screen)writers</li>
 							</ul>
 							<p>Industry credits are required, and graduate teaching and M.F.A. are preferred for production courses. Ph.D. is required for cinema studies courses. Send CV and short cover letter to <a href="mailto:MMoore@brooklyn.cuny.edu?Subject=Feirstein Jobs">Matt Moore</a>, academic program manager; please reference “Feirstein Jobs” in the subject line.</p>
 					</article>

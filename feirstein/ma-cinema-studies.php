@@ -105,6 +105,9 @@
         </script>
     </div>
 	<!-- End Universal Pixel -->
+	<!-- Begin Metro US -->
+    	<script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'centro.pixel.ad/iap/b03e4bd02720f558';new Image().src = ssaUrl;</script>
+  	<!-- End Metro US -->
 	<header class="page-header">
 	<div class="gutter"></div>
 	<h1>

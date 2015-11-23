@@ -2345,7 +2345,7 @@ footer .follow-us ul li:before {
 }
 @media all and (min-width: 1401px) {
   .homepage-hero {
-    padding-top: 0;
+    padding-top: 50px;
     height: 950px;
   }
 }
@@ -8089,30 +8089,26 @@ html {
   min-height: 900px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Underlines A */
-@media all and (max-width: 1200px) {
+.homepage-hero .homepage-hero-heading .hero-centered {
+  padding-left: 11%;
+}
+
+@media all and (max-width: 1700px) {
   .homepage-hero .homepage-hero-heading .hero-centered {
-    padding-left: 4%;
-    display: block;
+    padding-left: 8%;
   }
 }
-@media all and (max-width: 700px) {
+
+@media all and (max-width: 1650px) {
   .homepage-hero .homepage-hero-heading .hero-centered {
-    padding-left: 4%;
+    padding-left: 2%;
+  }
+}
+
+@media all and (max-width: 1500px) {
+  .homepage-hero .homepage-hero-heading .hero-centered {
+    padding-left: 0%;
   }
 }
 @media all and (max-width: 500px) {
@@ -8126,16 +8122,14 @@ html {
   }
 }
 .homepage-hero .homepage-hero-heading {
-  padding-left: 10%;
-  padding-right: 0em;
-  padding-bottom: 16%;
+  padding: 10% 0 10% 10%;
   max-width: 100%;
   width: 42%;
 }
 
 @media all and (max-width: 1400px) {
   .homepage-hero .homepage-hero-heading {
-    padding-left: 8%;
+    padding-left: 7%;
     padding-right: 0em;
   }
 }
@@ -8145,7 +8139,7 @@ html {
     padding-right: 0em;
   }
 }
-@media all and (max-width: 1250px) {
+@media all and (max-width: 1280px) {
   .homepage-hero .homepage-hero-heading {
     padding-left: 4%;
     padding-right: 0em;
@@ -8162,6 +8156,13 @@ html {
   .homepage-hero .homepage-hero-heading {
     padding-left: 10%;
     padding-right: 6%;
+    width: 50%;
+  }
+}
+@media all and (max-width: 1080px) {
+  .homepage-hero .homepage-hero-heading {
+    padding-left: 8%;
+    padding-right: 5%;
     width: 50%;
   }
 }
@@ -8303,6 +8304,5 @@ html {
     font-size: 1em;
     margin-top: -10px;
     padding-left: 0px;
-    letter-spacing: .021em !important;
+    letter-spacing: .022em !important;
   }
-}
