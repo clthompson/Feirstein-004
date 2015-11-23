@@ -203,40 +203,7 @@
 		<p>In addition to an intensive engagement in creative production, the program will provide opportunities for professional internships and networking to facilitate the transition into the industry.</p>
 	</div>
 	<div class="degree">
-		<h4 class="smaller">Tell us more</h4>
-		<h5>About you</h5>
-		<form class="digital-arts-form general-form" id="digForm" action="http://cuny.us1.list-manage1.com/subscribe/post-json" method="POST">
-			<input type="hidden" name="u" value="b6b1f93a018d8441f6ca8c64e">
-			<input type="hidden" name="id" value="cf3d2a5fae">
-			<div>
-				<label><p>Are you currently enrolled in an undergraduate university?</p></label>
-				<div class="yes-no">
-					<input id="MERGE7-0" type="radio" name="MERGE7" value="Yes">  
-					<label for="MERGE7-0"><h4 class="smaller">yes</h4></label>  
-					<input id="MERGE7-1" type="radio" name="MERGE7" value="No">  
-					<label for="MERGE7-1"><h4 class="smaller">no</h4></label>  				
-				</div>
-			</div>
-			<div>
-				<label for="MERGE3"><p>Where will you/did you receive your bachelor's degree?</p></label>
-				<input name="MERGE3" type="text" placeholder="Name of your college, university or alma mater">
-			</div>
-			<div>
-				<label><p>Tell us about yourself</p></label>
-				<input type="text" placeholder="First Name" name="MERGE1" id="MERGE1" required>
-				<input type="text" placeholder="Last Name" name="MERGE2" id="MERGE2" required>
-				<input type="email" placeholder="Email address" name="MERGE0" id="MERGE0" required>
-				<input type="text" placeholder="Occupation" name="MERGE4" id="MERGE4">
-				<input type="text" placeholder="Zip / Postal Code" name="MERGE6" id="MERGE6">
-				<input type="text" placeholder="State / Province / Region" name="MERGE5" id="MERGE5">
-				<input type="text" placeholder="Country" name="MERGE8" id="MERGE8">
-			</div>
-			<button type="submit" class="submit" value="Submit">
-				<div class="content"><h6>Submit</h6></div>
-				<div class="cta-info"><div class="content"><h6>Submit</h6></div></div>
-				<IFRAME SRC="http://www.imiclk.com/cgi/r.cgi?m=3&mid=s7uurnQP&did=sign_up_email_button_conversion" FRAMEBORDER="0" SCROLLING="NO" WIDTH="0" HEIGHT="0"> </IFRAME>
-			</button>
-		</form>
+		<p>Please check back for curriculum details, or contact Graduate Admissions, 718.951.4536 or <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>, for more information.</p>
 	</div>
 </section>
 	</section>

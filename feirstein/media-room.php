@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Barry R. Feirstein Graduate School of Cinema - About Us</title>
+	<title>Barry R. Feirstein Graduate School of Cinema - Media Room</title>
 	<meta name="description" content="">
 	<meta name="title">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,7 +14,7 @@
 
 	<!-- meta -->
 	<!-- Google Meta -->
-	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - About Us">
+	<meta itemprop="name" content="Barry R. Feirstein Graduate School of Cinema - Media Room">
 	<meta itemprop="description" content="The Barry R. Feirstein Graduate School of Cinema at Steiner Studios, the first public graduate film school in New York, is looking for exceptional students.">
 	<meta itemprop="image" content="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/Facebook-Ad-1200x863.jpg">
 
@@ -125,7 +125,7 @@
 	</h1>
 	<nav>
 		<div class="menu">
-			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="menu-item"><span>Admissions</span></a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/admissions.php" class="menu-item"><span >Admissions</span></a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/academics.php" class="menu-item"><span>Academics</span></a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/facilities.php" class="menu-item"><span>Facilities</span></a>
 			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/about.php" class="menu-item active"><span>About Us</span></a>
@@ -155,60 +155,64 @@
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/contact-us.php" class="menu-item"><span>Contact</span></a>
 </div>	<section class="container">
 		<nav class="subnav centered">
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php" class="subnav-item">
-		<span>Letter from the director</span>
-	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php" class="subnav-item">
-		<span>Job Opportunities</span>
-	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
-		<span>Faculty</span>
-	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
-		<span>Founding Donors</span>
-	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php">
-		<span>Advisory Council</span>
-	</a>
-	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/media-room.php">
-		<span>Media Room</span>
-	</a>
-</nav>
-<section class="internal-page-hero" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/about-hero.jpg'); background-position: bottom">
-	<div class="overlay">
-		<div class="page-title pink">
-			<h3>About us</h3>
-			<div class="topblock"></div>
-			<div class="bottomblock"></div>
-		</div>
-	</div>
-</section>
-<section class="about-introduction" style="background-image: url('http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/about-introduction.jpg')">
-	<div class="overlay">
-		<h4 class="pink">The school</h4>
-		<p>The Barry R. Feirstein Graduate School of Cinema is the only film school in America to be built on a working film lot. Feirstein is housed at Steiner Studios in Brooklyn, the largest soundstage complex on the East Coast and home to many movies and TV productions. As the first public film school in New York, Feirstein is dedicated to diversity, inclusion and the cultivation of new and emerging voices in cinema.</p>
-		<p>Visit: <a href="http://www.steinerstudios.com" target=_blank""><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/steiner-studios-logo.png" alt="Steiner Studios logo"></a></p>
-		<img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/divider-pink-long.png" class="divider">
-		<p class="rolling" itemprop="description">Applications accepted on a rolling basis until all places are filled. For more information, contact the Office of Graduate Admissions at 718.951.4536 or e&#8209;mail <a href="mailto:feirstein@brooklyn.cuny.edu">feirstein@brooklyn.cuny.edu</a>.</p>
-		<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/feirsteingraduateapplication.php" target="_blank" class="cta warm">
-			<div class="content"><h6>Apply<br>now</h6></div>
-			<div class="cta-info"><div class="content"><h6>For<br>fall 2016</h6></div></div>
-		</a>
-	</div>
-</section>
-<section class="partners">
-	<div class="title"><h4>Partners</h4></div>
-	<div class="partners-list">
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/letter-from-the-director.php">
+				<span>Letter from the director</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/jobs.php">
+				<span>Job Opportunities</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/faculty.php">
+				<span>Faculty</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/donors.php">
+				<span>Founding Donors</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php">
+				<span>Advisory Council</span>
+			</a>
+			<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/media-room.php" class="active">
+				<span>Media Room</span>
+			</a>
+		</nav>
+
+<section class="advisory-council">
+	<div class="about-section-title">
 		<div class="wrap">
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_avid.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_miny.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_steiner.png"></div>
-			<!--<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>
-			<div class="item"><img src="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/images/sponsors_logo_placeholder.png"></div>-->
+			<div class="title"><h4>Media Room</h4></div>
+		</div>
+	</div>
+	<div class="content">
+		<div class="wrap">
+			<article>
+				<div class="faculty-top"></div>
+				<div class="bio">
+					<p>Please take a moment to explore our media room, complete with the latest press releases, college information and relevant contacts.</p>
+					<h5>Media Contact:</h5>
+					<p>Ernesto Mora<br>
+					 Media Relations Manager<br>
+					 Office: 718.951.5000, ext. 6377<br>
+					 Mobile: 212.662.9939<br>
+					<a href="mailto:emora@brooklyn.cuny.edu">emora@brooklyn.cuny.edu</a></p>
+					<p>Download a <a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/assets/Feirstein-Graduate-School-of-Cinema-2015-TM.pdf" target="_blank">fact sheet</a> (pdf) about the Feirstein Graduate School of Cinema.</p>
+					<h5>Feirstein in the Media</h5>
+					<p><a href="http://variety.com/2015/film/news/new-york-entertainment-industry-economic-impact-1201617954/">TV Boom Drives $8.7 Billion Production Spend in New York City — <em>Variety</em></a></p>
+					<p><a href="http://brooklyn.news12.com/news/brooklyn-college-launches-filmmaking-graduate-program-at-steiner-studios-1.9639298" target="_blank">Brooklyn College Launches Filmmaking Program — <em>Brooklyn News 12</em></a></p>
+					<p><a href="http://www.brownstoner.com/blog/2015/11/feirstein-school-of-cinema-brooklyns-brilliant-21st-century-film-school/" target="_blank">First Look at the Innovative Cinema School Designed to Drive the Future of Brooklyn Film — <em>Brownstoner</em></a></p>
+					<p><a href="http://www.voanews.com/content/new-york-tv-production-booming/3040002.html" target="_blank">TV Production Booming in New York — <em>Voice of America</em></a></p>
+					<p><a href="http://www.thirteen.org/metrofocus/2015/10/nys-film-tv-industry-rivals-hollywood/" target="_blank">NY&rsquo;s Film, TV Industry Rivals Hollywood — <em>Thirteen</em></a></p>
+					<p><a href="http://patch.com/new-york/fortgreene/brooklyn-college-now-has-graduate-film-school" target="_blank">Brooklyn College Now Has a Graduate Film School — <em>Patch</em></a></p>
+					<p><a href="http://nofilmschool.com/2015/10/nyc-first-public-graduate-school-cinema-now-open-affordable" target="_blank">NYC&rsquo;s First Public Graduate School for Cinema is Now Open &amp; is Pretty Affordable — <em>No Film School</em></a></p>
+					<p><a href="http://www.indiewire.com/article/new-york-city-opens-first-public-graduate-film-school-20151006" target="_blank">New York City Opens First Public Graduate Film School — <em>Indiewire</em></a></p>
+					<p><a href="http://www1.cuny.edu/mu/forum/2015/09/25/the-a-train-to-hollywood/" target="_blank">The A Train to Hollywood — <em>CUNY</em></a></p>
+					<p><a href="http://bcexcelsior.com/brooklyn-college-to-open-new-graduate-film-school/" target="_blank">Brooklyn College to Open New Graduate Film School — <em>The Excelsior</em></a></p>
+					<p><a href="http://webbyawards.com/winners/2015/websites/general-website/schooluniversity/feirstein-graduate-school-of-cinema/" target="_blank">Feirstein Graduate School of Cinema Website Wins Webby Award — <em>Webby Awards</em></a>  </p>
+					<p><a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/build/assets/100615-Feirstein-Coverage.pdf" target="_blank">Feirstein in the Media</a> (pdf)</p>
+				</div>
+			</article>
 		</div>
 	</div>
 </section>
+
 	</section>
 	<section class="visit-us">
 	<div class="headline">

@@ -170,6 +170,9 @@
 	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/council.php">
 		<span>Advisory Council</span>
 	</a>
+	<a href="http://www.brooklyn.cuny.edu/web/academics/schools/mediaarts/schools/feirstein/media-room.php">
+		<span>Media Room</span>
+	</a>
 </nav>
 <section class="founding-donors">
 	<div class="about-section-title">
